@@ -1,0 +1,1859 @@
+在言行上反对「一国两制」，实行「一切国家利益至上」的政策	反对		上至中央，下至特区官员	affect	inclination	neg	exp	东方日报	2000	12	1	
+一国两制」谋统一，更加不必再想	想	台湾	一国两制	affect	inclination	neg	exp	东方日报	2000	10	1	
+表示维护「一国两制」	维护	上至中央，下至特区官员	一国两制	affect	inclination	pos	exp	东方日报	2000	12	1	
+大家也有共同的愿望——我们真的想中国让我们自己搞「一国两制」	愿望	大家	一国两制	affect	inclination	pos	exp	东方日报	2000	11	1	
+「一国两制」在香港实施也引起很多抱怨	抱怨	吕秀莲	一国两制	affect	satisfaction	neg	exp	东方日报	2000	10	1	
+忠实反映民怨与民愤	民怨；民愤	香港传媒	特区政府	affect	satisfaction	neg	exp	东方日报	2000	12	1	
+如今香港领导班子一错再错，不知悔改，搞到民怨冲天，要劳烦中央领导安抚民心	民怨	民众	香港领导班子	affect	satisfaction	neg	exp	东方日报	2000	11	1	
+「一国两制」、「港人高度自治」的承诺哪里去了			一国两制	affect	satisfaction	neg	imp	东方日报	2000	12	1	
+必令台湾有更大的警觉	警觉	台湾	一国两制	affect	security	neg	exp	东方日报	2000	10	1	
+欧洲议会一项报告指出，一国两制运作虽然整体基本不变，但却出现一些事件，令人对特区司法独立、司法管治能力及新闻自由存有忧虑	忧虑	欧洲议会	一国两制	affect	security	neg	exp	东方日报	2000	10	1	
+大家有共同的担心——中国如何对待我们	担心	大家	中国	affect	security	neg	exp	东方日报	2000	11	1	
+ 朱又指出，北京相信结合所有人民及台湾爱国人士的力量，在「和平统一、一国两制」的原则下，可以早日实现完全统一	相信	北京	完全统一	affect	security	pos	exp	东方日报	2000	10	1	
+欧洲议会的报告表示有信心一国两制在香港可获贯彻	信心	欧洲议会	一国两制	affect	security	pos	exp	东方日报	2000	10	1	
+香港将失去作为中国通向世界之窗的价值			香港	appreciation	reaction	neg	imp	东方日报	2000	12	1	
+一国两制是北京定出的游戏规则，能允许保留一些自由的条文，已是皇恩浩荡			一国两制	appreciation	valuation	pos	imp	东方日报	2000	10	1	
+「一国两制」的理想只有灭亡	灭亡		一国两制	appreciation	reaction	neg	imp	东方日报	2000	12	1	
+「一国两制」的迷失	迷失		一国两制	appreciation	reaction	neg	imp	东方日报	2000	10	1	
+一国两制理论落实	落实		一国两制	appreciation	reaction	pos	exp	东方日报	2000	10	1	
+吕秀莲认为，「一国两制」不适用于台湾	适用	吕秀莲	一国两制	appreciation	valuation	neg	imp	东方日报	2000	10	1	
+不理「劝喻」，则是协助中方「更好地」执行一国两制			不理「劝喻」	appreciation	valuation	pos	imp	东方日报	2000	10	1	
+如今香港领导班子一错再错，不知悔改，搞到民怨冲天，要劳烦中央领导安抚民心	一错再错		香港领导班子	judgement	capacity	neg	exp	东方日报	2000	11	1	
+中国有能力按照「和平统一，一国两制」的模式达成两岸统一	能力		中国	judgement	capacity	pos	exp	东方日报	2000	12	1	
+回归以来，上至中央，下至特区官员似乎都处于精神纷乱状态	精神纷乱		上至中央，下至特区官员	judgement	normality	neg	exp	东方日报	2000	12	1	
+围攻、审问董建华	围攻；审问		他们	judgement	propriety	neg	exp	东方日报	2000	09	1	
+「证明」一国两制失败	“证明”		他们	judgement	propriety	neg	imp	东方日报	2000	09	1	
+政协委员兼商家的胡应湘先生认为有些人逢中必反，要一国两制不成功	逢中必反；破坏	胡应湘	有些人	judgement	propriety	neg	imp	东方日报	2000	11	1	
+这次特殊安排是为「澄清社会上一些揣测，巩固市民对一国两制的信心」	巩固；澄清	陈方安生		judgement	propriety	pos	exp	东方日报	2000	10	1	
+视之为这是欧盟对「一国两制」执行成功的最大确认		特区许多人	欧盟	judgement	propriety	pos	imp	东方日报	2000	12	1	
+香港传媒就是以事实为依归，翔实报道特区政府施政的种种谬误和过失，忠实反映民怨与民愤，这就是对一国两制的最有力的实践	事实；翔实；忠实		香港传媒	judgement	propriety	pos	imp	东方日报	2000	12	1	
+特区政府施政的种种谬误和过失	谬误；过失	香港传媒	特区政府	judgement	tenacity	neg	exp	东方日报	2000	12	1	
+ 陈云林说，大陆将继续执行「和平统一、一国两制」的基本方针	继续	陈云林	大陆	judgement	tenacity	pos	exp	东方日报	2000	09	1	
+中国有决心按照「和平统一，一国两制」的模式达成两岸统一	决心		中国	judgement	tenacity	pos	exp	东方日报	2000	12	1	
+李主席对一国两制的言论，似乎比香港那些所谓「爱国爱港人士」更明白个中精神			李主席	judgement	tenacity	pos	imp	东方日报	2000	11	1	
+ 港府则发表声明，表示得悉美国国务院发表的报告，对香港成功落实一国两制感到自豪	自豪	港府	一国两制	affect	happiness	pos	exp	东方日报	2001	08	1	
+台湾无法接受北京提出的「一国两制」	接受	台湾	一国两制	affect	inclination	neg	exp	东方日报	2001	05	1	
+陈水扁总统借在巴拿马国会演讲，再次宣示无法接受大陆的「一国两制」	接受	陈水扁	一国两制	affect	inclination	neg	exp	东方日报	2001	05	1	
+谢长廷昨日就说「将来会成为反对一国两制的最好教材	反对	谢长廷	一国两制	affect	inclination	neg	exp	东方日报	2001	06	1	
+老百姓以选票，展现对一国两制认受性下降的意向	认受性	台湾老百姓	一国两制	affect	inclination	neg	exp	东方日报	2001	12	1	
+ 民进党不是从来就反对「一国两制」吗？	反对	民进党	一国两制	affect	inclination	neg	exp	东方日报	2001	06	1	
+台湾不能接受大陆的「一国两制」主张	接受	台湾	一国两制	affect	inclination	neg	exp	东方日报	2001	08	1	
+其实两个考虑都是放弃了香港有「一国两制」的功能以及向台湾「示范」的责任	放弃		一国两制的功能	affect	inclination	neg	exp	东方日报	2001	11	1	
+「一国两制」在台湾还不是有很大市场		台湾	一国两制	appreciation	reaction	neg	imp	东方日报	2001	12	1	
+江泽民在大会的发言中，强调今后继续坚持「一国两制」的国策		江泽民	一国两制	affect	inclination	pos	exp	东方日报	2001	05	1	
+英国、葡萄牙选择了前者	选择	英国；葡萄牙	一国两制	affect	inclination	pos	exp	东方日报	2001	12	1	
+江核心对港澳「一国两制」成功实施的重视及期望	期望	江核心	一国两制	affect	inclination	pos	exp	东方日报	2001	02	1	
+民意调查显示，赞同「一国两制」和平统一的台湾人已跳升到将近一半	赞同	台湾人	一国两制	affect	inclination	pos	exp	东方日报	2001	07	1	
+田中此番言论被外界认为意指日本政府希望台湾像香港一样采用「一国两制」方式回归大陆	希望	日本政府	一国两制	affect	inclination	pos	exp	东方日报	2001	12	1	
+我们将继续坚持『一国两制』的基本方针，全面落实现阶段发展两岸关系	坚持		一国两制	affect	inclination	pos	exp	东方日报	2001	10	1	
+坚持『一国两制』	坚持	他	一国两制	affect	inclination	pos	exp	东方日报	2001	05	1	
+这种智慧亦是香港所有的「在野」政党、立法会议员应该学习的	学习		一国两制	appreciation	valuation	pos	imp	东方日报	2001	04	1	
+ 钱其琛重申「一个中国」	重申	钱其琛	一国两制	affect	inclination	pos	imp	东方日报	2001	04	1	
+向台湾显示中共中央对「一国两制」的决心		中共中央	一国两制	affect	inclination	pos	imp	东方日报	2001	04	1	
+文章对「一国两制」的质疑	质疑	文章	一国两制	affect	satisfaction	neg	exp	东方日报	2001	09	1	
+可见一国两制已荡然无存	荡然无存	市民	一国两制	affect	valuation	neg	exp	东方日报	2001	12	1	
+欧盟的决定，反映了她们认识并承认此「一国两制」了	承认	欧盟	一国两制	affect	satisfaction	pos	exp	东方日报	2001	03	1	
+最终是会断送「一国两制」的呀	断送			appreciation	reaction	neg	exp	东方日报	2001	08	1	
+对一国两制的信心的评分也下降	信心		一国两制	affect	security	neg	exp	东方日报	2001	01	1	
+香港的「一国两制」却成为一个考验	考验		一国两制	appreciation	reaction	neg	imp	东方日报	2001	03	1	
+欧盟对「一国两制」充满信心	信心	欧盟	一国两制	affect	security	pos	exp	东方日报	2001	03	1	
+让港人对「一国两制」的国策，尚仍存点点的幻想	幻想	港人	一国两制	affect	security	pos	imp	东方日报	2001	12	1	
+「一国两制」的死结正在于此：容许「两制」存在，即承认一制优、一制劣	死结		一国两制	appreciation	composition	neg	imp	东方日报	2001	07	1	
+一国两制，「一国」压倒一切			一国两制	appreciation	composition	neg	imp	东方日报	2001	10	1	
+我觉得呢件事可以反映一国两制，有时都有限制	限制	我	一国两制	appreciation	reaction	neg	exp	东方日报	2001	08	1	
+因此使人感到货不对办	货不对板		一国两制	appreciation	reaction	neg	exp	东方日报	2001	06	1	
+「一国两制」才制造分化，至今不准大陆人自由来港	分化		一国两制	appreciation	reaction	neg	exp	东方日报	2001	04	1	
+民进党可以振振有词，所谓「一国两制」是假的	假的	民进党	一国两制	appreciation	reaction	neg	exp	东方日报	2001	06	1	
+可能《财富》看淡「一国两制」的实施	看淡	《财富》	一国两制	appreciation	reaction	neg	exp	东方日报	2001	05	1	
+一国两制，惨沦为「一区两视」	惨沦		一国两制	appreciation	reaction	neg	exp	东方日报	2001	07	1	
+所谓「一国两制」就是在台湾的「中华民国」必须被消灭、必须死亡，变成「中华人民共和国」的一部分		陈水扁	一国两制	appreciation	reaction	neg	imp	东方日报	2001	05	1	
+香港人权保障在所谓的「一国两制」下变得岌岌可危		法轮功组织	一国两制	appreciation	reaction	neg	imp	东方日报	2001	05	1	
+「一国两制」能否落实，只是有身家、有地位，望出头的人关心	关心		一国两制	appreciation	reaction	neg	imp	东方日报	2001	02	1	
+原来一国两制是这个意思			一国两制	appreciation	reaction	neg	imp	东方日报	2001	11	1	
+「一国两制」的大智慧	智慧		一国两制	appreciation	valuation	pos	exp	东方日报	2001	04	1	
+一国两制是绝佳构想	绝佳	他	一国两制	appreciation	valuation	pos	exp	东方日报	2001	01	1	
+这些乐意的用家，自然亦会视之为「伟大构想」，系一种「恩赐」		英国；葡萄牙	一国两制	appreciation	valuation	pos	exp	东方日报	2001	12	1	
+事实证明「一国两制」得到落实	落实	他	一国两制	appreciation	reaction	pos	exp	东方日报	2001	09	1	
+董建华表示本港已成功落实「一国两制」	成功	董建华	本港	judgement	tenacity	pos	exp	东方日报	2001	12	1	
+成功落实一国两制	成功	董建华	本港	judgement	tenacity	pos	exp	东方日报	2001	03	1	
+香港实行「高度自治」，但前提是「一国两制」	前提		一国两制	appreciation	valuation	pos	exp	东方日报	2001	05	1	
+一国两制和基本法得以全面贯彻实施	贯彻实施	朱镕基	一国两制	appreciation	reaction	pos	exp	东方日报	2001	03	1	
+一国两制」在香港得到落实、成功运作	落实；成功	他	一国两制	appreciation	reaction	pos	exp	东方日报	2001	09	1	
+「一国两制、港人治港」的原则落实	落实		一国两制	appreciation	reaction	pos	exp	东方日报	2001	02	1	
+「一国两制」精神是平等			一国两制	appreciation	composition	pos	exp	东方日报	2001	07	1	
+说明一国两制确实成功了	成功	我	一国两制	appreciation	valuation	pos	exp	东方日报	2001	11	1	
+『一国两制、港人治港、高度自治』是一个新鲜事物	新鲜事物		一国两制	appreciation	reaction	pos	exp	东方日报	2001	01	1	
+所谓的「一国两制」	所谓的	法轮功组织	一国两制	appreciation	valuation	neg	imp	东方日报	2001	05	1	
+「一国两制、港人治港、高度自治」方针，是中国政府对香港特区的长期基本国策		江泽民	一国两制	appreciation	valuation	pos	exp	东方日报	2001	05	1	
+董当日演讲再强调「一国两制」的重要	重要	董建华	一国两制	appreciation	valuation	pos	exp	东方日报	2001	12	1	
+这也是作为特区政府的责任，也是「一国两制」精神所在	精神所在		一国两制	appreciation	valuation	pos	exp	东方日报	2001	08	1	
+收回香港实行「一国两制」，其中主要的思想基础就是让香港的生活文化可享自由生长权			一国两制	appreciation	valuation	pos	imp	东方日报	2001	08	1	
+全港舆论欢呼为「一国两制」的体现		全港舆论	一国两制	appreciation	valuation	pos	imp	东方日报	2001	08	1	
+它是台湾未来的出路	出路	他	一国两制	appreciation	valuation	pos	imp	东方日报	2001	01	1	
+一国两制顾名思义香港有独立的制度，除了外交和军事外，其他决策都由香港掌握			一国两制	appreciation	valuation	pos	imp	东方日报	2001	10	1	
+利用「一国两制」的互补因素，北上深圳和中原大地走一走	互补因素		一国两制	appreciation	valuation	pos	imp	东方日报	2001	07	1	
+在「一国两制」下，香港拥有独立的出入境政策	谢连忠		一国两制	appreciation	valuation	pos	imp	东方日报	2001	07	1	
+在「一国两制」概念下维持自由开放和法治社会		陈方安生	一国两制	appreciation	valuation	pos	imp	东方日报	2001	11	1	
+符合中港两地的实际情况，使收回香港更顺利			一国两制	appreciation	valuation	pos	imp	东方日报	2001	04	1	
+林焕光竟然抬出「一国两制」，声称大陆可以赌波，特区毋须跟随，真系令人摇头苦笑	摇头苦笑		林焕光	judgement	capacity	neg	exp	东方日报	2001	09	1	
+香港政府无力改革中国	无力		香港政府	judgement	capacity	neg	exp	东方日报	2001	08	1	
+那又如何能推行爱国教育，落实一国两制中一国的概念呢？			高官	judgement	capacity	neg	imp	东方日报	2001	03	1	
+标记令他「武功」尽废			李少民	judgement	capacity	neg	imp	东方日报	2001	07	1	
+评估过他搜集情报的杀伤力既是负二			李少民	judgement	capacity	neg	imp	东方日报	2001	07	1	
+何必给人抨击一国两制的借口				judgement	capacity	pos	exp	东方日报	2001	07	1	
+如此等等放弃一国两制精神的媚共言行	媚		董建华	judgement	propriety	neg	exp	东方日报	2001	12	1	
+《文汇报》指控法轮功学员企图利用香港「一国两制」的条件搞分化	搞分化	文汇报	法轮功学员	judgement	propriety	neg	exp	东方日报	2001	01	1	
+港人被内地公安无理扣押或勒索	无理扣押；勒索		内地公安	judgement	propriety	neg	exp	东方日报	2001	03	1	
+周局长批评香港人「自私」，只根据利益，时要一国，时要两制，破坏一国两制	破坏	周局长	香港人	judgement	propriety	neg	exp	东方日报	2001	10	1	
+这样顺从中共政权的姿态，严重破坏「一国两制」的原则	破坏		香港政府	judgement	propriety	neg	exp	东方日报	2001	06	1	
+他破坏一国两制	破坏		中联办的小京官	judgement	propriety	neg	exp	东方日报	2001	12	1	
+他要打击的，不是法轮功，而是「一国两制」和香港的法治根基	打击		董建华	judgement	propriety	neg	imp	东方日报	2001	06	1	
+李少民已被国家在面上刻上「间谍」刺青			李少民	judgement	propriety	neg	imp	东方日报	2001	07	1	
+董老在马会之内活动，正是身体力行用行动来执行邓小平生前「马照跑」的一国两制承诺	身体力行		董建华	judgement	propriety	pos	exp	东方日报	2001	12	1	
+这也是作为特区政府的责任			香港政府	judgement	propriety	pos	exp	东方日报	2001	08	1	
+但基于「一国两制」的原则，本港不会向中央寻求协助		梁锦松	本港	judgement	propriety	pos	imp	东方日报	2001	10	1	
+当局竟称「一国两制」下无能为力	竟；无能为力		保安局	judgement	tenacity	neg	exp	东方日报	2001	03	1	
+必定有力保障香港人在内地的人身安全	有力		香港政府	judgement	tenacity	pos	exp	东方日报	2001	08	1	
+中国经改正需要集资以及融资，同时也要认识及掌握资本主义的市场经济、金融贸易、股票市场的运作以及其精髓所在			一国两制	appreciation	valuation	pos	imp	东方日报	2001	04	1	
+中央坚持执行「一国两制、港人治港」的国策	坚持		中国	judgement	tenacity	pos	exp	东方日报	2001	05	1	
+ 中央一直以来不断向国际社会矢志维护香港「一国两制」	矢志		中央	judgement	tenacity	pos	exp	东方日报	2001	01	1	
+是故，无论甚么代价都要使到「一国两制，港人治港」成功			政府？	judgement	tenacity	pos	imp	东方日报	2001	09	1	
+是故，无论甚么代价都要使到「一国两制，港人治港」成功				judgement	tenacity	pos	imp	东方日报	2001	09	1	
+市民眼见政府如何在施政上受中央唆摆（钦点下一届特首亦是路人皆见），可见董特首大概是痴人说梦	痴人说梦	市民	董建华	judgement	veracity	neg	exp	东方日报	2001	12	1	
+台湾如此抗拒一国两制	抗拒	台湾	一国两制	affect	inclination	neg	exp	东方日报	2002	04	1	
+表示不愿置评	不愿	中央驻港官员	评价	affect	inclination	neg	exp	东方日报	2002	10	1	
+市民对「一国两制」看淡	看淡	市民	一国两制	affect	inclination	neg	exp	东方日报	2002	04	1	
+七成民众对「一国两制」持反对立场	反对	台湾民众	一国两制	affect	inclination	neg	exp	东方日报	2002	08	1	
+全澳各地台侨团体于是便组织三百多民众，昨天高举「反独裁、促民主」、「支持一中一台」、「反对中共并吞台湾」、「反对一国两制」等标语	反对	台侨团体	一国两制	affect	inclination	neg	exp	东方日报	2002	02	1	
+台湾也未必动心啦	动心	台湾	一国两制	affect	inclination	neg	exp	东方日报	2002	05	1	
+努力实现一国两制	实现	公交报	一国两制	affect	inclination	pos	exp	东方日报	2002	12	1	
+但钱其琛同时也表示，大陆将继续坚持「和平统一，一国两制」的基本方针	坚持	钱其琛	一国两制	affect	inclination	pos	exp	东方日报	2002	09	1	
+胡再三强调新班子会一如既往，紧守「一国两制」	紧守	新班子	一国两制	affect	inclination	pos	exp	东方日报	2002	12	1	
+他在三藩市出席最后一项公开活动时强调，北京在台湾问题上将坚持和平统一、一国两制	坚持	胡锦涛	一国两制	affect	inclination	pos	exp	东方日报	2002	05	1	
+我们将继续坚持和平统一、一国两制的基本方针	坚持	我们	一国两制	affect	inclination	pos	exp	东方日报	2002	05	1	
+建议香港政府依法办事	建议	中央驻港官员	依法办事	affect	inclination	pos	exp	东方日报	2002	10	1	
+中央政府为了向国内外宣示「一国两制」成功落实		中央政府	一国两制	affect	inclination	pos	imp	东方日报	2002	07	1	
+他仍重申「和平统一、一国两制	重申	胡锦涛	一国两制	affect	inclination	pos	imp	东方日报	2002	05	1	
+国家主席江泽民在谈到台湾问题时重申「和平统一、一国两制」的基本方针	重申	江泽民	一国两制	affect	inclination	pos	imp	东方日报	2002	02	1	
+笔者经常觉得「橱窗论」好可笑，以所谓甚么港澳作「示范」吸引台湾接受「一国两制」，简直系白痴	可笑	笔者	橱窗论	affect	satisfaction	neg	exp	东方日报	2002	05	1	
+当大陆要将台湾的现状改变为「一国两制」，成为第二个香港及澳门时，应先问问台湾二千三百万人的意见		游锡堃	大陆	affect	satisfaction	neg	imp	东方日报	2002	08	1	
+赞扬特首董建华过去五年最突出的治绩是贯彻一国两制	赞扬	王凤超	董建华	affect	satisfaction	pos	exp	东方日报	2002	07	1	
+担心第廿三条立法变成把内地法律引入香港的一道桥梁，影响「一国两制」	担心	陈日君	一国两制	affect	security	neg	exp	东方日报	2002	10	1	
+一国两制是一个哲理问题，两制的行政和政治界线不能含糊，特区始终是施行普通法、言论自由和人权受法例保障的特区，这一点，特区不能影响中国内地，而内地也不会试图改变特区			一国两制	appreciation	composition	pos	imp	东方日报	2002	11	1	
+立法只会打击香港一国两制及国际都市的形象			立法	appreciation	reaction	neg	imp	东方日报	2002	03	1	
+推销「一国两制」，贬低台湾为地方政府	叶国兴		一国两制	appreciation	reaction	neg	imp	东方日报	2002	11	1	
+香港已是一国两制的反面教材	负面教材		香港	appreciation	reaction	neg	imp	东方日报	2002	08	1	
+这是「一国两制」的原先构想吗			一国两制	appreciation	reaction	neg	imp	东方日报	2002	08	1	
+平统一的前景			和平统一	appreciation	reaction	pos	exp	东方日报	2002	12	1	
+「一国两制」中的「两制模糊化」，是历史大势所趋	大势所趋		两制模糊化	appreciation	reaction	pos	exp	东方日报	2002	07	1	
+台湾问题兹事体大，已达「国事」层面	兹事体大		台湾问题	appreciation	reaction	pos	exp	东方日报	2002	12	1	
+施则认为香港回归五年后，「一国两制」实施顺利及成功	顺利；成功	施仲宏	一国两制	appreciation	reaction	pos	exp	东方日报	2002	07	1	
+强调「一国两制」意义	意义		一国两制	appreciation	valuation	pos	exp	东方日报	2002	11	1	
+亦充分体现一国两制耳	体现		一国两制	appreciation	valuation	pos	exp	东方日报	2002	09	1	
+江泽民考虑首要是宣示「一国两制」的成功	成功	江泽民	一国两制	appreciation	valuation	pos	exp	东方日报	2002	07	1	
+「一国两制」完全「行得通」		江泽民	一国两制	appreciation	reaction	pos	imp	东方日报	2002	07	1	
+一国两制，和平统一」的号召并没有收到成效	成效		一国两制	appreciation	valuation	neg	exp	东方日报	2002	02	1	
+特区不必向中央交税，特民不必当兵，一国两制，已占尽特权便宜			一国两制	appreciation	valuation	pos	imp	东方日报	2002	11	1	
+董建华治港败绩，拖累市民对「一国两制」看淡	败绩		董建华	judgement	capacity	neg	exp	东方日报	2002	04	1	
+而香港这几年自顾尚且不暇，哪还顾得到原本「一国两制」是要对台湾起典范作用这项任务	自顾不暇		香港	judgement	capacity	neg	exp	东方日报	2002	12	1	
+支联会主席司徒华指钱其琛「心中有鬼」的言论破坏一国两制	破坏	支联会主席司徒华	钱其琛	judgement	propriety	neg	exp	东方日报	2002	10	1	
+这些言论，绝不能视为个人言论，更损害一国两制的实行	损害		这些言论	judgement	propriety	neg	exp	东方日报	2002	10	1	
+好多人睇住一国两制衰，佢哋就得益		他	好多人	judgement	propriety	neg	imp	东方日报	2002	10	1	
+陈水扁说马英九是香港出生的，是香港脚，将走香港路，把台湾也变成香港的「一国两制」		陈水扁	马英九	judgement	propriety	neg	imp	东方日报	2002	09	1	
+特府显然是想管也管不了，这就是一国两制的规范			政府	judgement	propriety	pos	imp	东方日报	2002	12	1	
+中央对重大问题作出一系列重要指示和部署，为「一国两制」的实践指明了方向		高祀仁	中央	judgement	propriety	pos	imp	东方日报	2002	11	1	
+避免介入特区事务，免招致破坏一国两制的话柄			中央驻港官员	judgement	propriety	pos	imp	东方日报	2002	10	1	
+他还在夸夸其谈所谓「问责制」	夸夸其谈		董建华	judgement	tenacity	neg	exp	东方日报	2002	04	1	
+特首董建华过去五年最突出的治绩是贯彻一国两制	贯彻	王凤超	董建华	judgement	tenacity	pos	exp	东方日报	2002	07	1	
+我们将继续坚持「和平统一、一国两制」的基本方针	坚持		我们	judgement	tenacity	pos	exp	东方日报	2002	12	1	
+尽最大的努力	努力		我们	judgement	tenacity	pos	exp	东方日报	2002	12	1	
+中央政府自九七年回归之后，就不但只是口头上强调要履行「一国两制」的承诺，而且以身体力行	身体力行		中央政府	judgement	tenacity	pos	exp	东方日报	2002	03	1	
+保证「任何情况下全面正确贯彻一国两制」		江泽民		judgement	tenacity	pos	imp	东方日报	2002	07	1	
+最大的诚意	诚意		我们	judgement	veracity	pos	exp	东方日报	2002	12	1	
+陈水扁参与党内初选的六大政见，包括坚持海峡两岸一边一国，反对「一个中国」、「一国两制」	反对	陈水扁	一国两制	affect	inclination	neg	exp	东方日报	2003	11	2	
+香港如何能对台湾推销「一国两制」呢		台湾	一国两制	affect	inclination	neg	imp	东方日报	2003	01	1	
+中央仍然希望能继续保持香港的经济和社会稳定，保证「一国两制」政策的实施	希望	中央	一国两制	affect	inclination	pos	exp	东方日报	2003	11	2	
+强调继续宣传和平统一，一国两制的方针和发展两岸关系		？	一国两制	affect	inclination	pos	imp	东方日报	2003	03	1	
+我相信，如果「一国两制」政策在香港好似澳门那样取得巨大成功，那么将对两岸和平统一大业产生巨大推动力	成功	我	一国两制	appreciation	valuation	pos	exp	东方日报	2003	08	2	
+真系好笑嘞！一国两制，生活方式五十年不变	好笑		一国两制	affect	satisfaction	neg	exp	东方日报	2003	03	1	
+扁将再度批评「一国两制	批评	陈水扁	一国两制	affect	satisfaction	neg	exp	东方日报	2003	08	2	
+否定一国两制六年	否定		自命民主的人	affect	satisfaction	neg	exp	东方日报	2003	05	1	
+他呼吁北京修正一国两制的对台方针	修正	他	一国两制	affect	satisfaction	neg	imp	东方日报	2003	01	1	
+在中国主权下，『一国两制』的生活是怎样的？你看见我跑来台湾参加研讨会，但是还是一个研讨会，为甚么有这么多压力		她	一国两制	affect	satisfaction	neg	imp	东方日报	2003	08	2	
+赞扬其纲领内容「与时俱进」及坚持「一国两制」原则	赞扬	曾庆红	民建联	affect	satisfaction	pos	exp	东方日报	2003	09	2	
+担心继续进行立法会打击台湾民众对「一国两制」的信心	担心	中央	立法	affect	security	neg	exp	东方日报	2003	09	2	
+生活在「一国两制」之中，而又要不信任它	不信任		一国两制	affect	security	neg	exp	东方日报	2003	08	2	
+对特区身为「一国两制」的另一制特色形成更大的挑战	挑战		一国两制	affect	security	neg	imp	东方日报	2003	06	1	
+民主派不断破坏自己一国两制的信念	信念	民主派	一国两制	affect	inclination	pos	exp	东方日报	2003	09	2	
+市民对「一国两制」很有信心	信心	市民	一国两制	affect	security	pos	exp	东方日报	2003	08	2	
+一国两制的界线亦渐趋模糊	模糊		一国两制	appreciation	composition	neg	exp	东方日报	2003	10	2	
+以便特区之记者日夜警惕，好醒醒定定，注意一国两制，一国为先			一国两制	appreciation	composition	neg	imp	东方日报	2003	01	1	
+「一国两制」最基本者乃是法律制度上的「两制」	基本	唐德华	一国两制	appreciation	composition	pos	imp	东方日报	2003	03	1	
+今日的「危机」是如何使香港人信赖及支持现行的「一国两制、港人治港」模式	危机		危机	appreciation	reaction	neg	exp	东方日报	2003	07	2	
+一国两制可以说技术上已败阵下来	败阵		一国两制	appreciation	reaction	neg	exp	东方日报	2003	10	2	
+这个奇怪念头	奇怪		一国两制	appreciation	reaction	neg	exp	东方日报	2003	09	2	
+有台湾朋友对笔者说，一国两制对台湾没有甚么卖点	卖点	台湾朋友	一国两制	appreciation	reaction	neg	exp	东方日报	2003	10	2	
+甚么唱衰一国两制、支持台独		两名议员	一国两制	appreciation	reaction	neg	exp	东方日报	2003	08	2	
+这与「一国两制」的原则相违背	违背		这	appreciation	reaction	neg	exp	东方日报	2003	03	1	
+一国两制的政治安排，在很大程度上，延续了殖民地时期的特色			一国两制	appreciation	reaction	neg	imp	东方日报	2003	01	1	
+「一国两制」应不是唯一选择			一国两制	appreciation	reaction	neg	imp	东方日报	2003	03	1	
+他亦强调一国两制以消灭「中华民国」为出发点	消灭	他	一国两制	appreciation	reaction	neg	imp	东方日报	2003	01	1	
+在台湾没有市场			一国两制	appreciation	reaction	neg	imp	东方日报	2003	01	1	
+它只是手段，不是目的	只是		一国两制	appreciation	reaction	neg	imp	东方日报	2003	09	2	
+她说，传媒的批评无异传达给国际社会「一国两制」是不能谈的讯息印象	不能谈	她	一国两制	appreciation	reaction	neg	imp	东方日报	2003	08	2	
+事实亦证明「一国两制」在香港实施成功	成功	他	一国两制	appreciation	valuation	pos	exp	东方日报	2003	07	2	
+一国两制、高度自治、港人治港，内里所充满的，是包涵最大的妥协精神，这亦是世界上最高的政治艺术与政治智慧	艺术；智慧		一国两制	appreciation	valuation	pos	exp	东方日报	2003	09	2	
+香港的繁荣稳定，关系到一国两制的大事，这是党中央和国务院非常关心的事情	大事	党中央和国务院	一国两制	appreciation	reaction	pos	exp	东方日报	2003	09	2	
+他续指，「一国两制」一直在香港和澳门成功实践	成功	他	一国两制	appreciation	valuation	pos	exp	东方日报	2003	07	2	
+「一国两制」不能夭折，不能出错			一国两制	appreciation	reaction	pos	imp	东方日报	2003	07	2	
+一国两制容许不同意见			一国两制	appreciation	reaction	pos	imp	东方日报	2003	07	2	
+要立法后坚持「一国两制」大原则，市民与传媒都不用担心		田北俊	一国两制	appreciation	reaction	pos	imp	东方日报	2003	07	2	
+特区政府的作为都被台湾作为反宣传的材料		台湾	特区政府的作为	appreciation	valuation	neg	exp	东方日报	2003	01	1	
+田北辰强调，全面提升港人的语文能力，是本港维持一国两制、繁荣安定的关键因素		田北辰	提升语文能力	appreciation	valuation	pos	imp	东方日报	2003	01	1	
+特区其实一直都享有「一国两制、港人治港、高度自治」，中央对香港事务并无插手干预			一国两制	appreciation	valuation	pos	imp	东方日报	2003	06	1	
+一国两制，两地法律有别			一国两制	appreciation	valuation	pos	imp	东方日报	2003	03	1	
+港人实行「一国两制」实行得好	好		港人	judgement	capacity	pos	exp	东方日报	2003	11	2	
+两名议员前往台湾，出席台独团体主办的研讨会，引来左派口诛笔伐，	口诛笔伐	左派	两名议员	judgement	propriety	neg	exp	东方日报	2003	08	2	
+亲中派就不断在损害自己的国策	损害		亲中派	judgement	propriety	neg	exp	东方日报	2003	09	2	
+他们要见你，如果进行调查，亦有违一国两制	有违		他们	judgement	propriety	neg	exp	东方日报	2003	06	1	
+生活在「一国两制」之中，而又要伤害它	伤害；			judgement	propriety	neg	exp	东方日报	2003	08	2	
+统统都不自觉地在违背着一国两制的精神，甚至是在不断破坏一国两制的运作	违背；破坏		民主派；爱过阵营	judgement	propriety	neg	imp	东方日报	2003	09	2	
+《洛杉矶时报》的社论则指出为二十三条立法，则可会扼杀香港的经济及杀死中国会生金蛋的鹅，亦会损害「一国两制」	扼杀；损害	洛杉矶时报	香港政府	judgement	propriety	neg	imp	东方日报	2003	07	2	
+仍有人和政党自以为是，与民为敌，怂恿政府如期立法，他们根本不是为香港人着想，亦非为一国两制谋福祉	自以为是；怂恿		有人和政党	judgement	propriety	neg	imp	东方日报	2003	07	2	
+这样做会令问题变得更大，如受到国际谴责，并怀疑「一国两制」已经完蛋			这样做	judgement	propriety	neg	imp	东方日报	2003	07	2	
+曾司长力撑特区传媒，捍卫一国两制	捍卫		曾司长	judgement	propriety	pos	exp	东方日报	2003	03	1	
+曾庆红对民建联的纲领了如指掌，赞扬其纲领内容「与时俱进」及坚持「一国两制」原则	坚持	曾庆红	民建联	judgement	tenacity	pos	exp	东方日报	2003	09	2	
+中国恢复对香港行使主权后贯彻「一国两制」	贯彻实施		中国	judgement	tenacity	pos	exp	东方日报	2003	12	2	
+总理朱镕基发表讲话，强调继续贯彻「一国两制」方针	继续	朱镕基	中央？	judgement	tenacity	pos	exp	东方日报	2003	02	1	
+中央领导层坚持一国两制方针政策不变	坚持	全国人大常委曾宪梓	中央领导	judgement	tenacity	pos	exp	东方日报	2003	07	2	
+董就任以来恪尽职守、兢兢业业，为「一国两制」的成功实践，及保持香港的繁荣稳定，做了大量工作	恪尽职守；兢兢业业	他	董建华	judgement	tenacity	pos	imp	东方日报	2003	09	2	
+胡锦涛又重申反对台独	反对	胡锦涛	台独	affect	inclination	neg	exp	东方日报	2004	09	2	
+对台湾「选手」来说，就是赶客	赶客	台湾选手	一国两制	affect	inclination	neg	exp	东方日报	2004	02	2	
+台人难以接受「一个中国」或「一国两制」	接受	台人	一国两制	affect	inclination	neg	exp	东方日报	2004	04	2	
+反对中共「一国两制」	反对	台湾	一国两制	affect	inclination	neg	exp	东方日报	2004	02	2	
+他又同时重弹老调，不能接受「一国两制	接受	陈水扁	一国两制	affect	inclination	neg	exp	东方日报	2004	02	2	
+我们要求特区政府依一国两制，按照《基本法》，积极推行港人民主治港	要求	笔者与其他十七位议员	积极推行港人民主治港	affect	inclination	pos	exp	东方日报	2004	01	2	
+希望有系统地向香港各界教育《基本法》及「一国两制」的体系及其基本理论	希望	她	教育《基本法》及「一国两制」	affect	inclination	pos	exp	东方日报	2004	03	2	
+贾庆林表示，实现祖国的完全统一，是包括黄埔同学在内的全体中华儿女的共同心愿	心愿	全体中华儿女	统一	affect	inclination	pos	exp	东方日报	2004	06	2	
+他指，是次中共十六届四中全会建议，要在「一国两制」有新的做法		中共十六届四中全会	新的做法	affect	inclination	pos	exp	东方日报	2004	09	2	
+中国政府坚持一个中国和「一国两制」的方针	坚持	中国政府	一国两制	affect	inclination	pos	exp	东方日报	2004	07	2	
+唐强调大陆将继续「和平统一、一国两制」	继续	大陆	一国两制	affect	inclination	pos	imp	东方日报	2004	01	2	
+北京还希望它可以在台湾找到归宿	希望	北京	一国两制	affect	inclination	pos	exp	东方日报	2004	02	2	
+邓公生前矢言落实一国两制、港人治港	矢言	邓小平	一国两制	affect	inclination	pos	exp	东方日报	2004	08	2	
+香港应该将焦点摆在落实「一国两制」	焦点	香港	一国两制	affect	inclination	pos	imp	东方日报	2004	06	2	
+胡锦涛又重申以和平统一、一国两制的基本方针和江八点主张发展与台湾各界的关系		胡锦涛	一国两制	affect	inclination	pos	imp	东方日报	2004	09	2	
+李扁不是一再抨击香港实行的「一国两制」吗	抨击	李登辉；陈水扁	一国两制	affect	satisfaction	neg	exp	东方日报	2004	03	2	
+港人已逐渐形成共识，	共识	港人	一国两制	affect	satisfaction	pos	exp	东方日报	2004	03	2	
+作为亲身体验「一国两制」的过来人，客观地看，绝大多数的香港人，包括回流人士似乎更肯定以香港为安身立命之所	肯定	绝大多数香港人	一国两制	affect	satisfaction	pos	imp	东方日报	2004	05	2	
+「一国两制」是以「一国」为大前提，若没有国家，香港又何来两制		声明	一国两制	appreciation	composition	pos	imp	东方日报	2004	03	2	
+阿扁不是说香港「一国两制」失败了	失败	陈水扁	一国两制	appreciation	reaction	neg	exp	东方日报	2004	02	2	
+此等统一思想，既有违邓小平一国两制的构想，亦损害香港社会多元文化的气氛	违背；损害		此等统一思想	appreciation	reaction	neg	imp	东方日报	2004	02	2	
+「一国两制」的解释愈来愈钻牛角尖，捉字虱了	钻牛角尖		解释	appreciation	reaction	neg	imp	东方日报	2004	04	2	
+现在「一国两制」下的香港特区政府，表面上有自治的权力，但是实际上处处要顾及大陆的需要			香港特区政府	appreciation	reaction	neg	imp	东方日报	2004	12	2	
+他在二○○○年的就职演说，充分表达善意，香港「一国两制」实验损害香港利益	损害	他	一国两制	appreciation	reaction	neg	imp	东方日报	2004	01	2	
+这种输打赢要的游戏规则	输打赢要		一国两制	appreciation	reaction	neg	imp	东方日报	2004	02	2	
+一些看法不符合「一国两制」的原则和《基本法》的立法原意	符合	《依法治港的必要之举》	一些看法	appreciation	reaction	neg	imp	东方日报	2004	03	2	
+「和平统一、一国两制」改变中国历史上通过战争解决国家统一问题的做法，值得称道	值得称道		一国两制	appreciation	valuation	pos	exp	东方日报	2004	01	2	
+咁先至反映出一国两制嘅成功	成功		一国两制	appreciation	valuation	pos	exp	东方日报	2004	09	2	
+一国两制的优越	优越性		一国两制	appreciation	reaction	pos	exp	东方日报	2004	06	2	
+英国外相施仲宏曾称许过「一国两制」成功推行	成功	英国外相施仲宏	一国两制	appreciation	valuation	pos	exp	东方日报	2004	03	2	
+美国政府亦对香港「一国两制」高度关注	关注	美国政府	一国两制	appreciation	reaction	pos	exp	东方日报	2004	03	2	
+是香港政制发展必须全面、准确和贯彻一国两制		港人	一国两制	appreciation	reaction	pos	imp	东方日报	2004	03	2	
+否则违背了「一国两制」的原则	违背	杨文昌		judgement	propriety	neg	exp	东方日报	2004	06	2	
+CEPA 绝不是中央给予香港的大礼，强调当中带着更深的意义	意义	商务部台港澳司司长王辽平	CEPA	appreciation	valuation	pos	exp	东方日报	2004	02	2	
+美国政府认为普选有助推动「一国两制」下的香港经济和社会发展	有助	美国	普选	appreciation	valuation	pos	exp	东方日报	2004	01	2	
+社会主义是香花，资本主义是毒草，邓小平发明「一国两制」，「两制」就是香花毒草和平共存、互相包容			一国两制	appreciation	valuation	pos	imp	东方日报	2004	05	2	
+对「一国两制、高度自治」的认识出现偏差，「有些人国家观念较弱」		他	有些人	judgement	capacity	neg	imp	东方日报	2004	04	2	
+国务院台办新闻局官员指台湾陆委会借机攻击、污蔑「一国两制」	攻击；污蔑	国务院台办新闻局官员	台湾陆委会	judgement	propriety	neg	exp	东方日报	2004	07	2	
+香港就有人给内地有关部门人员戴上「违反一国两制」、「破坏香港法治和高度自治」等大帽子，为何是非颠倒呢	是非颠倒		香港有人	judgement	propriety	neg	imp	东方日报	2004	07	2	
+大陆提出「和平统一、一国两制」，就是要避免动武	避免		大陆	judgement	propriety	pos	imp	东方日报	2004	09	2	
+特区政府生怕得罪京官，只懂一再强调一国两制，不能干预内地法制	生怕		特区政府	judgement	tenacity	neg	imp	东方日报	2004	08	2	
+北京曾一再宣示，对台政策是「和平统一，一国两制	一再宣示		北京	judgement	tenacity	pos	exp	东方日报	2004	07	2	
+在「和平统一、一国两制」方针的指引下，我们正在为早日解决台湾问题、完成祖国统一大业而继续奋斗	继续	贾庆林	我们	judgement	tenacity	pos	exp	东方日报	2004	06	2	
+为和平解决台湾问题作出不懈努力	不懈努力		中国政府	judgement	tenacity	pos	exp	东方日报	2004	07	2	
+无论是香港特区，还是澳门特区，都将成为成功落实「一国两制」的典范		他	香港特区，还是澳门特区	judgement	tenacity	pos	imp	东方日报	2004	06	2	
+外长李肇星重申，中央政府贯彻「一国两制」和《基本法》的立场决不动摇	贯彻	外长李肇星	中央政府	judgement	tenacity	pos	imp	东方日报	2004	04	2	
+文章更反驳内地政府一直不遗余力落实在中英联合声明中对港作出的承诺	反驳	文章	内地政府	judgement	veracity	neg	exp	东方日报	2004	03	2	
+香港政客经常厚颜无耻表示：「只要普选特首，加快政制改革，香港就可给台湾作出示范，使台湾接受『一国两制』	厚颜无耻		香港政客	judgement	veracity	neg	exp	东方日报	2004	11	2	
+台湾每谈及香港「一国两制」的示范作用，都嗤之以鼻	嗤之以鼻	台湾	一国两制	affect	happiness	neg	exp	东方日报	2005	03	2	
+他并申明其立场是捍卫中华民国，反对台独，但也不接受中国的一国两制	接受	马英九	一国两制	affect	inclination	neg	exp	东方日报	2005	10	2	
+他说马英九反对一国两制	反对	马英九	一国两制	affect	inclination	neg	exp	东方日报	2005	09	2	
+他表示，在「一国两制」下，港人希望内地政府尊重香港的司法和执法制度	希望	港人	内地政府尊重香港的司法和执法制度	affect	inclination	pos	exp	东方日报	2005	06	2	
+只要坚持「一国两制」原则	坚持		一国两制	affect	inclination	pos	exp	东方日报	2005	03	2	
+李敖重申支持「一国两制」	支持	李敖	一国两制	affect	inclination	pos	exp	东方日报	2005	09	2	
+目前首要是创造稳定和谐的社会，发展经济、改善民生，使市民有舒适的生活				affect	inclination	pos	imp	东方日报	2005	06	2	
+十分敬重董	敬重	他	董建华	affect	satisfaction	pos	exp	东方日报	2005	03	2	
+巿民对「一国两制」的信心正面比率亦下跌七个百分点	信心	市民	一国两制	affect	security	neg	imp	东方日报	2005	03	2	
+特区政府立即反击，指台湾的言论完全不符事实	事实	特区政府	台湾言论	appreciation	reaction	neg	exp	东方日报	2005	07	2	
+香港则不断有人批评挑战	批评；挑战	香港	一国两制	appreciation	reaction	neg	exp	东方日报	2005	03	2	
+凡涉及中国人大常委会「释法」的行为，英国都会认为这对「一国两制」必定构成损害	损害	英国	释法	appreciation	reaction	neg	imp	东方日报	2005	03	2	
+「一国两制」薄纱	薄纱	小鱼	一国两制	appreciation	reaction	neg	imp	东方日报	2005	03	2	
+澳门人一直坚信「一国两制」在澳门获得成功	成功	澳门人	一国两制	appreciation	valuation	pos	exp	东方日报	2005	03	2	
+回归后「一国两制」成功落实是有目共睹的事实	事实	特区政府	一国两制	appreciation	reaction	pos	exp	东方日报	2005	07	2	
+可成功凸显本港落实一国两制	落实		一国两制	appreciation	reaction	pos	imp	东方日报	2005	12	2	
+只要坚持「一国两制」原则，则可赋予「一国两制」新的内涵和表达方式，运用灵活的方式解决，最终实现「和平统一」			一国两制	appreciation	reaction	pos	imp	东方日报	2005	03	2	
+五成市民认为一国两制适用于台湾，亦是九六年以来的新高数字	适用	五成市民	一国两制	appreciation	reaction	pos	imp	东方日报	2005	09	2	
+「一国两制」的好处			一国两制	appreciation	reaction	pos	imp	东方日报	2005	06	2	
+于是人们不禁要问：到底真有一国两制这回事吗？		人们	一国两制	appreciation	valuation	neg	imp	东方日报	2005	03	2	
+一国两制的战略作用，在于向台湾示范的统战	作用		一国两制	appreciation	valuation	pos	imp	东方日报	2005	03	2	
+在所谓「一国两制」薄纱底下，也无所谓「不明朗因素」		小鱼	一国两制	appreciation	valuation	pos	imp	东方日报	2005	03	2	
+他指出，香港在一国两制下可以继续维持繁荣稳定		他	一国两制	appreciation	valuation	pos	imp	东方日报	2005	03	2	
+曾连一个在大陆遇事的港人都无能为力	无能为力			judgement	capacity	neg	exp	东方日报	2005	06	2	
+董成功落实一国两制		他	董建华	judgement	capacity	pos	exp	东方日报	2005	03	2	
+董先生在任期间，成功落实了「一国两制，港人治港	成功		董建华	judgement	capacity	pos	exp	东方日报	2005	03	2	
+特区政府不应以一国两制作为挡箭牌	不应	张文光	特区政府	judgement	propriety	neg	exp	东方日报	2005	06	2	
+中央的干预愈来愈明显			中央	judgement	propriety	neg	exp	东方日报	2005	03	2	
+董先生一味强调「一国」，少谈「两制」	一味		董建华	judgement	tenacity	neg	exp	东方日报	2005	03	2	
+大陆军方以及中央政府依然严守一国两制的原则底线	严守		大陆军方以及中央政府	judgement	tenacity	pos	exp	东方日报	2005	12	2	
+全心全意尽心尽力工作	全心全意；尽心尽力	他	董建华	judgement	tenacity	pos	exp	东方日报	2005	03	2	
+这是值得举国欢庆、纪念的日子，九年以前的七月一日，香港开始了他的新的纪元，是落实『一国两制』的新纪元	举国欢庆	他	一国两制	affect	happiness	pos	imp	东方日报	2006	07	2	
+点名批评内地法律学者王振民	批评	陈方安生	内地法律学者王振民	affect	satisfaction	neg	exp	东方日报	2006	06	2	
+市民对中央失去信心	批评	陈方安生	市民	affect	satisfaction	neg	exp	东方日报	2006	06	2	
+反对「一国两制」吧			一国两制	affect	satisfaction	neg	exp	东方日报	2006	11	2	
+这门槛问题反映了「一国两制」蕴含的一个基本矛盾	基本矛盾	曾钰成	一国两制	appreciation	reaction	neg	exp	东方日报	2006	08	2	
+这不但是香港的危机，同时也是对一国两制的挑战	挑战		这	appreciation	reaction	neg	exp	东方日报	2006	12	2	
+政策的出发点必须是维持「一国两制」框架不变	出发点		一国两制	appreciation	reaction	pos	exp	东方日报	2006	12	2	
+中国解决香港问题的核心指导思想就是「一国两制」	核心	中国	一国两制	appreciation	reaction	pos	exp	东方日报	2006	11	2	
+香港开始了他的新的纪元，是落实『一国两制』的新纪元			新纪元	appreciation	reaction	pos	imp	东方日报	2006	07	2	
+在「一国两制」下，相信不会影响本港的言论及新闻自由		她	一国两制	appreciation	valuation	pos	imp	东方日报	2006	09	2	
+她不懂「一国两制」的「一国」是中国而不是美国	不懂		她	judgement	capacity	neg	exp	东方日报	2006	07	2	
+内地法律学者王振民削弱一国两制	削弱	陈方安生	内地法律学者王振民	judgement	propriety	neg	exp	东方日报	2006	06	2	
+她说内地法律学者王振民早前为释法护航替普选设下关卡，削弱一国两制、港人治港的原则	削弱	陈方安生	内地法律学者王振民	judgement	propriety	neg	imp	东方日报	2006	06	2	
+声援其民鼠兄弟香港电台，保住反对派制造舆论的桥头堡，将来双剑合璧，刺向一国两制的心脏	刺向		苹果日报	judgement	propriety	neg	imp	东方日报	2006	06	2	
+继批评市民		陈方安生	市民	judgement	propriety	neg	imp	东方日报	2006	06	2	
+中央政府为香港顺利回归，为落实《基本法》所规定的一国两制，在很多地方都作出极大让	让步		中央政府	judgement	propriety	pos	imp	东方日报	2006	01	2	
+那些智囊组织会为加强中国「一国两制」出谋划策么			智囊组织	judgement	tenacity	neg	imp	东方日报	2006	07	2	
+对台方面，胡锦涛表示坚持「和平统一、一国两制」的基本方针，坚持一个中国的原则不动摇	坚持	胡锦涛	中央政府	judgement	tenacity	pos	exp	东方日报	2006	01	2	
+科大又计划喺听日向老董颁授社会科学荣誉博士，表扬佢落实一国两制嘅贡献		科大	董建华	judgement	tenacity	pos	imp	东方日报	2006	11	2	
+台湾朝野一听到「一国两制」均敬而远之	敬而远之	台湾朝野	一国两制	affect	inclination	neg	exp	东方日报	2007	01	2	
+香港在「一国两制」前提下，要求「河水不犯井水」	要求	香港	河水不犯井水	affect	inclination	pos	exp	东方日报	2007	06	2	
+促成香港回归的「一国两制」的期待之意	期待	北京	一国两制	affect	inclination	pos	exp	东方日报	2007	06	2	
+无法挽回失去的民心		民众	中央政府	affect	satisfaction	neg	imp	东方日报	2007	06	2	
+「一国两制」，「两制」落实得太好，「一国」则落实得不足			一国两制	appreciation	composition	neg	imp	东方日报	2007	02	2	
+在一国两制问题上，乃是一国凌驾两制			一国两制	appreciation	composition	neg	imp	东方日报	2007	11	2	
+各种足以对一国两制带来压力的问题亦相继浮现	压力		问题	appreciation	reaction	neg	exp	东方日报	2007	03	2	
+虽说是一国两制，但特首由中央实质任命，这和其他省市的封疆大吏并无本质不同			一国两制	appreciation	reaction	neg	imp	东方日报	2007	04	2	
+澳门比拉斯维加斯更兴旺	兴旺		澳门	appreciation	reaction	pos	exp	东方日报	2007	02	2	
+保住了「一国两制」繁荣的面子			一国两制	appreciation	reaction	pos	exp	东方日报	2007	06	2	
+「一国两制」是台湾人的必然之选	必然之选		一国两制	appreciation	reaction	pos	exp	东方日报	2007	07	2	
+「一国两制」的优势			一国两制	appreciation	valuation	pos	exp	东方日报	2007	02	2	
+至于特区政府新班子人选的条件，他指要能够落实「一国两制」、「港人治港」的方针		他	一国两制	appreciation	valuation	pos	imp	东方日报	2007	04	2	
+郑指监察政府是议员职责，故认同曾荫权应就政改与泛民会面，但一国两制下，觉得无必要与内地官员会面		郑经翰	一国两制	appreciation	valuation	pos	imp	东方日报	2007	12	2	
+他们善用「一国两制」的优势	善用		澳门政府	judgement	capacity	pos	exp	东方日报	2007	02	2	
+至于特区政府新班子人选的条件，他指要能够落实「一国两制」、「港人治港」的方针			新班子人选	judgement	capacity	pos	imp	东方日报	2007	04	2	
+反对派或将「两制」凌驾「一国」，或将「一国」、「两制」割裂和对立起来	凌驾；割裂		反对派	judgement	propriety	neg	imp	东方日报	2007	07	2	
+根本是对「一国两制」方针的肆意践踏	肆意践踏		反对派	judgement	propriety	neg	imp	东方日报	2007	07	2	
+香港人仍然要向那些戴假发、穿黑袍，象征着维多利亚女王权威的人鞠躬，丧尽了中国人的志气	丧尽		香港人	judgement	propriety	neg	imp	东方日报	2007	01	2	
+中国政府为顾全「一国两制」的面子，在政策上予以支援	顾全		中国政府	judgement	propriety	pos	imp	东方日报	2007	10	2	
+北京一直掉以轻心	掉以轻心		北京	judgement	tenacity	neg	exp	东方日报	2007	12	2	
+中央实施「一国两制，港人治港，高度自治」方针绝非权宜之计	权宜之计		中央	judgement	tenacity	neg	exp	东方日报	2007	06	2	
+中央政府坚定不移地贯彻执行「一国两制」	坚定不移	他	中国政府	judgement	tenacity	pos	exp	东方日报	2007	03	2	
+中央和特区政府贯彻执行「一国两制」方针	贯彻		中央和特区政府	judgement	tenacity	pos	exp	东方日报	2007	07	2	
+报告强调会继续坚定不移地贯彻「一国两制」	坚定不移	报告		judgement	tenacity	pos	exp	东方日报	2007	03	2	
+中央政府虽然不惜工本予香港无私的援助	不惜工本		中央政府	judgement	tenacity	pos	imp	东方日报	2007	06	2	
+盛华仁强调，全国人大代表必须由拥护国家宪法、拥护澳门基本法、一国两制及爱国爱澳的人士担任		盛华仁	一国两制	affect	inclination	pos	imp	东方日报	2008	01	2	
+令人质疑他们对香港的忠诚和对「一国两制」的信心	质疑		官员	affect	satisfaction	neg	exp	东方日报	2008	06	2	
+一些人更认为「一国两制」荡然无存	荡然无存	有些人	一国两制	affect	satisfaction	neg	exp	东方日报	2008	04	2	
+公民党汤家骅亦批评，中联办日前透过中通社表态，是对「一国两制」的另类干预	批评	公民党汤家骅	中联办	affect	satisfaction	neg	exp	东方日报	2008	06	2	
+对「一国两制」的信心	信心	官员	香港	affect	security	neg	exp	东方日报	2008	03	2	
+公民党汤家骅则认为，现时三地在经济方面已有紧密合作，担心若组成大都会会使一国两制变得模糊	担心	公民党汤家骅	一国两制	affect	security	neg	imp	东方日报	2008	03	2	
+「一国两制」十一年来没有问题，其制度框架可说非常稳固，没有走样	稳固		一国两制	appreciation	composition	pos	exp	东方日报	2008	08	2	
+港人治港，夜郎自大	夜郎自大		港人治港	appreciation	reaction	neg	exp	东方日报	2008	01	2	
+「一国两制」和「高度自治」运作良好	良好		一国两制	appreciation	reaction	pos	exp	东方日报	2008	08	2	
+吴邦国的表态，无疑是对全面准确理解「一国两制」方针和贯彻执行《基本法》起到重要指导作用			吴邦国的表态	appreciation	reaction	pos	imp	东方日报	2008	06	2	
+随着「一国两制」顺利踏入第二个十年	顺利		一国两制	appreciation	reaction	pos	imp	东方日报	2008	02	2	
+「一国两制、五十年不变」		香港政党	一国两制	appreciation	reaction	pos	imp	东方日报	2008	09	2	
+香港实行「一国两制」，目的就系保留资本主义市场经济原则，同内地政商不分嘅社会主义相区别			一国两制	appreciation	valuation	pos	imp	东方日报	2008	03	2	
+在「一国两制」底下，香港和内地是实施两套独立的出入境管制			一国两制	appreciation	valuation	pos	imp	东方日报	2008	03	2	
+煲呔曾上台以来，对于如何在国际上推广香港，宣传「一国两制」实践，吸引外资来港投资、上市、设总部、旅游、买产品等都做得很差	差		煲呔曾	judgement	capacity	neg	exp	东方日报	2008	09	2	
+港英余孽和国际反华势力一直互相勾结，借司法问题和「一国两制」玩角力	勾结		港英余孽和国际反华势力	judgement	propriety	neg	exp	东方日报	2008	05	2	
+公民党汤家骅亦批评，中联办日前透过中通社表态，是对「一国两制」的另类干预	干预	公民党汤家骅	中联办	judgement	propriety	neg	exp	东方日报	2008	06	2	
+他们对香港的忠诚	忠诚		官员	judgement	tenacity	neg	exp	东方日报	2008	06	2	
+中央政府为维系港人对一国两制的信心，不得不中途以曾荫权取代了董建华当香港的舵手			中央政府	judgement	tenacity	pos	imp	东方日报	2008	02	2	
+我们一方面以「一国两制」来自圆其说，另一方面却吃着酸溜溜的葡萄	吃着酸溜溜的葡萄	我们	内地赠策	affect	happiness	neg	exp	东方日报	2009	05	3	
+北京总的心态是，在没有现成经验的情况下，宁可「不作为」、「少作为」，也要避免「河水」犯了「井水」	避免	北京	「河水」犯了「井水」	affect	inclination	neg	exp	东方日报	2009	09	3	
+李登辉当总统时，国民党制订了「国家统一纲领」，以此抗衡北京提出的「和平统一」及「一国两制」方针	抗衡	国民党	一国两制	affect	inclination	neg	exp	东方日报	2009	02	3	
+大多数台湾人有「统一恐惧症」，深恐任何事与「一国两制」沾上边	深恐	大多数台湾人	一国两制	affect	inclination	neg	exp	东方日报	2009	02	3	
+金门县长李炷烽是「一国两制」的忠实支持者	支持	金门县长李炷烽	一国两制	affect	inclination	pos	exp	东方日报	2009	04	3	
+；宁可放缓「壮大爱国爱港力量」也不能影响香港特区的「高度自治」		北京	高度自治	affect	inclination	pos	imp	东方日报	2009	09	3	
+超过五十架菜车本周二堵塞文锦渡抗议当局对「假产地、真标签」蔬菜视而不见	抗议	五十架菜车	当局	affect	satisfaction	neg	exp	东方日报	2009	04	3	
+「港人治港」却是嘘声四起	嘘声四起		港人治港	affect	satisfaction	neg	exp	东方日报	2009	07	3	
+与当年形容香港回归是「不平凡的十年」的说法有明显落差	落差	胡锦涛	香港	affect	satisfaction	neg	imp	东方日报	2009	12	3	
+国家主席胡锦涛盛赞澳门回归十年来，成功实践「一国两制」	盛赞	胡锦涛	一国两制	affect	satisfaction	pos	exp	东方日报	2009	12	3	
+十二年过去了，「一国两制」掌声满堂，	掌声满堂		一国两制	affect	satisfaction	pos	exp	东方日报	2009	07	3	
+不信任特区政府	信任	市民	特区政府	affect	security	neg	exp	东方日报	2009	11	3	
+市民对特区政府的不信任比率，由八月份的百分之十四急升至百分之二十八	信任	市民	特区政府	affect	security	neg	exp	东方日报	2009	11	3	
+「一国两制」深层结构的问题，是一个严重的危险政治讯号	危险		一国两制	affect	security	neg	exp	东方日报	2009	12	3	
+市民连带对香港前途及一国两制信心比率亦下跌	信心	市民	一国两制	affect	security	neg	exp	东方日报	2009	11	3	
+市民对香港前途及一国两制的信心亦大幅下跌	信心	市民	一国两制	affect	security	neg	exp	东方日报	2009	11	3	
+「一国两制」深层结构的问题	结构		一国两制	appreciation	composition	neg	exp	东方日报	2009	12	3	
+他们美其名曰「一国两制」，实际上两制早已骑到一国头上去了			一国两制	appreciation	composition	neg	imp	东方日报	2009	02	3	
+香港回归是「不平凡的十年」		胡锦涛	香港回归	appreciation	reaction	neg	imp	东方日报	2009	12	3	
+「一国两制」成为香港被纳入规划、也是分一杯羹的阻隔时	阻隔		一国两制	appreciation	reaction	neg	imp	东方日报	2009	11	3	
+澳门的成功经验就是「一国两制」的成功经验	成功	中央	澳门	appreciation	reaction	pos	exp	东方日报	2009	11	3	
+「一国两制」另一特色是在内地不可能发生之事，却可在港发生	特色		一国两制	appreciation	reaction	pos	exp	东方日报	2009	10	3	
+他强调，港珠澳大桥早日通车，将为「一国两制」、三地共荣建立新的里程碑	里程碑	他	港珠澳大桥	appreciation	reaction	pos	imp	东方日报	2009	12	3	
+「一国两制、港人治港」既是国策，又是新课题	国策		一国两制	appreciation	reaction	pos	imp	东方日报	2009	09	3	
+要达到这个目标必须有政策上的保障，就是实施「一国两制、港人治港、高度自治」			一国两制	appreciation	reaction	pos	imp	东方日报	2009	07	3	
+「一国两制」是保护港人生活方式五十年不变的长城			一国两制	appreciation	reaction	pos	imp	东方日报	2009	01	3	
+不懂政治的治港者是治理不好「一国两制」框架下的香港的	治理		不懂政治的治港者	judgement	capacity	neg	exp	东方日报	2009	09	3	
+澳门回归十年来，成功实践「一国两制」		胡锦涛	澳门	judgement	capacity	pos	imp	东方日报	2009	12	3	
+梁卓伟「懒懒闲」答覆令事件火上加油	懒懒闲		梁卓伟	judgement	tenacity	neg	exp	东方日报	2009	04	3	
+在国家发展、「一国两制」大格局下，是不能指望像曾荫权这样的「港人治港」能够解决「香港一些深层次矛盾」的	指望		曾荫权	affect	inclination	neg	exp	东方日报	2010	01	3	
+台湾对香港有不能克服的排斥感，不愿与之相提并论，	排斥感	台湾	香港	affect	inclination	neg	exp	东方日报	2010	07	3	
+北京现只有「一国两制，和平统一」的口号，并不被台湾接受	接受	台湾	一国两制	affect	inclination	neg	exp	东方日报	2010	02	3	
+连战曾提出以邦联方式达致统一，北京能接受吗？大陆学者提出类似联邦之构思被视为政治叛徒而重判入狱	接受	大陆	联邦制	affect	inclination	neg	imp	东方日报	2010	02	3	
+这些问题必须由中央决策「一竿子捅到底」方能解决			中央决策	affect	inclination	pos	imp	东方日报	2010	01	3	
+一成二对中央的印象变差		港人	中央	affect	satisfaction	neg	imp	东方日报	2010	07	3	
+台湾委实患了「香港恐惧症」，深怕「香港化」	怕	台湾	香港化	affect	security	neg	exp	东方日报	2010	07	3	
+怕的就是香港的「一国两制」套在台湾头上	怕	台湾	一国两制	affect	security	neg	exp	东方日报	2010	07	3	
+人们最疑虑和关注的是「一国两制」这个方针在贯彻之时「一国」会不会干预「两制」	疑虑；关注	人们	一国两制	affect	security	neg	exp	东方日报	2010	03	3	
+非常看好首届特区政府能够贯彻落实「一国两制，港人治港」	看好	中央	特区政府	affect	security	pos	exp	东方日报	2010	10	3	
+这种政治上远离隔绝、经济上亲密依赖的矛盾	矛盾		中港关系	appreciation	composition	neg	imp	东方日报	2010	06	3	
+两岸统一又如何轻易能开解	轻易		两岸统一	appreciation	reaction	neg	exp	东方日报	2010	02	3	
+这不仅影响社会稳定和削弱核心竞争力	影响；削弱		社会稳定；核心竞争力	appreciation	reaction	neg	exp	东方日报	2010	06	3	
+有可能从根本上危及「一国两制，港人治港」方针	危及		一国两制	appreciation	reaction	neg	exp	东方日报	2010	06	3	
+如此深层结构的矛盾发生，是上世纪八十年代中英谈判香港前途问题时完全料不到的，是北京提出「一国两制、港人治港、高度自治」大政方针时完全料不到的，也是起草制订《基本法》时完全料不到的			矛盾	appreciation	reaction	neg	imp	东方日报	2010	06	3	
+一国两制』只是依法办事，属人类行为的最低规范	最低		一国两制	appreciation	reaction	neg	imp	东方日报	2010	11	3	
+须知「一国两制」变为一国一制的条件正在形成			一国两制	appreciation	reaction	pos	exp	东方日报	2010	04	3	
+北京认为「一国两制」「很成功」	成功	北京	一国两制	appreciation	valuation	pos	exp	东方日报	2010	12	3	
+若根据同样的指导思想转变决策，那又如何？不是顺理成章吗	顺理成章		转变决策	appreciation	reaction	pos	exp	东方日报	2010	04	3	
+一国两制有其历史意义	意义		一国两制	appreciation	valuation	pos	exp	东方日报	2010	10	3	
+如果在这两个层面失去「行政主导」，实施行政长官和立法会全体双普选，那么香港就不是「一国两制」下的「高度自治」，而是架空「一国」的完全自治，香港就会成为一个「独立的政治实体」，这是对「一国」而言			行政主导	appreciation	valuation	pos	imp	东方日报	2010	06	3	
+英国人在政改问题上不断偷步，在培植「民主派」方面下了大工夫，目的都是为了「防范一国」，要「还政于民」、要「民主拒共」，已经预先把矛头指向「一国」、挑衅「一国」	偷步		英国	judgement	propriety	neg	imp	东方日报	2010	03	3	
+以邓小平为代表的共产党人尊重历史，尊重现实，毅然妥协，允许「保留香港原有的资本主义社会经济制度和生活方式，五十年不变」，以「一国两制」来谋得双赢！	妥协		共产党人	judgement	propriety	pos	imp	东方日报	2010	05	3	
+中央根据「一国两制」精神，将「双普选」列为「最终」目标写入《基本法》，并相应作出「循序渐进」、「按实际情况」等规定			中央	judgement	propriety	pos	imp	东方日报	2010	05	3	
+一成七认为中央未有落实「一国两制」		港人	中央	judgement	tenacity	neg	imp	东方日报	2010	07	3	
+尽力为「港人治港」不受干扰创造一切条件	尽力		中央	judgement	tenacity	pos	exp	东方日报	2010	10	3	
+中央特别严格把握不能让内地的「一制」影响香港			中央	judgement	tenacity	pos	imp	东方日报	2010	10	3	
+习近平向香港提出三个期望，加强长远规划，在保持经济发展时，处理好政府与市场的关系	期望	习近平	处理好政府与市场的关系	affect	inclination	pos	exp	东方日报	2011	03	3	
+第二，要正确认识「一国两制」，尊重中央依法所享有的权力，不能把「一国」和「两制」隔离，不可否定和削弱中央权力；第三，注重青少年工作，关注他们所遇到的困难	期望	习近平	一国两制	affect	inclination	pos	exp	东方日报	2011	03	3	
+他也希望以「一国两制」来典范台湾，完成统一大任	希望	邓小平	一国两制	affect	inclination	pos	exp	东方日报	2011	06	3	
+第三，注重青少年工作，关注他们所遇到的困难	期望	习近平	注重青少年工作	affect	inclination	pos	exp	东方日报	2011	03	3	
+梅德韦杰夫展现了对香港金融中心的热情	热情	梅德韦杰夫	香港金融中心	affect	inclination	pos	imp	东方日报	2011	05	3	
+朝廷早就制订了「一国两制、港人治港」的路线	路线	中央政府	一国两制	affect	inclination	pos	imp	东方日报	2011	07	3	
+对「一国两制」发展下的探索精神		梅德韦杰夫	一国两制	affect	inclination	pos	imp	东方日报	2011	05	3	
+曾荫权民望再现新低的困局	民望	民众	曾荫权	affect	satisfaction	neg	exp	东方日报	2011	06	3	
+单程证制度最受诟病之处	诟病		单程证制度	affect	satisfaction	neg	exp	东方日报	2011	04	3	
+香港人害怕二十三条立法	害怕	香港人	二十三条立法	affect	security	neg	exp	东方日报	2011	05	3	
+事件令人质疑确有内地人员公然在港执法	质疑		内地人员公然在港执法	affect	security	neg	exp	东方日报	2011	09	3	
+这一与香港法治传统大相迳庭的怪现象恰好证明，暴民政治成了反对派破坏「一国两制，港人治港」方针、浑水摸鱼、趁火打劫从而乱中夺权的手段	破坏；怪；浑水摸鱼；趁火打劫		暴民政治	appreciation	reaction	neg	exp	东方日报	2011	04	3	
+港府完全没有话语权，只能被动地照单全收，这不仅不符合国际移民审批惯例，恐怕也抵触「一国两制、港人治港」大原	抵触		单程证制度	appreciation	reaction	neg	exp	东方日报	2011	04	3	
+小圈子选举特首只是做戏，	做戏	亲共团体	小圈子选举	appreciation	reaction	neg	exp	东方日报	2011	07	3	
+亲共团体，近乎完全坦白的表达了看法：「一国两制」纯属多余	多余	亲共团体	一国两制	appreciation	reaction	neg	exp	东方日报	2011	07	3	
+「一国两制」已名存实亡	名存实亡		一国两制	appreciation	reaction	neg	exp	东方日报	2011	09	3	
+行政长官实际上乃朝廷命官，和「一国两制、港人治港、高度自治」的命题有潜在矛盾	矛盾		行政长官任命	appreciation	reaction	neg	imp	东方日报	2011	11	3	
+同样是「一国两制」，同样是「高度自治」，只是一海之隔，际遇却大有不同，这不能不引人深思			香港的一国两制	appreciation	reaction	neg	imp	东方日报	2011	11	3	
+「一国两制」迟早「一拍两散」	一拍两散		一国两制	appreciation	reaction	neg	imp	东方日报	2011	09	3	
+是加强了「一国两制」对台湾的吸引力、感召力，还是令人「敬鬼神而远之」			一国两制	appreciation	reaction	neg	imp	东方日报	2011	08	3	
+无论哪一种结局，都是对香港「一国两制」安定繁荣的致命打击	致命打击		一国两制	appreciation	reaction	neg	imp	东方日报	2011	05	3	
+对青少年根植对国家的认同，尤其对「一国两制」和《基本法》的理解，对于未来选民人心向背至关重要	至关重要		对国家的认同	appreciation	reaction	pos	exp	东方日报	2011	04	3	
+《基本法》是香港实行「一国两制」的重要依据	重要；依据		基本法	appreciation	reaction	pos	exp	东方日报	2011	08	3	
+香港正处于前所未有的「一国两制」的制度下	前所未有		一国两制	appreciation	reaction	pos	exp	东方日报	2011	03	3	
+「一国两制」是前无古人的创举	前无古人；创举		一国两制	appreciation	reaction	pos	exp	东方日报	2011	08	3	
+香港虽然实施「一国两制、港人治港」，但很难真正抵御北大人的政治干预	真正		一国两制	appreciation	valuation	neg	exp	东方日报	2011	05	3	
+除了两个特区政府的管治能力有差别	能力		香港特区政府	judgement	capacity	neg	exp	东方日报	2011	11	3	
+邓小平在港澳问题上创造了「一国两制」模式，让港澳成功回归，名留青史	名留青史		邓小平	judgement	capacity	pos	exp	东方日报	2011	06	3	
+本港政棍讼棍完全是以下犯上，颠倒「一国两制」政治伦理，是对《国家宪法》和《基本法》的践踏，这才是货真价实、彻头彻尾、如假包换对司法独立的异化和破坏！	以下犯上；颠倒；践踏；彻头彻尾；破坏；异化		本港政棍；讼棍	judgement	propriety	neg	exp	东方日报	2011	05	3	
+曾荫权等同破坏一国两制，自毁长城	破坏	刘锐绍	曾荫权	judgement	propriety	neg	exp	东方日报	2011	06	3	
+站在台湾的国民党人、民进党人和广大同胞旁观角度，一旦两岸和平统一，实行「一国两制」之后，大陆中央官员居然连台湾的房屋、福利及公务员事务都要指手画脚的话	指手画脚		大陆中央官员	judgement	propriety	neg	exp	东方日报	2011	08	3	
+梁家杰在特首候选人答问大会上，声称要废除中央任命特区主要官员的权力，大搞「去中央化」，把「一国两制」下港人高度自治演变为「港独」			梁佳杰	judgement	propriety	neg	exp	东方日报	2011	05	3	
+中央政府袖手旁观，放任不管，实在难辞其咎	袖手旁观；放任不管		中央政府	judgement	propriety	neg	exp	东方日报	2011	11	3	
+为了释除香港人对「一国两制」、「五十年不变」的疑虑，当时很多制度都是沿袭港英政府在香港一百五十五年统治下的制度，以彰显香港人在回归后的生活方式不变			第一届特区政府	judgement	propriety	pos	imp	东方日报	2011	01	3	
+虽然复建居屋乃强烈民意，但曾荫权却置若罔闻，等同自废武功，而中央多次要求香港解决深层次矛盾，直至要待王光亚点出楼价，曾班子才对复建居屋放软口风，更是自取其辱	置若罔闻	刘锐绍	曾荫权	judgement	tenacity	neg	imp	东方日报	2011	06	3	
+港英遗老遗少有多少料，回归以来对「一国两制」有何贡献，鸡食放光虫，心知肚明			港英遗老遗少	judgement	tenacity	neg	imp	东方日报	2011	07	3	
+今日手上神圣一票，岂能投给「去中国化」之人！			去中国化之人	affect	inclination	neg	imp	东方日报	2012	09	3	
+是希望九七后香港的「一国两制、港人治港、高度自治」能真的「不受北京干预」而得以实现的	希望	香港社情民意	一国两制	affect	inclination	pos	exp	东方日报	2012	10	3	
+希望英国人继续管治香港的	希望	香港社情民意	英国	affect	inclination	pos	exp	东方日报	2012	10	3	
+梁爱诗早前公开批评本地法	批评	梁爱诗	本地法官	affect	satisfaction	neg	exp	东方日报	2012	11	3	
+胡锦涛亦肯定特区历届政府施政	肯定	胡锦涛	特区历届政府	affect	satisfaction	pos	exp	东方日报	2012	07	3	
+港人对回归后是否真正落实「一国两制」半信半疑	半信半疑	港人	一国两制	affect	security	neg	exp	东方日报	2012	07	3	
+当时香港社情和民意，是害怕中国收回香港的	害怕	香港社情民意	中国	affect	security	neg	exp	东方日报	2012	10	3	
+「一国两制、港人治港、高度自治」，这当中必有内在的结构性矛盾，弄不好必会引发紧张关系和斗争	矛盾		一国两制	appreciation	composition	neg	imp	东方日报	2012	12	3	
+包致金其后回应指本港司法体系出现乌云，有声音不尊重「一国两制」	乌云	包致金	本港司法体系	appreciation	reaction	neg	exp	东方日报	2012	11	3	
+香港的新闻自由已经受到极大损害	损害		新闻自由	appreciation	reaction	neg	exp	东方日报	2012	01	3	
+一国两制变味走样敲响了警钟	变味；走样		一国两制	appreciation	reaction	neg	exp	东方日报	2012	01	3	
+如此一来，香港「一国两制」堪虞	堪虞		一国两制	appreciation	reaction	neg	exp	东方日报	2012	09	3	
+若香港出现在「外部势力干预」下的选举结果，那一定是对北京要贯彻落实的「一国两制」极为不利的，甚至有颠覆性作用	不利；颠覆性		外部势力干预」下的选举结果	appreciation	reaction	neg	imp	东方日报	2012	12	3	
+还有的认为「一国两制」根本行不通，香港的资本主义早晚要被一国的社会主义吃掉，香港人根本无力抗拒北大人			一国两制	appreciation	reaction	neg	imp	东方日报	2012	10	3	
+本港的繁荣稳定	繁荣；稳定		本港	appreciation	reaction	pos	exp	东方日报	2012	07	3	
+香港是「一国两制」的实验区，其政治发展令台湾以至美国十分关注	关注	台湾；美国	香港	appreciation	reaction	pos	exp	东方日报	2012	04	3	
+信任香港人是「一国两制」的核心关键，	核心；关键		信任香港人	appreciation	reaction	pos	exp	东方日报	2012	07	3	
+一国两制、港人治港、高度自治这项前无古人的「伟大事业」、「天才构想」	前无古人；伟大		一国两制	appreciation	reaction	pos	exp	东方日报	2012	12	3	
+「一国两制」创举	创举		一国两制	appreciation	reaction	pos	exp	东方日报	2012	11	3	
+他续称，本港的繁荣稳定，证明「一国两制」成功落实	成功	胡锦涛	一国两制	appreciation	valuation	pos	exp	东方日报	2012	07	3	
+北京自我完善，也是赢得港人支持的元素			北京自我完善	appreciation	reaction	pos	imp	东方日报	2012	07	3	
+他们就只能「依靠」《基本法》规定的「一国两制、港人治港、高度自治」来维护自己熟悉的「资本主义制度和生活方式」	依靠	香港	一国两制	appreciation	reaction	pos	imp	东方日报	2012	10	3	
+香港之所以成功，就是因为有各种各样的自由，包括新闻自由、言论自由、学术自由，失去这些东西			自由	appreciation	valuation	pos	imp	东方日报	2012	02	3	
+港府对「一国两制」和《基本法》的理解、执行有所偏差，核心竞争力正在萎缩	偏差		香港	judgement	capacity	neg	exp	东方日报	2012	02	3	
+本地法官对中央及香港特区关系欠缺认识，在居留权案判决中犯下错误	错误	梁爱诗	本地法官	judgement	propriety	neg	exp	东方日报	2012	11	3	
+反对派「反国教」、「齐抗共」、「反赤化」等「去中国化」的选举操作，如何误导市民，分化社会，荼毒莘莘学子，挑动两地对立，破坏「一国两制」，损害港人福祉的丑恶面目	误导、分化、荼毒、挑动、破坏、损害		反对派	judgement	propriety	neg	exp	东方日报	2012	09	3	
+反对派疯狂煽动反共狂潮，对抗「一国两制」	煽动；对抗		反对派	judgement	propriety	neg	exp	东方日报	2012	09	3	
+反对派「齐抗共」、「反赤化」实在毫无道理	毫无道理		反对派	judgement	propriety	neg	exp	东方日报	2012	09	3	
+唐英年及其支持者堕落到效法英国殖民主义者故技，妄图「挟资本以令中央」，直接冲击「一国两制」	妄图；冲击		唐英年	judgement	propriety	neg	exp	东方日报	2012	03	3	
+英国人利用统治过香港百多年的人脉优势，在回归后仍积极利用香港的亲英势力，宣传不信任中央政府，不信任「一国两制」的执行，令人滋长怀旧情绪，甚至宣传香港已变成中国的「殖民地」，比当英国殖民地还要坏			英国	judgement	propriety	neg	imp	东方日报	2012	01	3	
+正是共产党以广博胸襟容许香港「保持原有的资本主义制度和生活方式，五十年不变」；正是中央决定毋须香港上缴一分钱税收，不用负担一分钱驻军费用；正是中央拍板推出CEPA安排、个人游、大型国企来港上市、人民币离岸服务等一系列挺港、惠港措施，令香港经济「大树底下好乘凉」；正是中央一锤定音推进民主，让香港迈向「双普选」……中央如此仁至义尽对香港			共产党；中央	judgement	propriety	pos	exp	东方日报	2012	09	3	
+北京偏于「严格要求自己」，偏于对香港「宁宽勿紧」、「宁松无严」			北京	judgement	tenacity	pos	exp	东方日报	2012	12	3	
+习近平直言十八大确立的港澳方针，与中央对港澳的政策，长期以来皆「一脉相承」	一脉相承	习近平	中央	judgement	tenacity	pos	exp	东方日报	2012	12	3	
+港人没有办法不接受一国两制		港人	一国两制	affect	happiness	neg	exp	东方日报	2013	07	3	
+「民主」派真正追求民主	追求	民主派	民主	affect	inclination	pos	exp	东方日报	2013	12	3	
+民主选举是港人的普遍期望	期望	港人	民主选举	affect	inclination	pos	exp	东方日报	2013	06	3	
+要求真正普选的呼声反而愈高	要求	港人	真正普选	affect	inclination	pos	exp	东方日报	2013	07	3	
+内地官员及官媒过去多次狠批本港反对派及游行示威活动	狠批	内地官员及官媒	反对派	affect	satisfaction	neg	exp	东方日报	2013	07	3	
+怎能不引起港人怨声载道	怨声载道	港人	三个特首	affect	satisfaction	neg	exp	东方日报	2013	07	3	
+估计年轻一代，在意识形态上，对一国两制的认同较薄弱，怨气则较重	认同	年轻一代	一国两制	affect	satisfaction	neg	exp	东方日报	2013	04	3	
+大家的工作所取得的成就有目共睹，中央政府充分肯定	成就；肯定	中央政府	大家的工作	affect	satisfaction	pos	exp	东方日报	2013	09	3	
+港人对一国两制的信心反而愈低	信心	港人	一国两制	affect	security	neg	exp	东方日报	2013	07	3	
+对一国两制的信心净值跌至零	信心	港人	一国两制	affect	security	neg	exp	东方日报	2013	06	3	
+港人对中央和特区政府的信任、信心皆大幅下跌	信任；信心	港人	中央和特区政府	affect	security	neg	exp	东方日报	2013	06	3	
+一国膨胀两制缩小			一国两制	appreciation	composition	neg	imp	东方日报	2013	05	3	
+高度自治」名不副实	名不副实		高度自治	appreciation	reaction	neg	exp	东方日报	2013	06	3	
+一国两制界线逐渐模糊	模糊		一国两制	appreciation	reaction	neg	exp	东方日报	2013	05	3	
+「一国两制」荒腔走板	荒腔走板		一国两制	appreciation	reaction	neg	exp	东方日报	2013	06	3	
+认为这是一个「水火难容」的制度设计	水火难容		一国两制	appreciation	reaction	neg	exp	东方日报	2013	07	3	
+「一国两制」无论从政治营垒、意识形态的左右两大派来看，还是不理「政治」、不戴意识形态「有色眼镜」的普罗大众的真实感受来论，都是失败的，都是大有问题的	失败；问题		一国两制	appreciation	reaction	neg	exp	东方日报	2013	07	3	
+中港两地关系发生了质的变化，冲击着香港人理解和希望的「一国两制」的实施	冲击	港人	一国两制	appreciation	reaction	neg	exp	东方日报	2013	07	3	
+「一国两制」只是「一党专政」体制之产品			一国两制	appreciation	reaction	neg	imp	东方日报	2013	12	3	
+香港实施一国两制，其中一制控制在外国代理人手上			一国两制	appreciation	reaction	neg	imp	东方日报	2013	06	3	
+澳门名为一国两制，实是一国一制			一国两制	appreciation	reaction	neg	imp	东方日报	2013	06	3	
+一国两制的优势	优势	他	一国两制	appreciation	reaction	pos	exp	东方日报	2013	04	3	
+一国两制是正确的、成功的	成功；正确	李源潮	一国两制	appreciation	reaction	pos	exp	东方日报	2013	09	3	
+会被占中所吸引，成为未来民主运动的生力军	吸引	年轻一代	占中	appreciation	reaction	pos	exp	东方日报	2013	04	3	
+《环时》社评却忽然变调，形容七一游行已成为香港的「新传统节目」，凸显了「一国两制」		环球时报	七一游行	appreciation	reaction	pos	imp	东方日报	2013	07	3	
+吴邦国：释法确保「一国两制」	确保	吴邦国	释法	appreciation	reaction	pos	imp	东方日报	2013	03	3	
+否定中央这个权利的人等同否定「一国两制」		前港区人大代表吴康民	中央这个权利	appreciation	reaction	pos	imp	东方日报	2013	04	3	
+北京换了三朝，对一国两制、港人治港仍是未摸着窍门，香港管治跌跌撞撞，走得很辛苦	跌跌撞撞；辛苦		北京	judgement	capacity	neg	exp	东方日报	2013	05	3	
+中央先后为港人挑选的三个特首都不孚众望，一个无能，一个贪腐，一个失信于民，只懂得添烦添乱	无能		三个特首	judgement	capacity	neg	exp	东方日报	2013	07	3	
+北京向建制派派官帽子，考虑的很多，模糊一国两制界线、影响公众观感的问题是其一	模糊；影响		北京	judgement	propriety	neg	exp	东方日报	2013	10	3	
+以李国能的英夷背景，选择在这个时候侧击人大释法，触碰《基本法》及「一国两制」红线，无论甚么用心，都是添烦添乱，对局势有害无益	红线；添烦；添乱		李国能	judgement	propriety	neg	exp	东方日报	2013	11	3	
+中央先后为港人挑选的三个特首都不孚众望，一个无能，一个贪腐，一个失信于民，只懂得添烦添乱	贪腐		三个特首	judgement	propriety	neg	exp	东方日报	2013	07	3	
+民协示威者即场将两个遥控器踩烂，批评中联办无视「一国两制」及港人治港	无视	民协示威者	中联办	judgement	propriety	neg	imp	东方日报	2013	11	3	
+中央以为收回香港主权后便万事大吉，对种种乱象视而不见，见而不理，终于导致今天的局面	视而不见；见而不理		中央	judgement	propriety	neg	imp	东方日报	2013	07	3	
+中央也有权选择拒绝任命而引发重选	有权	前港区人大代表吴康民	中央	judgement	propriety	pos	exp	东方日报	2013	04	3	
+中共过往的纪录是不守承诺	不守承诺		中共	judgement	tenacity	neg	exp	东方日报	2013	07	3	
+香港公务员是实施一国两制、港人治港，贯彻《基本法》，维护香港繁荣的重要力量	重要；依据	李源潮	公务员	judgement	tenacity	pos	exp	东方日报	2013	09	3	
+中央先后为港人挑选的三个特首都不孚众望，一个无能，一个贪腐，一个失信于民，只懂得添烦添乱	失信		三个特首	judgement	veracity	neg	exp	东方日报	2013	07	3	
+对香港失去了兴趣	兴趣	台湾	香港	affect	inclination	neg	exp	东方日报	2014	09	4	
+令台湾朝野可更理直气壮地拒绝「一国两制」	拒绝	台湾朝野	一国两制	affect	inclination	neg	exp	东方日报	2014	06	3	
+台湾对此不感兴趣，坚拒一国两制	坚拒	台湾	一国两制	affect	inclination	neg	exp	东方日报	2014	02	3	
+有大报社论称决不能接受一国两制	接受	大报社论	一国两制	affect	inclination	neg	exp	东方日报	2014	09	4	
+香港内部反中国、反一国两制，反特区政府的情绪与行为	反对	香港内部	一国两制；中国；特区政府	affect	inclination	neg	exp	东方日报	2014	05	3	
+坚持和平统一、一国两制方针	坚持		一国两制	affect	inclination	pos	exp	东方日报	2014	01	3	
+特区明说「一国两制」		特区	一国两制	affect	inclination	pos	exp	东方日报	2014	09	4	
+朝廷官员的解释是要把事情讲清楚，把中央对「一国两制」政策立场讲清楚		中央		affect	inclination	pos	exp	东方日报	2014	07	3	
+把中央对「一国两制」政策立场讲清楚		中央		affect	inclination	pos	exp	东方日报	2014	07	3	
+要遏制反对派和外部势力相勾结的夺权势头		中央		affect	inclination	pos	exp	东方日报	2014	07	3	
+，要划出中央的红线		中央		affect	inclination	pos	exp	东方日报	2014	07	3	
+要澄清香港人对「一国两制」的一些糊涂认识…		中央		affect	inclination	pos	exp	东方日报	2014	07	3	
+于是要对香港行使「全面管治权」		中共	全面管治权	affect	inclination	pos	imp	东方日报	2014	06	3	
+习近平在「太阳花学运」后，表示两岸和平发展不受影响，以稳步迈向统一，又强调两岸「一国两制、和平统一」		习近平	一国两制	affect	inclination	pos	imp	东方日报	2014	06	3	
+国务院发表了在「一国两制」下「中央拥有对香港全面管治权」的白皮书，民怨民愤之火更一发不可收拾	民怨；民愤	民众	白皮书	affect	satisfaction	neg	exp	东方日报	2014	07	3	
+环球时报，狠评七一游行	很批	环球时报	七一游行	affect	satisfaction	neg	exp	东方日报	2014	07	3	
+新华社香港分社社长周南对香港发出空前严厉的警告后	警告	新华社香港分社社长周南	香港	affect	satisfaction	neg	exp	东方日报	2014	06	3	
+中央政府对香港乱局已到了忍无可忍的地步，随时准备出手	忍无可忍	中央政府	香港乱局	affect	satisfaction	neg	exp	东方日报	2014	06	3	
+港人感觉被英国出卖	出卖	港人	英国	affect	satisfaction	neg	imp	东方日报	2014	07	3	
+才能重建港澳市民对中央的信心	信心	港澳	中央	affect	security	neg	exp	东方日报	2014	03	3	
+「一国两制」下的香港，难道还怕你日日叫嚣要占这占那	怕	中国	香港	affect	security	pos	imp	东方日报	2014	03	3	
+一国两制也实践了十七年，出现了不少「深层结构」矛盾和问题	矛盾		一国两制	appreciation	composition	neg	imp	东方日报	2014	06	3	
+一国两制是一个完整的概念，不能只强调一个方面，忽视另一个方面	完整	习近平	一国两制	appreciation	composition	pos	exp	东方日报	2014	09	4	
+毋须理会北京对港发表的白皮书	理会	马英九	白皮书	appreciation	reaction	neg	exp	东方日报	2014	06	3	
+「激进反对派」意在搅乱中国	搅乱	环球时报	反对派	appreciation	reaction	neg	exp	东方日报	2014	07	3	
+把港人要求的民主普选视为洪水猛兽	洪水猛兽	中共	民主普选	appreciation	reaction	neg	exp	东方日报	2014	06	3	
+香港就好比千疮百孔的港铁列车	千疮百孔		香港	appreciation	reaction	neg	exp	东方日报	2014	07	3	
+将香港说得一无是处	一无是处	这对余孽汉奸	香港	appreciation	reaction	neg	exp	东方日报	2014	07	3	
+给香港制造出排外的不良形象	不良		香港	appreciation	reaction	neg	exp	东方日报	2014	05	3	
+台湾认为香港前途底定，		台湾	香港	appreciation	reaction	neg	exp	东方日报	2014	09	4	
+在民主中狂打选战，反对派不但没有胜算，还会激化矛盾，激怒北京，弄巧成拙也	矛盾；激怒	舆论	选战	appreciation	reaction	neg	exp	东方日报	2014	08	3	
+「一国两制」对台湾完全失去吸引力，	吸引力	立法会议员黄毓民	一国两制	appreciation	reaction	neg	exp	东方日报	2014	06	3	
+驶向「一国两制」的末日	末日		一国两制	appreciation	reaction	neg	exp	东方日报	2014	07	3	
+「一国两制」幻象	幻想		一国两制	appreciation	reaction	neg	exp	东方日报	2014	06	3	
+马英九强调一国两制不适用于台湾	适用	马英九	一国两制	appreciation	reaction	neg	exp	东方日报	2014	06	3	
+回归后「一国两制、港人治港、高度自治」正在被六四冤案的制造者大大侵蚀	侵蚀		一国两制	appreciation	reaction	neg	exp	东方日报	2014	06	3	
+对国民党的选情来说，也随时是落井下石之举	落井下石	国民党	一国两制	appreciation	reaction	neg	exp	东方日报	2014	09	4	
+中共对形势的判断是一国权威受到了巨大挑战	挑战	中共	一国权威	appreciation	reaction	neg	exp	东方日报	2014	06	3	
+白皮书不但令之前中央对香港政改进行的统战工作完全白费	白费	立法会议员黄毓民	白皮书	appreciation	reaction	neg	imp	东方日报	2014	06	3	
+这概念的提出无疑会从左的方面把「两制」差异挤压掉，把港人治港、高度自治挤压掉			概念	appreciation	reaction	neg	imp	东方日报	2014	06	3	
+如果真的走到这个地步，一国两制变成一拍两散，香港也就玩完了	一拍两散		一国两制	appreciation	reaction	neg	imp	东方日报	2014	06	3	
+「白皮书」释港权则在证明所谓「一国两制」恐终不可行，迟早变成一国一制	恐		一国两制	appreciation	reaction	neg	imp	东方日报	2014	06	3	
+别以为根据「一国两制」，颁布了《基本法》，香港便可我行我素			一国两制	appreciation	reaction	neg	imp	东方日报	2014	06	3	
+港澳的一国两制实在要认真检讨			一国两制	appreciation	reaction	neg	imp	东方日报	2014	12	4	
+舆论认为，香江千万不要搞甚么民主普选，还是「协商」比较好，比较能够让北京「理性考虑」如何回应港人诉求，有利于「贯彻落实一国两制、港人治港、高度自治	好	舆论	协商	appreciation	reaction	pos	exp	东方日报	2014	08	3	
+后者以一国两制白皮书作为理论基础，强调两制要尊重一国这个前提		建制派	一国两制？	appreciation	reaction	pos	exp	东方日报	2014	06	3	
+这样的宪法并没有把一国两制、高度自治与全面管治权对立起来			宪法	appreciation	reaction	pos	imp	东方日报	2014	06	3	
+香港本身就是中西文化高度融合的国际城市，既与内地关系密切，很多方面又能与国际接轨，本来应该甚为适合举办国际大型会议的	融合		香港	appreciation	reaction	pos	imp	东方日报	2014	03	3	
+香港实施「一国两制」十七年，其垂范于世的橱窗角色，观众已不独是台湾，还有内地民众			一国两制	appreciation	reaction	pos	imp	东方日报	2014	05	3	
+习近平此时重申「一国两制」是最佳方式论	最佳	习近平	一国两制	appreciation	valuation	pos	exp	东方日报	2014	09	4	
+举办国际大型会议的，一来有助进一步提升香港的国际知名度，让外国更多认识香港「一国两制」的特点，二来更能发挥中外沟通的桥梁作用，可谓利港利国	提升		国际大型会议	appreciation	valuation	pos	imp	东方日报	2014	03	3	
+香港人对「一国两制」的一些糊涂认识		中央	香港人	judgement	capacity	neg	imp	东方日报	2014	07	3	
+中国已非一百二十年前的中国，对任何挑衅行为，中国绝不姑息，	绝不姑息		中国	judgement	capacity	pos	imp	东方日报	2014	03	3	
+环球时报则再度点火	点火		环球时报	judgement	propriety	neg	exp	东方日报	2014	07	3	
+有人扭曲对「一国两制」及《基本法》的理解	扭曲；纠纷	梁爱诗	有人	judgement	propriety	neg	exp	东方日报	2014	09	4	
+借助外在势力不断挑起政治纠纷		梁爱诗	有人	judgement	propriety	neg	exp	东方日报	2014	09	4	
+将矛头指向中央，企图将香港变成独立政治实体		梁爱诗	有人	judgement	propriety	neg	exp	东方日报	2014	09	4	
+这对尽作胡儿语的余孽汉奸对着洋人喋喋不休，甚么一国两制受到损害啦、新闻自由受到打压啦、司法独立受到影响啦等等，将香港说得一无是处，彷佛末日来临似的	胡儿语		这对余孽汉奸	judgement	propriety	neg	exp	东方日报	2014	07	3	
+北京对香港人争取民主的评判愈来愈接近当年对北京学生和市民的评判，例如拟把「占中」当「六四」也			北京	judgement	propriety	neg	imp	东方日报	2014	06	3	
+内地有些省份「富可敌国」，可是未能「藏富于民」			内地有些省份	judgement	propriety	neg	imp	东方日报	2014	01	3	
+香港政府库房水浸，却搞到「民生经济乱如麻，香江处处疾苦声」			香港	judgement	propriety	neg	imp	东方日报	2014	01	3	
+港人视白皮书为篡改《基本法》的前奏，视中央这次举动是对港收权，否定「一国两制」	篡改	港人	中央	judgement	propriety	neg	imp	东方日报	2014	06	3	
+做不到的事为甚么又要堂而皇之地对外宣告呢			中央	judgement	propriety	neg	imp	东方日报	2014	07	3	
+将这些分赃利益集团绳之以法，各个击破	绳之以法			judgement	propriety	pos	exp	东方日报	2014	03	3	
+人民日报讲解在《基本法》下的中港关系，疑似想为中央发表「一国两制」白皮书激起的民愤降温	降温		人民日报	judgement	propriety	pos	imp	东方日报	2014	07	3	
+中央发表白皮书，强调全面管治权，原意是重申对港主权，扶正「一国两制」，让港人认清《基本法》原貌，	扶正	掌握京城脉搏人士	中央	judgement	propriety	pos	imp	东方日报	2014	06	3	
+共产党一天不行民主，香港便民主无望			共产党	judgement	tenacity	neg	imp	东方日报	2014	06	3	
+中央的政策立场不会松动，因为北京是不受要挟的	松动		北京	judgement	tenacity	pos	exp	东方日报	2014	07	3	
+当前主要是要全面准确贯彻落实一国两制方针	贯彻落实	习近平	政府？	judgement	tenacity	pos	exp	东方日报	2014	09	4	
+必将予以坚决应对	坚决		中国	judgement	tenacity	pos	imp	东方日报	2014	03	3	
+甚么人会高兴、偷着乐呢？			第五代	affect	happiness	neg	imp	东方日报	2015	02	4	
+狄志远更是公开支持「袋住先」	支持	狄志远	袋住先（政改方案）	affect	inclination	pos	exp	东方日报	2015	08	4	
+这位法律专家声称应该全面贯彻实施《基本法》和「一国两制」		法律专家	一国两制	affect	inclination	pos	exp	东方日报	2015	12	4	
+他们认同一国两制、国家宪法、香港《基本法》及国家体制和制	认同	他们	一国两制	affect	inclination	pos	exp	东方日报	2015	06	4	
+但对一国两制在香港贯彻落实的自信却在下降	自信		一国两制	affect	security	neg	exp	东方日报	2015	08	4	
+若然香港出现了一股类似伊斯兰国的恐怖组织，打着「港独」旗帜，不择手段地破坏香港现时实行的「一国两制」，那才是社会未来之患	患		「港独」旗帜	affect	security	neg	imp	东方日报	2015	06	4	
+香港已交回中国，英国只是局外人而已	局外人	英女王	香港	appreciation	reaction	neg	exp	东方日报	2015	10	4	
+不管是「一国两制」再启蒙，还是在中小学恶补《基本法》，都不会一帆风顺	一帆风顺		一国两制	appreciation	reaction	neg	exp	东方日报	2015	04	4	
+今次香港政改若泡汤，停滞不前	泡汤；停滞不前		政改	appreciation	reaction	neg	exp	东方日报	2015	02	4	
+一国两制、港人治港、高度自治」的「宏伟蓝图」的「天才构想	宏伟；天才		一国两制	appreciation	reaction	pos	exp	东方日报	2015	09	4	
+一国两制的构思，就是香港回归中国，不需跟国内的一套			一国两制	appreciation	reaction	pos	imp	东方日报	2015	10	4	
+说了等于没说			法律专家的话	appreciation	valuation	neg	exp	东方日报	2015	12	4	
+《基本法》实施近十八年，保障「一国两制」在香港的成功实践	保障；成功		基本法	appreciation	valuation	pos	exp	东方日报	2015	04	4	
+香港仍然起到内地任何大城市未能起的作用	作用		香港	appreciation	valuation	pos	exp	东方日报	2015	11	4	
+香港库房之所以长期「水浸」，主要是受惠于「一国两制」下的独特地位	受惠于		一国两制	appreciation	valuation	pos	exp	东方日报	2015	02	4	
+第五代贯彻落实一国两制就绝无功业可言，甚至是负数败笔，留下的是政蹇经穷的烂摊子	绝无功业；败笔		第五代	judgement	capacity	neg	exp	东方日报	2015	02	4	
+在阿爷眼中，谁人支持一国两制和基本法，谁人反对一国两制和基本法，谁人转向合作共赢正道，谁人继续走对抗俱损歪道，不是一目了然吗？	一目了然		阿爷（中央）	judgement	capacity	pos	exp	东方日报	2015	08	4	
+英女王之前在国宴上公开称赞邓公具远见卓识	远见卓识	英女王	邓小平	judgement	capacity	pos	exp	东方日报	2015	10	4	
+英国人无中生有，显然是别有居心	无中生有；别有居心		英国人	judgement	propriety	neg	exp	东方日报	2015	10	4	
+一些人对《基本法》及「一国两制」的认知存在偏差	偏差		一些人	judgement	tenacity	neg	imp	东方日报	2015	04	4	
+澳门与香港已就区际刑事司法，互助必须坚守「一国两制」的基本原则等达成共识	坚守	澳门行政法务司司长陈海帆	澳门；香港	judgement	tenacity	pos	exp	东方日报	2015	09	4	
+中国坚持一国两制、高度自治	坚持		中国	judgement	tenacity	pos	exp	东方日报	2015	11	4	
+难入朝廷的法眼		朝廷	胡须曾	affect	inclination	neg	exp	东方日报	2016	11	4	
+港人只能「噤若寒蝉」，对「一国两制」俯首帖耳		港人	一国两制	affect	inclination	neg	imp	东方日报	2016	03	4	
+要保证贯彻落实一国两制「不走样，不变形」			一国两制	affect	inclination	pos	exp	东方日报	2016	01	4	
+中央要求全面准确贯彻「一国两制」方针	要求	中央	一国两制	affect	inclination	pos	exp	东方日报	2016	03	4	
+希望透过游行向特区政府发声，保护香港原有的自由和价值	希望	大专生刘同学	自由；价值	affect	inclination	pos	exp	东方日报	2016	06	4	
+国台办昨日以安峰山受访名义发布新闻稿，除批评梁、游	批评	国台办	梁；游	affect	satisfaction	neg	exp	东方日报	2016	10	4	
+大专生刘同学表示，对内地越境执法及逼人认罪感愤怒	愤怒	大专生刘同学	内地越境执法	affect	satisfaction	neg	exp	东方日报	2016	06	4	
+则是可忍孰不可忍！中方该受强烈谴责	谴责		中方	affect	satisfaction	neg	exp	东方日报	2016	09	4	
+中央的不满显然不是冲着澳门而来	不满	中央	香港	affect	satisfaction	neg	imp	东方日报	2016	10	4	
+获中央高度赞扬为一国两制的典范	典范；赞扬	中央	澳门	affect	satisfaction	pos	exp	东方日报	2016	10	4	
+获得香港各界和国际社会的普遍肯定	肯定	国际社会	特区政府	affect	satisfaction	pos	exp	东方日报	2016	10	4	
+社会主义「一国」在香港人心中愈加恐惧，	恐惧	香港人	一国两制	affect	security	neg	exp	东方日报	2016	10	4	
+市民对香港与中国前途，以及一国两制的信心净值，继三个月前明显回升后，再度掉头回落	信心	市民	一国两制	affect	security	neg	imp	东方日报	2016	03	4	
+中央相信特区政府有能力	相信	李克强	特区政府	affect	security	pos	exp	东方日报	2016	03	4	
+李克强回应指，香港会保持长期繁荣稳定，	会	李克强	香港	affect	security	pos	exp	东方日报	2016	03	4	
+中央相信香港民众有智慧处理香港遇到的各种复杂问题和局面	相信	李克强	香港民众	affect	security	pos	exp	东方日报	2016	03	4	
+「人心回归」自然渐行渐远	渐行渐远		人心回归	appreciation	reaction	neg	exp	东方日报	2016	10	4	
+香港全面倒退，连回归日都不得安宁，	倒退；不得安宁；		香港	appreciation	reaction	neg	exp	东方日报	2016	07	4	
+回归以来风雨飘摇	风雨飘摇		香港	appreciation	reaction	neg	exp	东方日报	2016	10	4	
+反映一国两制被蚕食	蚕食	大专生刘同学	一国两制	appreciation	reaction	neg	exp	东方日报	2016	06	4	
+些人认为这些方法政治震动较大，甚至被指干预香港的高度自治	震动；干预	有些人	白皮书；八三一决定	appreciation	reaction	neg	imp	东方日报	2016	10	4	
+「一地两检」在香港总站执行，便被反对派批评为破坏「一国两制」	破坏	反对派	一地两检	appreciation	reaction	neg	imp	东方日报	2016	02	4	
+这样的老虎皮	老虎皮		一国两制	appreciation	reaction	neg	imp	东方日报	2016	03	4	
+占领之乱更令香港元气大伤	元气大伤		占领之乱	appreciation	reaction	neg	imp	东方日报	2016	10	4	
+澳门回归后歌舞升平	歌舞升平		澳门	appreciation	reaction	pos	exp	东方日报	2016	10	4	
+澳门蒸蒸日上，成为一国两制的典范	蒸蒸日上		澳门	appreciation	reaction	pos	exp	东方日报	2016	07	4	
+陈勇指出，北京早前就政改问题发表过《一国两制在港实践白皮书》及「八三一」决定，这些都是合法的方法	合法	陈勇	白皮书；八三一决定	appreciation	reaction	pos	exp	东方日报	2016	10	4	
+基本法起草委员会委员谭耀宗指释法是合理的	合理	基本法起草委员会委员谭耀宗	释法	appreciation	reaction	pos	exp	东方日报	2016	11	4	
+基本法委员会委员黄玉山认为，释法不会影响本港的司法独立		基本法委员会委员黄玉山	释法	appreciation	reaction	pos	imp	东方日报	2016	11	4	
+香港作为中国实行一国两制的地方，有其独特之处，主要是高度自治	独特之处		香港	appreciation	reaction	pos	imp	东方日报	2016	03	4	
+「一国两制、港人治港」，本是为了确保长期繁荣稳定	确保		一国两制	appreciation	reaction	pos	imp	东方日报	2016	10	4	
+堪称一国两制的负面教材	负面教材		香港	appreciation	valuation	neg	exp	东方日报	2016	07	4	
+成为一国两制的典范	典范		澳门	appreciation	valuation	pos	exp	东方日报	2016	07	4	
+以白皮书方式讲清楚中央立场，很大机会是有用的	有用	陈勇	白皮书	appreciation	valuation	pos	exp	东方日报	2016	10	4	
+情况就如「八三一」决定一样，为港独问题下一道闸，闸住港独的气焰		陈勇	八三一决定	appreciation	valuation	pos	imp	东方日报	2016	10	4	
+胡须曾何止不懂《基本法》，不理解「一国两制」	不懂		胡须曾	judgement	capacity	neg	imp	东方日报	2016	11	4	
+特区政府有能力	能力	李克强	特区政府	judgement	capacity	pos	exp	东方日报	2016	03	4	
+香港民众有智慧处理香港遇到的各种复杂问题和局面	智慧	李克强	香港民众	judgement	capacity	pos	exp	东方日报	2016	03	4	
+北京强力部门涉嫌违反一国两制，跨境捉人，在香港掳走铜锣湾书局人员	违反		北京强力部门	judgement	propriety	neg	exp	东方日报	2016	09	4	
+吴昨日亦重申港独违反《基本法》、破坏一国两制，学校明白立场，再毋须要讨论	违反；破坏	教育局局长吴克俭	港独	judgement	propriety	neg	exp	东方日报	2016	08	4	
+国台办昨日以安峰山受访名义发布新闻稿，除批评梁、游在宣誓风波后与台独分子勾结	勾结	国台办	梁；游	judgement	propriety	neg	exp	东方日报	2016	10	4	
+廖晖主管港澳事务对香港和「一国两制」的「糟蹋	糟蹋		廖晖	judgement	propriety	neg	exp	东方日报	2016	10	4	
+有议员在宣誓时有不好行为，挑战一国两制	挑战		有议员	judgement	propriety	neg	exp	东方日报	2016	11	4	
+「特区政府按照基本法的规定实施『港人治港、高度自治』，使『一国两制』在香港得到全面落实		国台办	特区政府	judgement	tenacity	pos	imp	东方日报	2016	10	4	
+并强调中央没有、也不会改变一国两制、港人治港、高度自治的方针	改变	李克强	中央	judgement	tenacity	pos	imp	东方日报	2016	03	4	
+部分人不愿接受宪制权力的根本改变	愿意	部分人	改变	affect	inclination	neg	exp	东方日报	2017	08	4	
+否认自己支持港独	否认	黄之锋	港独	affect	inclination	neg	exp	东方日报	2017	02	4	
+绿营抗拒「一中」	抗拒	绿营	一国两制	affect	inclination	neg	exp	东方日报	2017	10	4	
+支持香港在二○四七年后「自治独立」或者维持一国两制的市民比率，均较一年前下跌	支持	市民	一国两制	affect	inclination	neg	exp	东方日报	2017	06	4	
+黄之锋似乎接过李柱铭的衣钵，成为新一代唱衰香港一国两制的代表人物	唱衰		黄之锋	affect	inclination	neg	imp	东方日报	2017	06	4	
+呼吁国际社会继续关注香港民主运动	呼吁	彭定康	关注香港民主运动	affect	inclination	pos	exp	东方日报	2017	07	4	
+支持改行「一国一制」的比率则大增至有一成七，较支持港独高出接近一倍	支持	市民	一国一制	affect	inclination	pos	exp	东方日报	2017	06	4	
+为了有效防止并处理这类行为，按照香港《基本法》规定将《国歌法》列入香港《基本法》附件三在香港实施，「就更加具有迫切性和现实重要性」			国歌法	affect	inclination	pos	imp	东方日报	2017	11	4	
+维护「一国两制」、持续反「港独」、推动社会大和解		笔者	一国两制	affect	inclination	pos	imp	东方日报	2017	02	4	
+刘梦熊寻日仲话要守护一国两制	守护	刘梦熊	一国两制	affect	inclination	pos	imp	东方日报	2017	12	4	
+引起包括广大香港居民在内的全国人民的极大愤慨	愤慨	全国人民	不尊重国歌事件	affect	satisfaction	neg	exp	东方日报	2017	11	4	
+旗帜鲜明反对港独，	反对	内地官方媒体	港独组织	affect	satisfaction	neg	exp	东方日报	2017	03	4	
+本港舆论称为「汉奸2.0」	汉奸	本港舆论	黄之锋	affect	satisfaction	neg	exp	东方日报	2017	06	4	
+质疑点解系体现「一国两制」，而唔系体现「港人治港，高度自治」	质疑	黄之锋	释法权	affect	satisfaction	neg	exp	东方日报	2017	07	4	
+反对派齐齐「唱衰香港」	唱衰	反对派	香港	affect	satisfaction	neg	exp	东方日报	2017	06	4	
+反对派一直将一地两检视为洪水猛兽	洪水猛兽	反对派	一地两检	affect	satisfaction	neg	exp	东方日报	2017	07	4	
+黄继续批评一国两制失败	批评	黄之锋	一国两制	affect	satisfaction	neg	exp	东方日报	2017	02	4	
+她质疑相关安排是否违反一国两制	质疑	公民党陈淑庄	异地两件	affect	satisfaction	neg	exp	东方日报	2017	02	4	
+不满英国政府无尽力监督一国两制落实等	不满	黄之锋	英国政府	affect	satisfaction	neg	exp	东方日报	2017	02	4	
+港人确实担忧廿三条立法会影响「一国两制、港人治港、高度自治」及资本主义制度和生活方式不变	担忧	港人	廿三条立法	affect	security	neg	exp	东方日报	2017	11	4	
+末代港督彭定康更质疑，北京政府近年谈及的一国两制，实为「一国一制	质疑	彭定康	一国两制	affect	security	neg	exp	东方日报	2017	07	4	
+朝廷和香江府衙一再表示，廿三条立法是为了维护国家安全，绝不会影响「一国两制		中央；香港政府	二十三条立法	appreciation	propriety	pos	imp	东方日报	2017	11	4	
+「不尊重国歌」事件，挑战「一国两制」原则底线和社会价值底线	挑战	说明	不尊重国歌事件	appreciation	reaction	neg	exp	东方日报	2017	11	4	
+「港人治港」愈治愈乱	乱		港人治港	appreciation	reaction	neg	exp	东方日报	2017	05	4	
+单口头空喊没用，搞宣传造舆论也没用	没用		空喊；宣传；舆论	appreciation	reaction	neg	exp	东方日报	2017	12	4	
+有人说是「一国两制」有问题	问题		一国两制	appreciation	reaction	neg	exp	东方日报	2017	05	4	
+「一国两制、港人治港、高度自治」实施差强人意	差强人意		一国两制	appreciation	reaction	neg	exp	东方日报	2017	12	4	
+黄继续批评一国两制失败	失败	黄之锋	一国两制	appreciation	reaction	neg	exp	东方日报	2017	02	4	
+她质疑相关安排是否违反一国两制	违反	公民党陈淑庄	异地两件	appreciation	reaction	neg	exp	东方日报	2017	02	4	
+书店事件更令两制变成只有「1.8制」、甚至「1.5制」		黄之锋	书店事件	appreciation	reaction	neg	imp	东方日报	2017	02	4	
+香港和澳门近年的遭遇可谓大不同			香港的一国两制	appreciation	reaction	neg	imp	东方日报	2017	05	4	
+受访者对一国两制评价只有四点八四分	评价	受访者	一国两制	appreciation	reaction	neg	imp	东方日报	2017	07	4	
+称一国两制已成为「一国一点五制」		黄之锋	一国两制	appreciation	reaction	neg	imp	东方日报	2017	06	4	
+必须遣人进去，而囿于「一国两制、港人治港」，还必须是孙立似的人物进去			一国两制	appreciation	reaction	neg	imp	东方日报	2017	12	4	
+「澳人治澳」却愈治愈好	好		澳人治澳	appreciation	reaction	pos	exp	东方日报	2017	05	4	
+多名议员关注一地两检进展	关注	多名议员	一地两检	appreciation	reaction	pos	exp	东方日报	2017	02	4	
+中央全面管治权方能落到实处也			管治权	appreciation	reaction	pos	imp	东方日报	2017	12	4	
+香港毕竟实行「一国两制、港人治港、高度自治」，有一整套制度层的阻隔			一国两制	appreciation	reaction	pos	imp	东方日报	2017	06	4	
+但有反对派的煽惑和港人深刻的「历史记忆」，朝廷信誓旦旦、苦口婆心都无效	无效		朝廷信誓旦旦、苦口婆心	appreciation	valuation	neg	exp	东方日报	2017	11	4	
+法律是维系社会公平公正的最后一道防线，法治是香港实行「一国两制」的最重要原因之一	最后一道防线；重要		法律	appreciation	valuation	pos	exp	东方日报	2017	06	4	
+谋划未来，确保一国两制行稳致远，才是重中之重	重中之重		一国两制	appreciation	valuation	pos	exp	东方日报	2017	07	4	
+民主党黄碧云亦批评政府「拖到最后一刻先拎方案出嚟，如果方案有争拗，真系会拖住成条高铁	批评	民主党黄碧云	政府高官	judgement	capacity	neg	imp	东方日报	2017	02	4	
+，抗拒中央的安排或政策，对一国两制的运作带来严重窒碍	抗拒；窒碍		部分人	judgement	propriety	neg	exp	东方日报	2017	08	4	
+反对派的煽惑和港人深刻的「历史记忆」	煽惑		反对派	judgement	propriety	neg	exp	东方日报	2017	11	4	
+批评港独是挑衅历史、现实和常识，是可能导致一国两制变形走样的最大祸患	挑衅	内地官方媒体	港独组织	judgement	propriety	neg	exp	东方日报	2017	03	4	
+理应维护法治的港府带头破坏法治	破坏		港府	judgement	propriety	neg	exp	东方日报	2017	06	4	
+港府衙门联手制造这起冤案，不能不予外界回归后不如回归前、一国两制失败的印象	冤案		港府衙门？	judgement	propriety	neg	exp	东方日报	2017	06	4	
+香港中小型律师行协会创会会长陈曼琪指出，黄之锋等人的行为，是对法治和一国两制的直接挑战，可能触犯《公安条例》下的在公众地方作出扰乱秩序行为罪	挑战；触犯	香港中小型律师行协会创会会长陈曼琪	黄之锋等人	judgement	propriety	neg	exp	东方日报	2017	06	4	
+理应是法治保护神的律政司竟然成为法治的埋葬者	埋葬者		律政司	judgement	propriety	neg	exp	东方日报	2017	06	4	
+「污名化」无所不用其极，反对的理由无非都是「内地人员跨境执法冲击一国两制」、「割地卖港」等等，语不惊人死不休，并预告拉布抗争	污名化		反对派	judgement	propriety	neg	imp	东方日报	2017	07	4	
+港府总是迷信「外来和尚会念经」，彷佛不请几个洋人撑腰，就不是一国两制，就不是高度自治	迷信		港府	judgement	tenacity	neg	exp	东方日报	2017	11	4	
+刘梦熊寻日仲话要「是其是，非其非」，未免有啲大言不惭	大言不惭		刘梦熊	judgement	tenacity	neg	exp	东方日报	2017	12	4	
+李克强强调，国家将继续全面准确贯彻一国两制、港人治港、澳人治澳、高度自治方针	继续	李克强	国家	judgement	tenacity	pos	exp	东方日报	2017	10	4	
+内地官方媒体昨日发表评论文章提出「三不一反」，即必须确保一国两制在香港的实践不动摇、不走样、不变形	确保	内地官方媒体	政府？	judgement	tenacity	pos	exp	东方日报	2017	03	4	
+朝廷信誓旦旦、苦口婆心	信誓旦旦；苦口婆心		中央	judgement	tenacity	pos	exp	东方日报	2017	11	4	
+今天的局势确实令人悲哀	悲哀		局势	affect	happiness	neg	exp	东方日报	2018	10	4	
+当年绝大多数香港人对北京承诺「一国两制、港人治港、高度自治」相当高兴	高兴	香港人	一国两制	affect	happiness	pos	exp	东方日报	2018	06	4	
+香港这一制来自英夷一百五十多年的殖民统治，奠定了深厚的制度基础、利益基础、社会基础，这些基础有天然抗拒一国和朝廷的属性	抗拒	香港	一国两制；中央政府	affect	inclination	neg	exp	东方日报	2018	01	4	
+廿三万监察发言人王国兴直斥，香港众志及其秘书长黄之锋	直斥	廿三万监察发言人王国兴	香港众志；黄之锋	affect	satisfaction	neg	exp	东方日报	2018	06	4	
+怒斥他们做美国反华势力的「走狗」	怒斥	廿三万监察发言人王国兴	杨政贤	affect	satisfaction	neg	exp	东方日报	2018	06	4	
+社会民间中存在的拒共、反共情绪	拒；反共	社会民间	中共	affect	satisfaction	neg	exp	东方日报	2018	06	4	
+批评中央政府	批评	郭家麒	中央政府	affect	satisfaction	neg	exp	东方日报	2018	02	4	
+咁都高调玩咗两年几，话港府唔系姑息养奸都冇人信喇	姑息养奸		港府	affect	satisfaction	neg	imp	东方日报	2018	07	4	
+这一切才是高官心目中「一国两制」的成功体现			高官	affect	satisfaction	neg	imp	东方日报	2018	08	4	
+社会民间中存在的恐共	恐；	社会民间	中共	affect	security	neg	exp	东方日报	2018	06	4	
+然没有人想想港人有没有可能实现这一「天才构想」			一国两制	affect	security	neg	imp	东方日报	2018	06	4	
+有信心院校有能力处理校园内示威冲突	信心	他	院校	affect	security	pos	exp	东方日报	2018	11	4	
+一国两制在香港体现的是两制多于一国	多于		一国两制	appreciation	composition	neg	exp	东方日报	2018	09	4	
+很容易遭到反中乱港及旧势力的迫害打压			爱国爱港力量	appreciation	reaction	neg	exp	东方日报	2018	01	4	
+他重申，港独不符合《基本法》及一国两制	符合	他	港独	appreciation	reaction	neg	exp	东方日报	2018	11	4	
+容忍港独势力存在并发展，最终将危及「一国两制」事业，将损害香港所有人的利益	危机；损害	全国人大法律委员会前主任委员乔晓阳	容忍港独势力存在并发展	appreciation	reaction	neg	exp	东方日报	2018	04	4	
+一国两制和港人治港已经走样变色	走样；变色	郭家麒	一国两制	appreciation	reaction	neg	exp	东方日报	2018	02	4	
+一国两制要完整落实怎会不变形、不走样	变形；走样		一国两制	appreciation	reaction	neg	exp	东方日报	2018	10	4	
+这观点有意无意地为二十三条立法前危害国家安全的人开脱，与「一国两制」保留原有法律的设想背道而驰	开脱；背道而驰		这观点	appreciation	reaction	neg	exp	东方日报	2018	07	4	
+香港行政体制、司法领域中有一股强大深厚的港英余孽力量	港英余孽		香港行政体制、司法领域	appreciation	reaction	neg	imp	东方日报	2018	06	4	
+香港的一国两制、港人治港搞得好不好，纯属中国内政，同英国半毛钱关系都没有	半毛钱关系		一国两制	appreciation	reaction	neg	imp	东方日报	2018	01	4	
+香港是「一国两制，高度自治」，从来不是独立的「政治实体」			一国两制	appreciation	reaction	pos	imp	东方日报	2018	11	4	
+香港实施一国两制，在普通法的保护下他们享有最大的「为反对而反对」的自由			一国两制	appreciation	valuation	pos	imp	东方日报	2018	06	4	
+爱国爱港力量自是难振，很容易遭到反中乱港及旧势力的迫害打压	难振		爱国爱港力量	judgement	capacity	neg	exp	东方日报	2018	01	4	
+政府高层软弱无能、	软弱无能		政府高官	judgement	capacity	neg	exp	东方日报	2018	10	4	
+院校有能力处理校园内示威冲突	能力	他	院校	judgement	capacity	pos	exp	东方日报	2018	11	4	
+戴耀廷领取政府的薪金，竟到台湾煽独、五独结盟			戴耀廷	judgement	propriety	neg	exp	东方日报	2018	10	4	
+港独组织违反《基本法》同「一国两制」，仲分分钟违反《刑事罪行条例》	违反		港独组织	judgement	propriety	neg	exp	东方日报	2018	07	4	
+涂谨申抬出美国来扰乱调查，是否把河套地区当成了美国的领土	扰乱		涂谨申	judgement	propriety	neg	exp	东方日报	2018	11	4	
+香港众志曾发表公开文章，指香港前途公投的选项应包括独立和地方自治等，与《基本法》的「一国两制」原则相违背	违背	选举主任	香港众志	judgement	propriety	neg	exp	东方日报	2018	01	4	
+今次其成员与杨政贤更在美国与其他分裂分子连结搅局，作出歪曲中国及香港的言论，是破坏国家繁荣稳定及香港一国两制，怒斥他们做美国反华势力的「走狗」	搅局；歪曲；破坏	廿三万监察发言人王国兴	杨政贤	judgement	propriety	neg	exp	东方日报	2018	06	4	
+中央政府违反《中英联合声明》和《基本法》	违反	郭家麒	中央政府	judgement	propriety	neg	exp	东方日报	2018	02	4	
+香港众志及其秘书长黄之锋一早已经是「彻头彻尾港独分子」，	彻头彻尾	廿三万监察发言人王国兴	香港众志；黄之锋	judgement	propriety	neg	imp	东方日报	2018	06	4	
+当局现在考虑禁止香港民族党运作，有关要求无疑是合法合情合理，并严格执行一国两制	合法；合情；合理		当局	judgement	propriety	pos	exp	东方日报	2018	07	4	
+政府高层怕事及避事	怕事		政府高官	judgement	tenacity	neg	exp	东方日报	2018	10	4	
+有港府这把保护伞撑腰，这就解释了一众老嫩肥瘦的洋奴汉奸何以毫发无损，也解释了何以外国记协明剃北京眼眉，港府依然置若罔闻			港府	judgement	tenacity	neg	imp	东方日报	2018	08	4	
+反对派成日靠吓，郁吓就话一国两制已死，郁吓就话威权杀到嚟，讲到香港水深火热			反对派	judgement	veracity	neg	imp	东方日报	2018	01	4	
+蔡再度表示强烈拒绝，称「一国两制绝非解决两岸问题的处方笺」	拒绝	蔡英文	一国两制	affect	inclination	neg	exp	东方日报	2019	03	4	
+蔡英文强硬抗拒，既不接受「九二共识」，也不接受「一国两制」	接受	蔡英文	一国两制	affect	inclination	neg	exp	东方日报	2019	01	4	
+她又第一时间强硬表态不接受九二共识和一国两制	接受	蔡英文	一国两制	affect	inclination	neg	exp	东方日报	2019	01	4	
+反对派和老美不会「认同」这些	认同	反对派；老美	这些	affect	inclination	neg	exp	东方日报	2019	03	4	
+林郑说香港会不遗余力推动大湾区的发展，不会抵触「一国两制」，而是丰富「一国两制」的内涵	推动	林郑	大湾区	affect	inclination	pos	exp	东方日报	2019	02	4	
+他建议未来应改组行政会议及问责团队	建议	他	改组行政会议及问责团队	affect	inclination	pos	exp	东方日报	2019	07	4	
+中国欲在复杂诡谲的国际舆论中重夺外交话语权	欲	中国	话语权	affect	inclination	pos	exp	东方日报	2019	07	4	
+民主党籍的众议院议长佩洛西表示，议案提醒美国面对中国重大商业利益时要支持人权	支持	美国	人权	affect	inclination	pos	exp	东方日报	2019	10	4	
+故中央定会继续支持	支持	中央；香港政府	特首	affect	inclination	pos	exp	东方日报	2019	06	4	
+央更应考虑调整对港方针，为一国两制输入活力或赋予新含意			调整对方方针	affect	inclination	pos	exp	东方日报	2019	07	4	
+对「一国两制」仍深存厚望的人	厚望	人	一国两制	affect	inclination	pos	exp	东方日报	2019	08	4	
+一国两制，内地很多人渴望有跑马而不可得	渴望	内地很多人	一国两制	affect	inclination	pos	exp	东方日报	2019	09	4	
+「新年代」继续支持政府尽快完成修订《逃犯条例》	支持	新年代	政府	affect	inclination	pos	exp	东方日报	2019	06	4	
+推销其用「台湾人自主」遮掩的台独理念	推销	蔡英文	台独理念	affect	inclination	pos	imp	东方日报	2019	03	4	
+以维护本港「一国两制」的核心价值		新年带	一国两制	affect	inclination	pos	imp	东方日报	2019	06	4	
+青年们要认清一国两制			一国两制	affect	inclination	pos	imp	东方日报	2019	12	4	
+腐败的怪胎	腐败；怪胎		怪胎	affect	satisfaction	neg	exp	东方日报	2019	12	4	
+对此必须采取零容忍态度	零容忍	港澳办副主任邓中华	行径	affect	satisfaction	neg	exp	东方日报	2019	04	4	
+台湾的陆委会当日发声明回应，批评陆方	批评	台湾陆委会	陆方	affect	satisfaction	neg	exp	东方日报	2019	11	4	
+直斥美国在香港问题上扮演了幕后黑手角色	直斥	中国	美国	affect	satisfaction	neg	exp	东方日报	2019	07	4	
+他批评民进党极力阻挠海峡论坛	批评	全国政协主席汪洋	民进党	affect	satisfaction	neg	exp	东方日报	2019	06	4	
+港府强烈反对英国下议院外交事务专责委员会报告的指控	反对	港府	英国下议院外交事务专责委员会报告的指控	affect	satisfaction	neg	exp	东方日报	2019	11	4	
+她讴歌、揄扬粤港澳大湾区	讴歌；揄扬	林郑	大湾区	affect	satisfaction	pos	exp	东方日报	2019	02	4	
+爱国爱港阵营和「中间民意」对北京愈会丧失信任和信心，还讲甚么爱国爱港，维护「一国两制」、国家主权和尊严	信任；信心	爱国爱港阵营；中间民意	北京	affect	security	neg	exp	东方日报	2019	10	4	
+如果内地开始视香港系如深圳或上海一样嘅内地城市，国际社会会认为香港不再系特别行政区		彭定康	香港	affect	security	neg	imp	东方日报	2019	05	4	
+他又称，坚信包括港澳同胞在内的中国人民完全有智慧、有能力把一国两制实践发展得更好，把特区治理得更好	坚信	他	一国两制	affect	security	pos	exp	东方日报	2019	12	4	
+国泰又谴责一切挑战一国两制原则和《基本法》权威的非法活动和暴力行为	挑战	国泰	非法活动；暴力行为	appreciation	reaction	neg	exp	东方日报	2019	08	4	
+否则港府将如「跛脚鸭」	跛脚鸭		港府	appreciation	reaction	neg	exp	东方日报	2019	07	4	
+这个腐败的怪胎已经存在一段时间，对一国两制的损害依然存在没有消退	损害		怪胎	appreciation	reaction	neg	exp	东方日报	2019	12	4	
+其实这种管治方式在当代中国人的土地上根本行不通	行不通	中央政府	管制方式	appreciation	reaction	neg	exp	东方日报	2019	08	4	
+复杂诡谲的国际舆论			国际舆论	appreciation	reaction	neg	exp	东方日报	2019	07	4	
+但另一个可能性则更坏	坏		可能行	appreciation	reaction	neg	exp	东方日报	2019	08	4	
+请老美出头也无济于事	无济于事		老美	appreciation	reaction	neg	exp	东方日报	2019	03	4	
+明年民进党的处境恐怕比二○○八年还险峻	险峻	赖清德	民进党	appreciation	reaction	neg	exp	东方日报	2019	03	4	
+台湾的主权跟民主将会遭到空前的挑战和危机	挑战；危机	赖清德	台湾的主权和民主	appreciation	reaction	neg	exp	东方日报	2019	03	4	
+肥彭又走出嚟，喺接受访问时形容修例系回归以来「最差的事」，破坏中国对一国两制嘅承诺	差；破坏	彭定康	修例	appreciation	reaction	neg	exp	东方日报	2019	05	4	
+一国两制一直存有未完善的地方	完善	时事评论员陈云生	一国两制	appreciation	reaction	neg	exp	东方日报	2019	08	4	
+一国两制荒腔走板	荒腔走板		一国两制	appreciation	reaction	neg	exp	东方日报	2019	02	4	
+「一国两制」是失败的	失败		一国两制	appreciation	reaction	neg	exp	东方日报	2019	11	4	
+一国两制遭极大破坏	破坏		一国两制	appreciation	reaction	neg	exp	东方日报	2019	12	4	
+「一国两制」大政方针「结构性矛盾」的存在	矛盾		一国两制	appreciation	reaction	neg	exp	东方日报	2019	06	4	
+中央对港政策再不改弦更张，坚持「强硬才是大道理」，一国两制只会彻底玩完，香港只会万劫不复	玩完		一国两制	appreciation	reaction	neg	exp	东方日报	2019	06	4	
+逼迫台湾接受投降式的一国两制	投降式	赖清德	一国两制	appreciation	reaction	neg	exp	东方日报	2019	03	4	
+以香港「一国两制」之劣	劣	蔡英文	一国两制	appreciation	reaction	neg	exp	东方日报	2019	03	4	
+香港的政治之乱损害了香港经济甚至损害了一国两制时	损害		政治之乱	appreciation	reaction	neg	exp	东方日报	2019	09	4	
+完全是台独与港独合演的「丑剧」	丑剧			appreciation	reaction	neg	exp	东方日报	2019	09	4	
+香港出现了一些冲击国家安全底线，损害香港繁荣稳定的行径	冲击；损害	港澳办副主任邓中华	行径	appreciation	reaction	neg	imp	东方日报	2019	04	4	
+是对一国两制的严重危害	危害	港澳办副主任邓中华	行径	appreciation	reaction	neg	imp	东方日报	2019	04	4	
+香港正站在悬崖边上	悬崖		香港	appreciation	reaction	neg	imp	东方日报	2019	06	4	
+假如黄得以进入香港的政治建制，将是香港可以朝着合法脱离中国方向移动信号	脱离		香港	appreciation	reaction	neg	imp	东方日报	2019	10	4	
+一个知法犯法、丑闻不绝的司法中人当上了香港律政司司长，这是香港回归二十二年，实施「一国两制、港人治港、高度自治」最奇葩的事情			一个知法犯法、丑闻不绝的司法中人当上了香港律政司司长	appreciation	reaction	neg	imp	东方日报	2019	06	4	
+一国两制确实走样变形	走样；变形		一国两制	appreciation	reaction	neg	imp	东方日报	2019	06	4	
+重申法治是香港经济繁荣和人民安居乐业的基石	基石	国泰	法制	appreciation	reaction	pos	exp	东方日报	2019	08	4	
+「一国两制」成为会议焦点	焦点		一国两制	appreciation	reaction	pos	exp	东方日报	2019	11	4	
+「一国两制扩大进步版」是突破思维	突破		一国两制扩大进步版	appreciation	reaction	pos	exp	东方日报	2019	10	4	
+这一仗事关重大，结果如何不仅关乎法治、公义、港府形象，更关乎中央权威，关乎一国两制	事关重大		这一仗	appreciation	reaction	pos	exp	东方日报	2019	05	4	
+中央全面管治权之提出，四年多来仅有口头意义	口头意义		全面管治权	appreciation	valuation	neg	imp	东方日报	2019	06	4	
+一国两制绝非解决两岸问题的处方笺		蔡英文	一国两制	appreciation	valuation	neg	imp	东方日报	2019	03	4	
+特首是维护国家安全、保障一国两制重要职位	重要	刘兆佳	特首	appreciation	valuation	pos	exp	东方日报	2019	06	4	
+香港只有做好上述两大方面，保有和发扬它的独有价值，「一国两制」才能在香港安身立命			两大方面	appreciation	valuation	pos	imp	东方日报	2019	02	4	
+适切监管本地互联网，是能不能「止暴制乱」、粉碎「颜色革命」不可或缺的环节，也是维护「一国两制」、维护国家主权、国家安全和发展利益之必须			适切监管本地互联网	appreciation	valuation	pos	imp	东方日报	2019	10	4	
+「一国两制」才能在香港安身立命	安身立命		一国两制	appreciation	valuation	pos	imp	东方日报	2019	02	4	
+当香港的政治之乱损害了香港经济甚至损害了一国两制时，北京往往束手无策	束手无策		北京	judgement	capacity	neg	exp	东方日报	2019	09	4	
+反对派和老美看不清二十多年来困扰「一国两制」之事的问题所在，更不明他们的做法只会弄巧成拙	弄巧成拙		反对派；老美	judgement	capacity	neg	exp	东方日报	2019	03	4	
+行政长官、管治团队办事不力等等	办事不力		行政长官、管治团队	judgement	capacity	neg	exp	东方日报	2019	06	4	
+他们的错误是不知道	错误		他们	judgement	capacity	neg	exp	东方日报	2019	11	4	
+香港人却不珍惜自己拥有的东西，实在愚不可及	愚不可及		香港人	judgement	capacity	neg	exp	东方日报	2019	09	4	
+她对于香港在其中的角色、地位，是不是应该有更具体而微的论述呢			林郑	judgement	capacity	neg	imp	东方日报	2019	02	4	
+中国人民完全有智慧		他	中国人民	judgement	capacity	pos	exp	东方日报	2019	12	4	
+中国人民完全有能力		他	中国人民	judgement	capacity	pos	exp	东方日报	2019	12	4	
+这些激进暴力分离分子借其他市民反修例游行之际，以羞辱国家民族之行为，企图打击及破坏「一国两制」，挑拨中央及特区之关系，损害香港市民基本及长远利益	羞辱；打击；破坏；挑拨；损害		暴力分离分子	judgement	propriety	neg	exp	东方日报	2019	07	4	
+蔡英文当局作为幕后推手，介入香港事态的恶劣行径	恶劣	环球时报	蔡英文当局	judgement	propriety	neg	exp	东方日报	2019	09	4	
+赖清德完成登记后表示，大陆积极推动并吞台湾进程，	并吞	赖清德	大陆	judgement	propriety	neg	exp	东方日报	2019	03	4	
+反中乱港集团能够随意煽惑发动骚乱和暴乱	煽惑		反中乱港集团	judgement	propriety	neg	exp	东方日报	2019	06	4	
+不冲击一国两制、不以任何形式搞港独，是所有参选人应符合的基本条件，而黄曾呼吁美国国会通过《香港人权与民主法案			黄	judgement	propriety	neg	exp	东方日报	2019	10	4	
+黄从根本上否定《基本法》权威和程序正义，与香港建制已不存在任何接口	否定		黄	judgement	propriety	neg	exp	东方日报	2019	10	4	
+台湾的陆委会当日发声明回应，批评陆方变换花样、包装宣传，属威吓台方接受其一国两制主张	威吓	台湾陆委会	陆方	judgement	propriety	neg	exp	东方日报	2019	11	4	
+内地官媒周一发表评论，批评美方严重干预香港事务及中国内政，违反国际法和国际关系基本准则，再度暴露破坏香港繁荣稳定、破坏「一国两制」的险恶用心	干预；违反；破坏；险恶用心	内地官媒	美方	judgement	propriety	neg	exp	东方日报	2019	12	4	
+美国对香港「一国两制」指手画脚	指手画脚	中国	美国	judgement	propriety	neg	exp	东方日报	2019	07	4	
+民进党邀请黄之锋等人到台湾，「极端渲染」香港问题，攻击「一国两制」，	极端；攻击；丑剧	环球时报	民进党	judgement	propriety	neg	exp	东方日报	2019	09	4	
+全国政协主席汪洋出席并发表讲话，他批评民进党极力阻挠海峡论坛	阻挠	全国政协主席汪洋	民进党	judgement	propriety	neg	exp	东方日报	2019	06	4	
+现在年轻人的行为「系玩残一国两制」	玩残	她	年轻人	judgement	propriety	neg	exp	东方日报	2019	06	4	
+批评示威者的行为是公然挑战「一国两制」的底线	挑战	全国人大外事委员会发言人	示威者	judgement	propriety	neg	exp	东方日报	2019	08	4	
+一个知法犯法、丑闻不绝的司法中人	知法犯法；丑闻不断		司法中人	judgement	propriety	neg	exp	东方日报	2019	06	4	
+他们可以用最少的成本、最小的代价打残香港，玩一场影响中港两地深远的「颜色革命」	打残；革命		他们	judgement	propriety	neg	exp	东方日报	2019	10	4	
+外部势力的干预轻而易举、畅通无阻	干预		外部势力	judgement	propriety	neg	exp	东方日报	2019	06	4	
+批评中方拒绝尊重法治及一国两制	尊重	佩洛西	中方	judgement	propriety	neg	exp	东方日报	2019	10	4	
+对香港政制大踩一脚			蔡英文	judgement	propriety	neg	imp	东方日报	2019	03	4	
+批评香港极少数人呼吁美国国会通过法案，是「鸡群求黄鼠狼当保镖」，试图以对「一国两制」搞「自杀式袭击」的方式劫持整个香港的命运	劫持	评论	极少数人	judgement	propriety	neg	imp	东方日报	2019	09	4	
+评论又指美国通过法案只是想将香港变成向北京施压的一张牌，美方只会从其利益决定对港政策		评论	美国	judgement	propriety	neg	imp	东方日报	2019	09	4	
+美国在香港问题上扮演了幕后黑手角色			美国	judgement	propriety	neg	imp	东方日报	2019	07	4	
+指港府一直按照《基本法》规定实行高度自治，充分体现「一国两制」	一直	港府	港府	judgement	propriety	pos	exp	东方日报	2019	11	4	
+中央政府对香港的政策也止于统战，但坚持一国两制的基础，不会让步	坚持		中央政府	judgement	tenacity	pos	exp	东方日报	2019	11	4	
+从中国实现现代化大局出发，中央对港实施「一国两制、港人治港、高度自治」，香港资本主义制度和生活方式不变			中央	judgement	tenacity	pos	imp	东方日报	2019	01	4	
+若非东方正气凛然，左打港英余孽，右斗洋奴汉奸，脚踢港独逆流，力挽狂澜于既倒，香港将会变成甚么样子，一国两制能否行稳致远，不问可知			中央政府	judgement	tenacity	pos	imp	东方日报	2019	01	4	
+就是中央政府已经狠下心来			中央政府	judgement	tenacity	pos	imp	东方日报	2019	08	4	
+他们对北京提出的	兴趣；相信	他们	一国两制	affect	inclination	neg	exp	东方日报	2020	08	4	
+议会不是朝廷希望看到的	希望	朝廷	议会	affect	inclination	neg	exp	东方日报	2020	11	4	
+议会不是港人想要的	想要	港人	议会	affect	inclination	neg	exp	东方日报	2020	11	4	
+不想管	想	中央		affect	inclination	neg	exp	东方日报	2020	02	4	
+捷克会持续在欧盟会议上支持及维护香港的自治	支持；维护	捷克	香港自治	affect	inclination	pos	exp	东方日报	2020	11	4	
+中央希望正确地实行一国两制	希望	中央	一国两制	affect	inclination	pos	exp	东方日报	2020	09	4	
+一国两制行稳致远的良好意愿	意愿		一国两制	affect	inclination	pos	exp	东方日报	2020	10	4	
+批评北京	批评	陆委会	北京	affect	satisfaction	neg	exp	东方日报	2020	06	4	
+必遭所有炎黄子孙的坚决抵制	抵制	炎黄子孙	外国	affect	satisfaction	neg	exp	东方日报	2020	08	4	
+以及对警队的高度信心	信心	中央	警队	affect	satisfaction	pos	exp	东方日报	2020	07	4	
+有学者担心立法会未来将缺少反对声音	担心	学者	立法会	affect	security	neg	exp	东方日报	2020	11	4	
+令人对中方落实一国两制的承诺产生严重疑问	疑问	英国外相蓝韬文	一国两制	affect	security	neg	exp	东方日报	2020	11	4	
+但「一国两制」被错误演绎，轻一国，重两制			一国两制	appreciation	composition	neg	imp	东方日报	2020	05	4	
+一国两制并不是把香港从中国分割出去			一国两制	appreciation	composition	pos	imp	东方日报	2020	04	4	
+抛出嘅浪头看似很高，实质全是回落现象			反对派	appreciation	reaction	neg	exp	东方日报	2020	05	4	
+过去一年反修例风波令本港发生动乱，亦令国家安全出现很大的漏洞	动乱；漏洞	她	反修例风波	appreciation	reaction	neg	exp	东方日报	2020	07	4	
+三十名现任联合国特别报告员联署，关注「港版国安法」损害《中英联合声明》及一国两制下的港人自治和基本自由	损害	三十名现任联合国特别报告员	港版国安法	appreciation	reaction	neg	exp	东方日报	2020	06	4	
+有学者担心立法会未来将缺少反对声音，只会沦为「一言堂」		学者	立法会	appreciation	reaction	neg	exp	东方日报	2020	11	4	
+中央对港全面管治权永远无从谈起	无从谈起		全面管制	appreciation	reaction	neg	exp	东方日报	2020	10	4	
+外部势力只会继续在中国的土地呼风唤雨	呼风唤雨		外部势力	appreciation	reaction	neg	exp	东方日报	2020	10	4	
+香港如何沉沦	沉沦	他	香港众志	appreciation	reaction	neg	exp	东方日报	2020	12	4	
+「一国两制」自是更受考验	考验		一国两制	appreciation	reaction	neg	exp	东方日报	2020	11	4	
+一国两制不走样变形才怪	走样；变形		一国两制	appreciation	reaction	neg	exp	东方日报	2020	02	4	
+一国两制荒腔走板	荒腔走板		一国两制	appreciation	reaction	neg	exp	东方日报	2020	02	4	
+「一国两制」如何变得有名无实	有名无实	他	一国两制	appreciation	reaction	neg	exp	东方日报	2020	12	4	
+香港一国两制前景要面对来自美国的冲击	冲击		一国两制	appreciation	reaction	neg	exp	东方日报	2020	06	4	
+一国两制荒腔走板	荒腔走板		一国两制	appreciation	reaction	neg	exp	东方日报	2020	02	4	
+「一国两制」不但不是行稳致远，反而乱象丛生，变质变味	乱象丛生；变质；变味		一国两制	appreciation	reaction	neg	exp	东方日报	2020	04	4	
+一国两制行稳致远的良好意愿可以休矣	休		意愿	appreciation	reaction	neg	exp	东方日报	2020	10	4	
+殖民地阴魂不散	阴魂不散		殖民思想？	appreciation	reaction	neg	exp	东方日报	2020	07	4	
+议会不是「一国两制」框架下所需要的，不是朝廷希望看到的，更不是港人想要的			议会	appreciation	reaction	neg	imp	东方日报	2020	11	4	
+这和行政、立法、司法领域被反中乱港攻陷，被港英余孽掌握大权有最直接关系				appreciation	reaction	neg	imp	东方日报	2020	03	4	
+港区国安法并无凌驾《基本法》，反而两法「相辅相成」	相辅相成	郑	港区国安法	appreciation	reaction	pos	exp	东方日报	2020	07	4	
+一国两制行稳致远的良好意愿	行稳致远		一国两制	appreciation	reaction	pos	exp	东方日报	2020	10	4	
+成败如何，端视港人的决心与智慧			港人的智慧与决心	appreciation	reaction	pos	imp	东方日报	2020	06	4	
+《港区国安法》体现国家主权，香港与内地的协调发展，正好使「一国两制」回复设计的初心，让不同的两制在一国的框架内有机结合，适应内外的变化，不止地产生出对内地与香港发展都有利的制度创新			港区国安法	appreciation	valuation	pos	imp	东方日报	2020	08	4	
+崔天凯指维护国家安全是一国两制赖以生存的基础	基础	崔天凯	国家安全	appreciation	valuation	pos	imp	东方日报	2020	06	4	
+法院对一国两制完全欠缺敏感度	欠缺	终审法院前常任法官	法院	judgement	capacity	neg	exp	东方日报	2020	09	4	
+北京强加香港国安法违背「一国两制」承诺等	违背	陆委会	北京	judgement	propriety	neg	exp	东方日报	2020	06	4	
+ 捷克外交部的声明指，北京此举破坏一国两制赋予香港的自治、政治多元及自由	破坏	捷克外交部	北京	judgement	propriety	neg	exp	东方日报	2020	11	4	
+香港司法领域中危害国家、危害「一国两制」、包庇反中乱港的「大团子」	危害；包庇		大团子	judgement	propriety	neg	exp	东方日报	2020	09	4	
+反修例黑暴更严重触碰一国两制的原则底线	底线		反修例黑暴	judgement	propriety	neg	exp	东方日报	2020	04	4	
+他们相互支撑配合颠覆「一国两制」	颠覆		港英余孽	judgement	propriety	neg	exp	东方日报	2020	03	4	
+郑就直斥民主派议员「错！误导市民！」	误导	郑	民主派议员	judgement	propriety	neg	exp	东方日报	2020	07	4	
+他们就是要不断的进攻、进攻、疯狂进攻，就是要斗争、斗争、揽炒斗争，把「一国」社会主义赶出香港，让香港的资本主义「封疆裂土」，自立为王	进攻；斗争；揽炒		他们	judgement	propriety	neg	exp	东方日报	2020	08	4	
+中国外长王毅同日受访表示，外国粗暴干涉香港事务的言行，是破坏「一国两制」，	粗暴；干涉；破坏	王毅	外国	judgement	propriety	neg	exp	东方日报	2020	08	4	
+终审法院前常任法官在此时撰文，批评法院帮助创造了过去一年的街头混乱		终审法院前常任法官	法院	judgement	propriety	neg	imp	东方日报	2020	09	4	
+反对派把「两制」当盾牌，才会造成长久以来的纷争吵闹			反对派	judgement	propriety	neg	imp	东方日报	2020	05	4	
+反对派、激进本土派、港独分子正在利用香港政改问题发起夺取香港管治权的「社会运动」，以各种破坏行为瘫痪香港秩序，勾连外部势力干预香港事务，挑战中央权威和「一国两制」	破坏；勾连；挑战		反对派；激进本土派；港独分子	judgement	propriety	neg	imp	东方日报	2020	12	4	
+香港大学法律学院首席讲师张达明认为，中央的举动实际上是宣布一国两制已失败无效		香港大学法律学院首席讲师张达明	中央	judgement	propriety	neg	imp	东方日报	2020	05	4	
+英国外相蓝韬文昨向国会提交香港半年报告，重申中央在港实施国安法、早前立法会选举中DQ候选人，以及近日DQ泛民主派议员等，做法违反《中英联合声明》	违反	英国外相蓝韬文	中央	judgement	propriety	neg	imp	东方日报	2020	11	4	
+不愿「一国」受港独等威胁，故订立港区国安法为一国两制设下底线		陈	中央	judgement	propriety	pos	imp	东方日报	2020	09	4	
+他特别提到黑色暴乱令香港法治核心价值遭受极大冲击，严重破坏香港安定繁荣，严重挑战「一国两制」底	冲击；破坏；挑战；底线	他	黑色暴乱	judgement	reaction	neg	exp	东方日报	2020	04	4	
+话部分议员对一国两制存在误解	误解	郑	部分议员	judgement	tenacity	neg	exp	东方日报	2020	07	4	
+港澳办及中联办各自为政，无所作为，前者甚至一度成为「独立王国」	各自为政；无所作为		港澳办；中联办	judgement	tenacity	neg	exp	东方日报	2020	02	4	
+特区政府浑浑噩噩	浑浑噩噩		特区政府	judgement	tenacity	neg	exp	东方日报	2020	07	4	
+中央不敢管、不想管、不能管			中央	judgement	tenacity	neg	imp	东方日报	2020	02	4	
+中央出手订立港区国安法，展示中央对一国两制的坚持，	坚持	她	中央	judgement	tenacity	pos	exp	东方日报	2020	07	4	
+中央已准备好抗击外部势力的干预，出现更坏情况也不会动摇落实「一国两制」和「港版国安法」的决心	决心	港澳办主任夏宝龙	中央	judgement	tenacity	pos	exp	东方日报	2020	05	4	
+中央要打掉香港司法领域中危害国家、危害「一国两制」、包庇反中乱港的「大团子」之决心已经显现	决心		中央	judgement	tenacity	pos	exp	东方日报	2020	09	4	
+不会动摇中央落实「一国两制」和港版国安法嘅决心！	动摇；决心		中央	judgement	tenacity	pos	exp	东方日报	2020	05	4	
+反对派引美爹来狐假虎威，又声声求救做契弟	狐假虎威		反对派	judgement	veracity	neg	exp	东方日报	2020	05	4	
+一成半被访者认为一国两制表现较预期差	差	被访者	一国两制	affect	satisfaction	neg	exp	明报	1998	10	1	
+这种忧虑已经一扫而空	忧虑	海外国家	一国两制	affect	security	pos	exp	明报	1998	11	1	
+‘一国两制’对中国司法带来的新问题	问题		一国两制	appreciation	reaction	neg	exp	明报	1998	11	1	
+论辩的焦点会在法律的管辖范围﹐以及香港的司法独立﹑「一国两制」等方面	焦点	法律界人士	一国两制	appreciation	valuation	pos	imp	明报	1998	10	1	
+台湾不接受一国两制	接受	台湾	一国两制	affect	inclination	neg	exp	明报	1999	08	1	
+七成以上民众不赞成	赞成	民众	一国两制	affect	inclination	neg	exp	明报	1999	04	1	
+高达七成以上的台湾民众不同意‘一国两制’在台湾实行	同意	台湾民众	一国两制	affect	inclination	neg	exp	明报	1999	07	1	
+表示「赞成」的民众都不到百分之七	赞成	民众	一国两制	affect	inclination	neg	imp	明报	1999	04	1	
+香港人对‘一国两制’能否实现更添疑虑	疑虑	香港人	一国两制	affect	security	neg	exp	明报	1999	12	1	
+市民对‘一国两制’的信心仍比去年十二月为低	信心	市民	一国两制	affect	security	neg	imp	明报	1999	03	1	
+市民对‘一国两制’的信心﹐有回升迹象	信心	市民	一国两制	affect	security	pos	exp	明报	1999	03	1	
+「一国两制」把大陆优秀人才拒之门外			一国两制	appreciation	reaction	neg	imp	明报	1999	12	1	
+「一国两制」会随着领导人的更替而产生变化			一国两制	appreciation	reaction	neg	imp	明报	1999	03	1	
+‘一国两制’在香港成功落实	成功		一国两制	appreciation	valuation	pos	exp	明报	1999	11	1	
+‘一国两制’在香港全面落实﹐是世界有目共睹的	有目共睹	他	一国两制	appreciation	reaction	pos	exp	明报	1999	11	1	
+一国两制是新事物	新事物	他	一国两制	appreciation	reaction	pos	imp	明报	1999	07	1	
+‘一国两制’就是新思维	新思维	我	一国两制	appreciation	reaction	pos	imp	明报	1999	12	1	
+「一国两制」是建于浮沙之上﹐会随时消失			一国两制	appreciation	valuation	neg	imp	明报	1999	03	1	
+愈来愈多人不能回祖国﹐连祖国也不能返﹐如何可以称之为『一国两制』		他	一国两制	appreciation	valuation	neg	imp	明报	1999	09	1	
+史无前例的「一国两制」	史无前例		一国两制	appreciation	valuation	pos	exp	明报	1999	12	1	
+一国两制』在香港和澳门的成功实践	成功	他	一国两制	appreciation	valuation	pos	exp	明报	1999	12	1	
+『一国两制』一定会起到积极的推动作用	积极；推动	他	一国两制	appreciation	valuation	pos	exp	明报	1999	12	1	
+台湾不接受‘一国两制’	接受	台湾	一国两制	affect	inclination	neg	exp	明报	2000	03	1	
+一国两制绝大多数台湾人都不会接受	接受	台湾人	一国两制	affect	inclination	neg	exp	明报	2000	02	1	
+岂能不愿看到一国两制的成功呢	愿	中国人	一国两制	affect	inclination	pos	exp	明报	2000	11	1	
+民主派支持「一国两制」的心是始终不渝的	支持；始终不渝	民主派	一国两制	affect	inclination	pos	exp	明报	2000	11	1	
+报刊本身就对香港实行「一国两制﹑港人治港」怀疑﹑反对	怀疑；反对	报刊	一国两制	affect	satisfaction	neg	exp	明报	2000	08	1	
+市民普遍怀疑中央政府能否落实「一国两制」	怀疑	市民	一国两制	affect	security	neg	exp	明报	2000	08	1	
+查良镛说﹐「一国两制」现在运行得很好	很好	查良镛	一国两制	appreciation	reaction	pos	exp	明报	2000	03	1	
+另有五成人认为﹐香港的‘一国两制’不适用于台湾	适用	五成人	一国两制	appreciation	valuation	neg	exp	明报	2000	05	1	
+一国两制’是大陆为与台湾谈判之前所设的框框		他	一国两制	appreciation	valuation	neg	imp	明报	2000	02	1	
+一国两制」是最佳选择	最佳选择		一国两制	appreciation	valuation	pos	exp	明报	2000	11	1	
+终审法院确认‘一国两制’原则极其重要	重要	终审法院	一国两制	appreciation	valuation	pos	exp	明报	2000	06	1	
+‘一国两制’在香港﹑澳门的实践﹐必将取得更大的成功	成功		一国两制	appreciation	valuation	pos	exp	明报	2000	01	1	
+‘一国两制’是基本方针政策	基本		一国两制	appreciation	valuation	pos	exp	明报	2000	04	1	
+继续把‘一国两制’作为处理澳门事务的基本方针	基本		一国两制	appreciation	valuation	pos	imp	明报	2000	12	1	
+三成五民众则不赞成「一国两制」	赞成	三成五民众	一国两制	affect	inclination	neg	exp	明报	2001	10	1	
+两成八民众赞同「一国两制」	赞同	两成八民众	一国两制	affect	inclination	pos	exp	明报	2001	10	1	
+中国也希望「一国两制」能落实得更好	希望	中国	一国两制	affect	inclination	pos	exp	明报	2001	07	1	
+「坚定不移落实『一国两制』」以百分之八十四的最高票数入选			一国两制	affect	inclination	pos	imp	明报	2001	01	1	
+北京至今解决台湾问题的基本方针﹐依然是‘和平统一﹑一国两制		北京	一国两制	affect	inclination	pos	imp	明报	2001	01	1	
+当局的原则从来都是很明确﹐那就是「一国两制」	从来	当局	一国两制	affect	inclination	pos	imp	明报	2001	03	1	
+影响港人对‘一国两制’的信心	影响；信心	港人	一国两制	affect	security	neg	exp	明报	2001	02	1	
+有些人对『一国两制』没信心	信心	有些人	一国两制	affect	security	neg	exp	明报	2001	01	1	
+‘一国两制’是要将台湾‘香港化’		陈水扁	一国两制	appreciation	reaction	neg	imp	明报	2001	07	1	
+一国两制』能够在国际体坛顺利实行	顺利实行		一国两制	appreciation	reaction	pos	exp	明报	2001	07	1	
+外界最关注的是「一国两制」的落实情况	关注	外界	一国两制	appreciation	reaction	pos	exp	明报	2001	07	1	
+『一国两制』是一件新事物﹐没有前例	新事物；前例	他	一国两制	appreciation	reaction	pos	imp	明报	2001	03	1	
+一国两制』变成『一国一制』			一国两制	appreciation	valuation	neg	imp	明报	2001	01	1	
+报告指「一国两制」在香港仍能顺利运作	顺利运作	报告	一国两制	appreciation	valuation	pos	exp	明报	2001	07	1	
+一国两制已经在香港和澳门成功实践	成功	他	一国两制	appreciation	valuation	pos	exp	明报	2001	11	1	
+「一国两制」并非政治口号	政治口号	陈太	一国两制	appreciation	valuation	pos	imp	明报	2001	04	1	
+只有「一国两制」才是唯一的出路	出路	他	一国两制	appreciation	valuation	pos	imp	明报	2001	07	1	
+「一国两制」是独一无二的一个「大实验」﹐至今这个实验一直进展不俗	进展不俗	他	一国两制	appreciation	valuation	pos	imp	明报	2001	07	1	
+特区行政长官已做得不错	不错	他	行政长官	judgement	capacity	pos	exp	明报	2001	03	1	
+特首处理法轮功事件的逃避态度﹐影响港人对‘一国两制’的信心	逃避		特首	judgement	propriety	neg	exp	明报	2001	02	1	
+中国提出并坚持「和平统一、一国两制」的基本方针	坚持	江泽民	中国	judgement	tenacity	pos	exp	明报	2001	08	1	
+台湾不可能接受「一国两制」	接受	台湾	一国两制	affect	inclination	neg	exp	明报	2002	01	1	
+中共仍以「一国两制」的基本方针解决台湾问题	仍	中共	一国两制	affect	inclination	pos	exp	明报	2002	01	1	
+中共一贯主张的「一国两制」	一贯	中共	一国两制	affect	inclination	pos	exp	明报	2002	01	1	
+不会成为获大多数台湾人支持的统一方案	支持	台湾人	一国两制	affect	satisfaction	neg	exp	明报	2002	07	1	
+「一国两制」在港澳地区的落实情况，台湾人仍需时间观察		台湾人	一国两制	affect	security	neg	imp	明报	2002	10	1	
+不断重弹「一国两制」的旧调	旧调	陈水平	一国两制	appreciation	reaction	neg	exp	明报	2002	11	1	
+香港成功落实「一国两制」	成功	江泽民	一国两制	appreciation	valuation	pos	exp	明报	2002	09	1	
+而其讲话所强调者，是中共的「一国两制、和平统一」方针	强调	其	一国两制	appreciation	reaction	pos	exp	明报	2002	05	1	
+胡锦涛详述一国两制统一台湾的四大好处	好处	胡锦涛	一国两制	appreciation	reaction	pos	imp	明报	2002	05	1	
+一国两制之下的香港，仍然「空」怀大志、前路茫茫	空怀大志；前路茫茫		一国两制	appreciation	valuation	neg	imp	明报	2002	02	1	
+「一国两制」是与台湾人民当家作主「相互冲突」的	冲突		一国两制	appreciation	valuation	neg	imp	明报	2002	01	1	
+一国两制」有利于解决台湾问题	有利于	江泽民	一国两制	appreciation	valuation	pos	exp	明报	2002	05	1	
+绝不能淡化「一国两制」原则	淡化	她	一国两制	appreciation	valuation	pos	exp	明报	2002	10	1	
+江泽民强调「一国两制」是两岸统一的最佳方式	最佳	江泽民	一国两制	appreciation	valuation	pos	exp	明报	2002	11	1	
+证明了「一国两制」的成功	成功		一国两制	appreciation	valuation	pos	exp	明报	2002	05	1	
+一国两制」是解决台湾问题的最好方式	最好		一国两制	appreciation	valuation	pos	exp	明报	2002	10	1	
+「一国两制」是史无前例	史无前例		一国两制	appreciation	valuation	pos	exp	明报	2002	06	1	
+「一国两制」将带给台湾的好处	好处	江泽民	一国两制	appreciation	valuation	pos	imp	明报	2002	11	1	
+香港社会的一份沉重：「一国两制」的实	沉重	香港社会	一国两制	affect	happiness	neg	imp	明报	2003	07	2	
+「一国两制」我们要继续坚定不移地走下去	坚定不移	我们	一国两制	affect	inclination	pos	exp	明报	2003	03	1	
+中国将继续「和平统一、一国两制」的基本方针	继续	中国	一国两制	affect	inclination	pos	exp	明报	2003	04	1	
+支持一国两制的民主党遭到排斥	支持	民主党	一国两制	affect	inclination	pos	exp	明报	2003	09	2	
+中央政府将一如既往地坚持「一国两制」	坚持	中央政府	一国两制	affect	inclination	pos	exp	明报	2003	08	2	
+游锡堃请相关部会加强民众与国际社会认清「一国两制」的危险	危险	游锡堃	一国两制	appreciation	reaction	neg	exp	明报	2003	07	2	
+这就是「一国两制」的精粹，坏人在内地不能得逞，留在香港的尽是坏人			一国两制	appreciation	reaction	neg	imp	明报	2003	01	1	
+这些实践都说明「一国两制」的方针是正确的	正确		一国两制	appreciation	reaction	pos	exp	明报	2003	03	1	
+游锡堃请相关部会加强民众与国际社会认清「一国两制」的虚假	虚假	游锡堃	一国两制	appreciation	valuation	neg	exp	明报	2003	07	2	
+一国两制就玩完	玩完	市民	一国两制	appreciation	valuation	neg	imp	明报	2003	06	1	
+「一国两制」变成了蓬头垢面的黄脸肥婆	蓬头垢面；黄脸肥婆		一国两制	appreciation	valuation	neg	imp	明报	2003	07	2	
+「一国两制」对台湾的诱惑，也完了	诱惑	台湾	一国两制	appreciation	valuation	neg	imp	明报	2003	07	2	
+一国两制对台湾也是一个示范	示范	他	一国两制	appreciation	valuation	pos	exp	明报	2003	01	1	
+「一国两制」是香港稳定和发展的基石，更是中国和平统一台湾的战略部署	基石		一国两制	appreciation	valuation	pos	exp	明报	2003	09	2	
+「一国两制」在香港的成功实践	成功		一国两制	appreciation	valuation	pos	exp	明报	2003	04	1	
+一国两制」的方针有着强大的生命力	生命力		一国两制	appreciation	valuation	pos	imp	明报	2003	03	1	
+「一国两制」一直是为台湾统一做示范的目标		刘锐绍	一国两制	appreciation	valuation	pos	imp	明报	2003	08	2	
+台湾方面主张一国两制的状况又大幅度降低	主张	台湾方面	一国两制	affect	inclination	neg	exp	明报	2004	03	2	
+台湾振振有词机会，于是「两国论」、「一边一国论」纷纷出笼，拒绝一国两制	拒绝	台湾	一国两制	affect	inclination	neg	exp	明报	2004	07	2	
+港人支持「一国两制」	支持	港人	一国两制	affect	inclination	pos	exp	明报	2004	03	2	
+民主党主席杨森则表示，明白「一国两制」在实施中会有起伏，但仍会全力支持	支持	杨森	一国两制	affect	inclination	pos	exp	明报	2004	06	2	
+政治决议还强调，要坚定不移地贯彻「一国两制」	坚定不移	政治决议	一国两制	affect	inclination	pos	exp	明报	2004	03	2	
+高达三成的受访者赞成「一国两制」	赞成	受访者	一国两制	affect	inclination	pos	exp	明报	2004	04	2	
+大陆将继续坚持「和平统一、一国两制」的基本方针	坚持	大陆	一国两制	affect	inclination	pos	exp	明报	2004	08	2	
+中共一再要求台湾要接受「一国两制」		中共	一国两制	affect	inclination	pos	exp	明报	2004	02	2	
+她表示，捍卫「一国两制」是特区政府的当前急务	捍卫	她	一国两制	affect	inclination	pos	imp	明报	2004	04	2	
+台湾陆委会指游行反映港人对一国两制的失望	失望	港人	一国两制	affect	satisfaction	neg	exp	明报	2004	07	2	
+台北高层未必了解香港，只因憎恨「一国两制」	憎恨	台北高层	一国两制	affect	satisfaction	neg	exp	明报	2004	09	2	
+香港人怀疑一国两制是有问题	怀疑	香港人	一国两制	affect	security	neg	exp	明报	2004	05	2	
+有人担心，香港或已从一国两制走向一国一制	担心	有人	一国两制	affect	security	neg	imp	明报	2004	06	2	
+杨森表示，会上谈及他对一国两制有信心	信心	杨森	一国两制	affect	security	pos	exp	明报	2004	03	2	
+「一国两制」对台湾无效	无效		一国两制	appreciation	reaction	neg	exp	明报	2004	12	2	
+「一国两制」、「港人治港」及「高度自治」的政治承诺亦将灰飞烟灭	灰飞烟灭		一国两制	appreciation	reaction	neg	exp	明报	2004	05	2	
+不能再一如过往在总结中指一国两制运作良好	良好	柏圣文	一国两制	appreciation	reaction	neg	exp	明报	2004	07	2	
+所谓「一国两制」	所谓		一国两制	appreciation	reaction	neg	imp	明报	2004	06	2	
+柏圣文指香港的「一国两制」在「过去」运作良好	良好	柏圣文	一国两制	appreciation	reaction	pos	exp	明报	2004	07	2	
+「一国两制」不是放诸四海皆准的政策	放诸四海而皆准		一国两制	appreciation	valuation	neg	exp	明报	2004	12	2	
+「一国两制」提供不了应有的隔垫作用	作用		一国两制	appreciation	valuation	neg	exp	明报	2004	06	2	
+一国两制名存实亡	名存实亡	民主派	一国两制	appreciation	valuation	neg	exp	明报	2004	05	2	
+中央媒体不断强调「一国」的重要性	重要	中央媒体	一国两制	appreciation	valuation	pos	exp	明报	2004	02	2	
+「一国两制」，池田认为是「人类的一项重大实验」	重大	池田	一国两制	appreciation	valuation	pos	exp	明报	2004	10	2	
+「一国两制」伟大构想	伟大		一国两制	appreciation	valuation	pos	exp	明报	2004	08	2	
+维持「一国两制」的完整性十分重要	重要	他	一国两制	appreciation	valuation	pos	exp	明报	2004	08	2	
+「一国两制」给我们带来的契机			一国两制	appreciation	valuation	pos	imp	明报	2004	07	2	
+王辽平多次谈到因为有「一国两制」和「一国」，香港才有CEPA、开放人民币业务等措施		王辽平	一国两制	appreciation	valuation	pos	imp	明报	2004	02	2	
+香港的政制发展，是按照「一国两制」方针			一国两制	appreciation	valuation	pos	imp	明报	2004	11	2	
+国务院商务部台港澳司长王辽平昨日特别提到，中央为香港带来经济利益的措施包括「内地与香港更紧密经贸关系安排」 (CEPA)、开放人民币业务，以及与内地协调基建，这都是来自「一国」、是「一国两制」的体现		国务院商务部台港澳司长王辽平	一国两制	appreciation	valuation	pos	imp	明报	2004	02	2	
+指港人对「一国」认知不足	认知	中央媒体	港人	judgement	capacity	neg	exp	明报	2004	02	2	
+为「独派」阵营提供多一点弹药反对一国两制	反对	独派阵营	一国两制	affect	inclination	neg	exp	明报	2005	01	2	
+特区政府漠视一国两制高度自治的精神	漠视	特区政府	一国两制	affect	inclination	neg	exp	明报	2005	03	2	
+我的目的是为香港争取民主，而真正落实一国两制、高度自治、港人治港	落实	我	一国两制	affect	inclination	pos	exp	明报	2005	09	2	
+我想为『一国两制』这一个伟大的构想多出一分力		我	一国两制	affect	inclination	pos	exp	明报	2005	05	2	
+温家宝强调，中央政府将继续坚定不移地贯彻「一国两制	贯彻	中央政府	一国两制	affect	inclination	pos	exp	明报	2005	03	2	
+九七前相信的人不多	相信	香港人	一国两制	affect	security	neg	exp	明报	2005	07	2	
+市民对中央的信任程度及一国两制的信心都上升	信任	市民	一国两制	affect	security	pos	exp	明报	2005	07	2	
+「一国两制」的实施办法，叫阳奉阴违	阳奉阴违		一国两制	appreciation	reaction	neg	exp	明报	2005	07	2	
+香港曾有一段日子被期待能为「一国两制」承担示范作用，可惜的是，建华8年，残梦已远	残梦		一国两制	appreciation	reaction	neg	imp	明报	2005	02	2	
+「一国两制」要面对的挑战	挑战	曾荫权	一国两制	appreciation	reaction	neg	imp	明报	2005	03	2	
+『一国两制』这一个伟大的构想	伟大	我	一国两制	appreciation	reaction	pos	exp	明报	2005	05	2	
+一国两制」的成功	成功		一国两制	appreciation	valuation	pos	exp	明报	2005	08	2	
+问题是「一国两制」能否可以维持下去			一国两制	appreciation	reaction	pos	imp	明报	2005	03	2	
+不少论者以为香港一国两制对于台湾问题已经失去示范效用	效用		一国两制	appreciation	valuation	neg	exp	明报	2005	09	2	
+削弱了香港的「一国两制」对统一台湾所应起的示范作用	作用		一国两制	appreciation	valuation	neg	exp	明报	2005	01	2	
+「一国两制」确是一个伟大的构想	伟大		一国两制	appreciation	valuation	pos	exp	明报	2005	06	2	
+一国两制是史无前例的创举	史无前例；创举		一国两制	appreciation	valuation	pos	exp	明报	2005	03	2	
+一国两制其实不是虚幻的概念，而是两个政治尺度的互动	虚幻		一国两制	appreciation	valuation	pos	exp	明报	2005	06	2	
+香港实行史无前例的一国两制	史无前例	他	一国两制	appreciation	valuation	pos	exp	明报	2005	10	2	
+「一国两制」容许香港提供独特的互补优势，包括独立的司法制度、资讯自由、公平竞争的营商环境和自由高效的市场经济系统		曾荫权	一国两制	appreciation	valuation	pos	imp	明报	2005	07	2	
+我倒认为为期未晚，游戏还未有终局		我	一国两制	appreciation	valuation	pos	imp	明报	2005	09	2	
+一国两制，香港人的各方面自由和权利均受到法律保障			一国两制	appreciation	valuation	pos	imp	明报	2005	07	2	
+政府过去在理解《基本法》时未够深入		曾荫权	政府	judgement	capacity	neg	imp	明报	2005	03	2	
+香港回归祖国后，贯彻落实「一国两制」	贯彻；落实	香港社会	一国两制	affect	inclination	pos	exp	明报	2006	07	2	
+政治决议在谈及港澳问题时则比较简略，重申坚决贯彻一国两制	贯彻	政治决议	一国两制	affect	inclination	pos	exp	明报	2006	03	2	
+「一国两制」的深层次矛盾	矛盾		一国两制	appreciation	composition	neg	exp	明报	2006	02	2	
+香港目前未能真正做到「一国两制			一国两制	appreciation	reaction	neg	exp	明报	2006	09	2	
+一国两制的独特优势	优势		一国两制	appreciation	valuation	pos	exp	明报	2006	03	2	
+在一国两制和「50年不变」的承诺下，香港可维持它的资本主义运作，保持它和内地比较之下的现有优势			一国两制	appreciation	valuation	pos	imp	明报	2006	04	2	
+唯有跪倒一国两制五十年不变的「愿景」之下		香港人	一国两制	affect	inclination	neg	imp	明报	2007	07	2	
+坚持全面准确地理解和贯彻执行「一国两制」方针	坚持		一国两制	affect	inclination	pos	exp	明报	2007	07	2	
+他表示，将坚持「和平统一、一国两制」	坚持	他	一国两制	affect	inclination	pos	exp	明报	2007	01	2	
+中央都信守原则，贯彻落实一国两制	贯彻	中央	一国两制	affect	inclination	pos	exp	明报	2007	06	2	
+反对声音坚持一国两制	坚持	反对声音	一国两制	affect	inclination	pos	exp	明报	2007	09	2	
+为了一国两制的实验能在香港取得成功，中央政府完全可以特事特办		中央政府	一国两制	affect	inclination	pos	imp	明报	2007	03	2	
+港人都对一国两制缺乏信心	信心	港人	一国两制	affect	security	neg	exp	明报	2007	06	2	
+还有人质疑中央收紧对香港的管治，令高度自治、一国两制荡然无存	荡然无存		一国两制	affect	security	neg	imp	明报	2007	06	2	
+早已不是当年的中央与地方政府谈判模式或香港的「一国两制」范本			一国两制	appreciation	composition	neg	imp	明报	2007	10	2	
+一国两制，说其实是一国一制：一个中国，香港制度		奈思比	一国两制	appreciation	composition	neg	imp	明报	2007	07	2	
+一国两制已不再适合	适合		一国两制	appreciation	reaction	neg	exp	明报	2007	06	2	
+一国两制的成功发展，	成功		一国两制	appreciation	valuation	pos	exp	明报	2007	06	2	
+「一国两制」的承诺在香港已经荡然无存	荡然无存		一国两制	appreciation	valuation	neg	exp	明报	2007	07	2	
+李鸿忠强调，香港实行「一国两制」的方针，香港有自己的地位，其地位是没有任何一个地方能够取代的		李鸿忠	一国两制	appreciation	valuation	pos	imp	明报	2007	03	2	
+一国两制的意义，是容许两制之间保持一点距离，纵有灰色地带，但大前提是尊重对方的规则	意义		一国两制	appreciation	valuation	pos	imp	明报	2007	07	2	
+香港人为钱奔波，像仓鼠，在转轮上跑到一身汗			香港人	judgement	tenacity	pos	imp	明报	2007	07	2	
+香港的「一国两制」政治模式，亦因民主发展滞后， 早已失去对台湾的示范效应	效应		一国两制	appreciation	valuation	neg	exp	明报	2008	01	2	
+一国两制非儿戏	儿戏	学校	一国两制	appreciation	valuation	pos	exp	明报	2008	10	2	
+「一国两制」在香港的重要性	重要性	陈太	一国两制	appreciation	valuation	pos	exp	明报	2008	12	2	
+这是一国两制下中港关系的灵活与现实安排，符合香港长远利益			一国两制	appreciation	valuation	pos	imp	明报	2008	01	2	
+香港着重一国两制	着重	香港	一国两制	affect	inclination	pos	exp	明报	2009	12	3	
+张晓明对澳门实施一国两制的总结，只着重经济繁荣，不够全面		张晓明	一国两制	appreciation	composition	neg	imp	明报	2009	11	3	
+『一国两制』执行的僵化	僵化	智经的报告	一国两制	appreciation	reaction	neg	exp	明报	2009	04	3	
+香港实行「一国两制」，但相信中央从来没有打算让可能与其对抗或者抗衡的政治力量在香港执政			一国两制	appreciation	valuation	neg	imp	明报	2009	11	3	
+一国两制到目前为止仍运作	运作		一国两制	appreciation	valuation	pos	exp	明报	2009	12	3	
+「一国两制」保障了香港市民	保障		一国两制	appreciation	valuation	pos	imp	明报	2009	11	3	
+继续在一国两制的平台上，巩固和发挥独特优势，开拓和深化回归后的机遇			一国两制	appreciation	valuation	pos	imp	明报	2009	10	3	
+这个港式「一国两制」为香港带来一个廉洁、透明度颇高的政府，为港人带来一个相对公平及自由的社会，这也是港人常说的「核心价值」			一国两制	appreciation	valuation	pos	imp	明报	2009	12	3	
+我们应该坚守一国两制	坚守	我们	一国两制	affect	inclination	pos	exp	明报	2010	02	3	
+曾荫权昨晚发声明表示，确保香港继续落实一国两制		曾荫权	一国两制	affect	inclination	pos	exp	明报	2010	10	3	
+认为中央政府并无落实「一国两制」的市民人数比2009 年增加一倍，		市民	一国两制	affect	satisfaction	neg	imp	明报	2010	11	3	
+他已对香港的一国两制信心愈趋薄弱	信心	梁颖礼	一国两制	affect	security	neg	exp	明报	2010	04	3	
+我忧一国两制名存实亡	忧	李鹏飞	一国两制	affect	security	neg	exp	明报	2010	05	3	
+一国两制在落实方面出了问题	问题		一国两制	appreciation	reaction	neg	exp	明报	2010	01	3	
+一国两制高度自治渐行渐远	渐行渐远		一国两制	appreciation	reaction	neg	imp	明报	2010	01	3	
+一国两制贯彻落实和成功	成功		一国两制	appreciation	valuation	pos	exp	明报	2010	12	3	
+  香港的一国两制在国际上仍属新事物	新事物		一国两制	appreciation	reaction	pos	exp	明报	2010	08	3	
+香港以一国两制，高度自治为政治基础时	基础		一国两制	appreciation	valuation	pos	exp	明报	2010	01	3	
+「一国两制」解决香港前途，让香港的民主派有生存及发展的土壤			一国两制	appreciation	valuation	pos	imp	明报	2010	06	3	
+一国两制，某程度上保障了香港的自由与法治，令人安心			一国两制	appreciation	valuation	pos	imp	明报	2010	05	3	
+一国两制下香港的独特角色和可贵之处			一国两制	appreciation	valuation	pos	imp	明报	2010	03	3	
+有人试过写一封万言书，反对『一国两制』	反对	有人	一国两制	affect	inclination	neg	exp	明报	2011	01	3	
+不让王丹来港		特区政府	王丹来港	affect	inclination	neg	imp	明报	2011	01	3	
+我还是恳切相信中国领导人当年是铁了心要搞好一国两制	要搞	中国领导人	一国两制	affect	inclination	pos	exp	明报	2011	12	3	
+「一国两制」我不用看了，越看越不妥当	妥当	我	一国两制	affect	satisfaction	neg	imp	明报	2011	12	3	
+「一国两制」出现矛盾	矛盾		一国两制	appreciation	composition	neg	exp	明报	2011	01	3	
+一国两制」能够全面落实，这个春秋大梦也未免太过虚了	春秋大梦；虚		一国两制	appreciation	reaction	neg	exp	明报	2011	10	3	
+一国两制，本来不也就是一种自治，何以到头来竟是一场空	一场空		一国两制	appreciation	reaction	neg	exp	明报	2011	01	3	
+李卓人对事件感愤怒和痛心，批评事件标志一国两制荡然无存	荡然无存	李卓人	一国两制	appreciation	reaction	neg	exp	明报	2011	01	3	
+把「一国两制」视为一种「帝国的技艺」	帝国的技艺		一国两制	appreciation	reaction	neg	imp	明报	2011	10	3	
+「一国两制」在香港的成功实践	成功	梁振英	一国两制	appreciation	valuation	pos	exp	明报	2011	04	3	
+在台湾人眼中，一国两制，毫无叫座本钱	本钱	台湾人	一国两制	appreciation	valuation	neg	exp	明报	2011	02	3	
+一国两制只是『长期打算、充分利用』的伸延		周南	一国两制	appreciation	valuation	neg	imp	明报	2011	01	3	
+一国两制这个「伟大构想	伟大		一国两制	appreciation	valuation	pos	exp	明报	2011	08	3	
+亦是一国两制下，香港拥有的最特殊优势			一国两制	appreciation	valuation	pos	exp	明报	2011	01	3	
+「一国两制」实际上就是香港享有独特性的体现和依据			一国两制	appreciation	valuation	pos	imp	明报	2011	03	3	
+曾荫权办不到，他断送香港一国两制	办不到		曾荫权	judgement	capacity	neg	exp	明报	2011	02	3	
+不让王丹来港，不会令一国两制名存实亡		特区政府	特区政府	judgement	propriety	pos	imp	明报	2011	01	3	
+「乐观其成」变成「理解特区政府的决定」			特区政府	judgement	tenacity	neg	imp	明报	2011	01	3	
+他指是来自不拥护一国两制的人	拥护		一国两制	affect	inclination	neg	exp	明报	2012	10	3	
+唐英年强调会坚定不移地维护「一国两制」	坚定不移	唐英年	一国两制	affect	inclination	pos	exp	明报	2012	03	3	
+梁家杰都在担心「一国两制、高度自治」口号背后会不会是一个「过桥抽板，打完斋不要和尚」的牺牲品呢	担心	梁家杰	一国两制	affect	security	neg	exp	明报	2012	06	3	
+市民对中央有否落实「一国两制」态度愈趋怀疑	怀疑	市民	一国两制	affect	security	neg	exp	明报	2012	06	3	
+多份海外报章和传媒纷纷报道，以及对香港能否维持一国两制表示担心	担心	海外报章	一国两制	affect	security	neg	exp	明报	2012	07	3	
+张铁志得悉此事，表示感到非常离谱，质疑这是否代表一国两制提早消失	质疑	张铁志	一国两制	affect	security	neg	exp	明报	2012	10	3	
+这个定位，调整了「一国两制」的侧重点，由突出内地与香港之异，改而突出内地与香港的从属关系			定位	appreciation	composition	neg	imp	明报	2012	07	3	
+「一国两制」更受到挑战	挑战		一国两制	appreciation	reaction	neg	exp	明报	2012	03	3	
+而是一国两制的承诺不保	不保		一国两制	appreciation	reaction	neg	exp	明报	2012	09	3	
+其实落实一国两制并不容易	容易		一国两制	appreciation	reaction	neg	exp	明报	2012	06	3	
+「一国两制、和平统一」失败后	失败		一国两制	appreciation	reaction	neg	exp	明报	2012	01	3	
+但就卡在一国两制的夹缝里进退不得			一国两制	appreciation	reaction	neg	imp	明报	2012	10	3	
+胡锦涛这个一国两制定位，当然无可争议	无可争议		定位	appreciation	reaction	pos	exp	明报	2012	07	3	
+历史将证明「一国两制」运作愈趋成熟	成熟	社评	一国两制	appreciation	reaction	pos	exp	明报	2012	07	3	
+「一国两制」是香港得天独厚的发展机遇	得天独厚	习近平	一国两制	appreciation	reaction	pos	exp	明报	2012	08	3	
+「一国两制」成功落实	成功		一国两制	appreciation	valuation	pos	exp	明报	2012	07	3	
+一国两制确保了香港保留原有的资本主义制度和生活方式50 年不变	确保		一国两制	appreciation	valuation	pos	imp	明报	2012	07	3	
+这正是一国两制赋予的特色			一国两制	appreciation	valuation	pos	imp	明报	2012	09	3	
+「一国两制」实践了15 年，香港维持了表面繁荣局面			一国两制	appreciation	valuation	pos	imp	明报	2012	07	3	
+一些港人为个人原因协助毁弃「一国两制	毁弃	港人	一国两制	affect	inclination	neg	exp	明报	2013	11	3	
+对一国两制有信心青年比例的跌幅最为显著	信心	青年	一国两制	affect	inclination	neg	exp	明报	2013	07	3	
+美国支持邓小平提出的一国两制方针	支持	美国	一国两制	affect	inclination	pos	exp	明报	2013	09	3	
+中共向国际社会昭示它信守「一国两制」的决心		中共	一国两制	affect	inclination	pos	imp	明报	2013	04	3	
+俞正声要求政协坚持一国两制	坚持	俞正声	一国两制	affect	inclination	pos	imp	明报	2013	03	3	
+近年香港人争取双普选、又或是对一国两制的失望	失望	香港人	一国两制	affect	satisfaction	neg	exp	明报	2013	03	3	
+公众对政府有否损害「一国两制」的疑虑	疑虑	公众	一国两制	affect	security	neg	exp	明报	2013	04	3	
+陈弘毅昨说，他对一国两制前景、政改获通过不感乐观	乐观	陈弘毅	一国两制	affect	security	neg	exp	明报	2013	11	3	
+遂成一国两制的崩溃寓言	崩溃		一国两制	appreciation	reaction	neg	exp	明报	2013	03	3	
+是「一国两制」和《基本法》出了问题	问题		一国两制	appreciation	reaction	neg	exp	明报	2013	10	3	
+一国两制背后的深层次问题	问题	饶戈平	一国两制	appreciation	reaction	neg	exp	明报	2013	03	3	
+「一国两制」的方针无法贯彻落实		乔晓阳	一国两制	appreciation	reaction	neg	imp	明报	2013	10	3	
+香港的（前景）好黯淡，2047 年都要结束「一国两制	暗淡		一国两制	appreciation	reaction	neg	imp	明报	2013	09	3	
+有退休高官致电给我，指中央官员到立法会是会摧毁一国两制	摧毁	退休高官	一国两制	appreciation	reaction	neg	imp	明报	2013	07	3	
+「一国两制」就是这个样子的了			一国两制	appreciation	reaction	neg	imp	明报	2013	06	3	
+梁美芬称抵触一国两制	抵触	梁美芬	一国两制	affect	inclination	neg	exp	明报	2014	08	3	
+令台湾同胞对这种「一国两制」模式嗤之以鼻	嗤之以鼻	台湾同胞	一国两制	affect	inclination	neg	exp	明报	2014	09	4	
+对于「一国两制」，台湾朝野强调绝不接受	接受	台湾朝野	一国两制	affect	inclination	neg	exp	明报	2014	10	4	
+中共通过会晤，大力推销「一国两制	推销	中国领导人	一国两制	affect	inclination	pos	exp	明报	2014	06	3	
+强调支持「一国两制」框架	支持	他	一国两制	affect	inclination	pos	exp	明报	2014	05	3	
+赢得大多数市民认同和支持	支持		一国两制	affect	inclination	pos	exp	明报	2014	06	3	
+中央政府继续全面准确咁贯彻「一国两制」	贯彻	中央政府	一国两制	affect	inclination	pos	exp	明报	2014	09	4	
+林郑月娥坚持维护一国两制的原则，以及维护法治	坚持	林郑月娥	一国两制	affect	inclination	pos	exp	明报	2014	10	4	
+李源潮指人大常委的决定体现「一国两制」方针的宗旨	体现	人大常委的决定	一国两制	affect	inclination	pos	imp	明报	2014	09	4	
+民主派怒斥一国两制荡然无存	怒斥	民主派	一国两制	affect	satisfaction	neg	exp	明报	2014	06	3	
+港人都接受了一国两制的总体安排	接受	港人	一国两制	affect	satisfaction	pos	exp	明报	2014	08	3	
+熟知香港问题、香港事务发展历程的人，更会感到不妙	不妙	熟知香港问题、香港事务发展历程的人	把警队推上设计香港治乱安危的位置	affect	security	neg	exp	明报	2014	06	3	
+香港人对「一国两制」信心降至新低	信心	香港人	一国两制	affect	security	neg	exp	明报	2014	01	3	
+她又质疑是否一国两制愈退愈后	质疑	她	一国两制	affect	security	neg	exp	明报	2014	09	4	
+如果是代表继续偏听，拒绝重新检视决议，无疑是告知港人一国两制将步入寒冬	寒冬		一国两制	affect	security	neg	imp	明报	2014	11	4	
+中央之前对香港及一国两制的态度是较容忍及宽松	容忍；宽松	中央	一国两制	affect	security	pos	exp	明报	2014	06	3	
+一国两制实践中产生诸多分歧与矛盾」	分歧；矛盾		一国两制	appreciation	composition	neg	exp	明报	2014	02	3	
+那已经不是上一代领导人构想一国两制时的想法			一国两制	appreciation	composition	neg	imp	明报	2014	06	3	
+因为事态有可能朝着毁掉一国两制的方向发展	毁掉		事态	appreciation	reaction	neg	exp	明报	2014	06	3	
+差不多宣布「一国两制」死刑	死刑		一国两制	appreciation	reaction	neg	exp	明报	2014	07	3	
+一国两制」正受到严重打击	打击		一国两制	appreciation	reaction	neg	exp	明报	2014	07	3	
+破损了的「一国两制」	破损		一国两制	appreciation	reaction	neg	exp	明报	2014	08	3	
+把警队推上涉及香港治乱安危的位置，这是极其无奈的发展	无奈		把警队推上设计香港治乱安危的位置	appreciation	reaction	neg	imp	明报	2014	06	3	
+若说白皮书没有改变香港管治格局，一国两制、港人治港、高度自治并无改变，除非另有目的，否则是自欺欺人	自欺欺人		白皮书	appreciation	reaction	neg	imp	明报	2014	06	3	
+一国两制死刑	死刑		一国两制	appreciation	reaction	neg	imp	明报	2014	05	3	
+「一国两制、港人治港、高度自治」的特殊方针政策	特殊		一国两制	appreciation	reaction	pos	exp	明报	2014	06	3	
+「一国两制」从来只是手段，维持牢固主权才是目的			一国两制	appreciation	valuation	neg	imp	明报	2014	08	3	
+白皮书诏告它空前成功	成功		一国两制	appreciation	valuation	pos	exp	明报	2014	06	3	
+改革开放和「一国两制」是邓小平理论的两大重要组成部分	重要		一国两制	appreciation	valuation	pos	exp	明报	2014	02	3	
+一国两制已包含港人治港、高度自治、五十年不变		梁爱诗	一国两制	appreciation	valuation	pos	exp	明报	2014	09	4	
+一国两制，港人治港，高度自治」的承诺正好是接受中共政权收回香港的契约			一国两制	appreciation	valuation	pos	imp	明报	2014	08	3	
+习近平强调的「一国两制	强调	习近平	一国两制	appreciation	valuation	pos	imp	明报	2014	10	4	
+选择的治港者也背离了一国两制	背离	治港者	一国两制	affect	inclination	neg	exp	明报	2015	06	4	
+我希望一国两制能延续下去	希望	我	一国两制	affect	inclination	pos	exp	明报	2015	12	4	
+他表示民主思路希望维护一国两制	希望	民主思路	一国两制	affect	inclination	pos	exp	明报	2015	12	4	
+?一国两制中，要重视两制，也要重视一国			一国两制	affect	inclination	pos	imp	明报	2015	01	4	
+中共不信任港人	信任	中共	港人	affect	security	neg	exp	明报	2015	06	4	
+一国两制、高度自治的目标非但不是创新，更加是一个保守的安排	创新		一国两制	appreciation	reaction	neg	exp	明报	2015	06	4	
+「一国两制，港人治港，高度自治」正走向「管治悬崖」	悬崖		一国两制	appreciation	reaction	neg	imp	明报	2015	02	4	
+「一国两制」是一个「创新动作」	创新		一国两制	appreciation	reaction	pos	exp	明报	2015	09	4	
+主不是最重要目标，而是维护一国两制去到2047年，甚至2047之后	重要	他	一国两制	appreciation	reaction	pos	exp	明报	2015	12	4	
+特区与国家属于不同司法体系的地域，此乃一国两制重要设计之一	重要		一国两制	appreciation	valuation	pos	exp	明报	2015	04	4	
+至于未能成功推动的基木法23条立法以及国民教育，据称中央认为其符合「一国两制」的方向和香港须履行的义务		中央	基本法23条以及国民教育	appreciation	valuation	pos	imp	明报	2015	06	4	
+任何政治力量都必须遵守「一国两制」的规矩			一国两制	appreciation	valuation	pos	imp	明报	2015	06	4	
+一国两制令香港受惠于国家经济增长，又能保持原有生活方式和法制		董建华	一国两制	appreciation	valuation	pos	imp	明报	2015	12	4	
+在一国两制之下，仍有远高于大陆的社会自由			一国两制	appreciation	valuation	pos	imp	明报	2015	06	4	
+李柱铭认为一国两制的原意是让香港保持其自由经济及开放社会，作为华人社会的成功例子		李柱铭	一国两制	appreciation	valuation	pos	imp	明报	2015	06	4	
+实现『一国两制』，将沿袭香港在中国近代史上的角色		我	一国两制	appreciation	valuation	pos	imp	明报	2015	07	4	
+但港人往往把焦点放在「一国两制」中的「两制」，忽略了「一国」的重要性			港人	judgement	propriety	neg	imp	明报	2015	06	4	
+民进党不单一直反对一国两制	反对	民进党	一国两制	affect	inclination	neg	exp	明报	2016	02	4	
+抵触「一国两制」	抵触		一国两制	affect	inclination	neg	exp	明报	2016	02	4	
+新来政客只好迎合民粹口味，难以像上一代泛民主派坚守「一国两制」共识底线	坚守	新来政客	一国两制	affect	inclination	neg	imp	明报	2016	03	4	
+」 说得再清楚不过了，为了推翻 「一国两制」 、建立「新体制」 ，不惜采用武力手段	推翻		一国两制	affect	inclination	neg	imp	明报	2016	03	4	
+确保一国两制准确落实	确保	民主思路	一国两制	affect	inclination	pos	exp	明报	2016	06	4	
+中央对贯彻「一国两制」的大方针是不会动摇	贯彻		一国两制	affect	inclination	pos	exp	明报	2016	06	4	
+前政务司长陈方安生在演讲中表示强烈支持《基本法》及一国两制	支持	前政务司长陈方安生	一国两制	affect	inclination	pos	exp	明报	2016	11	4	
+要确保一国两制「不走样、不变形」	要		一国两制	affect	inclination	pos	exp	明报	2016	02	4	
+  新民党 对报告未有提及如何处理一国两制等议题感到失望	失望	新民党	报告	affect	satisfaction	neg	exp	明报	2016	01	4	
+他斥责	斥责	他	中央	affect	satisfaction	neg	exp	明报	2016	02	4	
+他认为年轻人有港独思潮，归根究柢是对中央落实一国两制不满	不满	年轻人	中央落实一国两制	affect	satisfaction	neg	exp	明报	2016	08	4	
+内地应尊重一国两制		民主党立法会议员涂谨申	内地	affect	satisfaction	neg	imp	明报	2016	07	4	
+他忧虑事情发展下去，一国两制会被摧毁	忧虑	他	一国两制	affect	security	neg	exp	明报	2016	08	4	
+怀疑「一国两制」	怀疑		一国两制	affect	security	neg	exp	明报	2016	07	4	
+大家对一国两制高度自治的承诺开始失去信心	信心	大家	一国两制	affect	security	neg	exp	明报	2016	04	4	
+「一国两制」的模糊空间	模糊		一国两制	appreciation	composition	neg	exp	明报	2016	10	4	
+涂谨申认为，新闻稿所指的「变更刑事强制措施」存在威吓	威吓	民主党立法会议员涂谨申	「变更刑事强制措施」	appreciation	reaction	neg	exp	明报	2016	07	4	
+前政务司长陈方安生认为提倡港独是不切实际，而且不恰当	不切实际；不恰当	前政务司长陈方安生	港独	appreciation	reaction	neg	exp	明报	2016	11	4	
+会上谈到一国两制出现回归以来最大问题		汤家骅	一国两制	appreciation	reaction	neg	exp	明报	2016	04	4	
+搞「一左二窄」以斗争哲学、敌我意识、冷战思维管治香港「一国两制」，肯定造成社会撕裂	撕裂		一左二窄	appreciation	reaction	neg	exp	明报	2016	04	4	
+破坏一国两制	破坏	有人	重大政治性事件	appreciation	reaction	neg	exp	明报	2016	11	4	
+北大法学院教授陈端洪认为，港独非香港选项，一国两制下没有讨价还价的余地		北大法学院教授陈端洪	港独	appreciation	reaction	neg	imp	明报	2016	07	4	
+陈太批评李波失踪事件对「一国两制」的破坏甚于《基本法》第23 条立法事件	破坏	陈太	李波失踪事件	appreciation	reaction	neg	imp	明报	2016	01	4	
+社会不能不检讨一国两制实施以来的得失		社会	一国两制	appreciation	reaction	neg	imp	明报	2016	08	4	
+政治反而改变了，因为它没有按照一国两制	按照		政治	appreciation	reaction	neg	imp	明报	2016	05	4	
+至于「一国两制」，回归以来的实践是成功的	成功		一国两制	appreciation	valuation	pos	exp	明报	2016	06	4	
+一国两制是对港人最有利、最符合实际的安排	有利；符合实际	他	一国两制	appreciation	reaction	pos	exp	明报	2016	10	4	
+一国两制实践至今，保障了资金的流动和进出自由、保持了自由港地位	保障；保持		一国两制	appreciation	valuation	pos	exp	明报	2016	10	4	
+「一国两制」的制度设计旨在区隔两地社会，自然也区分了两种公民身分			一国两制	appreciation	valuation	pos	imp	明报	2016	09	4	
+因为有了「一国两制」，才有了立法会			一国两制	appreciation	valuation	pos	imp	明报	2016	08	4	
+一国两制保留香港的法律制度，正正就是不要有具中国特色的普通法制			一国两制	appreciation	valuation	pos	imp	明报	2016	05	4	
+香港回归以来，虽然内部纷争不断，都未超越「一国两制」框架			一国两制	appreciation	valuation	pos	imp	明报	2016	12	4	
+内地当局违反「一国两制」	违反	林荣基	内地当局	judgement	propriety	neg	exp	明报	2016	06	4	
+它的所作所为都是违反了一国两制里头答应的条件	违反		它？	judgement	propriety	neg	exp	明报	2016	05	4	
+内地官方亦觉得有言论刻意破坏一国两制	刻意	内地官方	言论	judgement	propriety	neg	exp	明报	2016	01	4	
+六成市民认为中联办「参与协调」立法会选举有违一国两制原则	有违	六成市民	中联办	judgement	propriety	neg	exp	明报	2016	10	4	
+新来政客只好迎合民粹口味，大胆抵触中央底线	抵触		新来政客	judgement	propriety	neg	imp	明报	2016	03	4	
+他斥责中央已一早撕毁一国两制的契约	撕毁契约	他	中央	judgement	propriety	neg	imp	明报	2016	02	4	
+」 说得再清楚不过了，为了推翻 「一国两制」 、建立「新体制」 ，不惜采用武力手段	武力手段			judgement	propriety	neg	imp	明报	2016	03	4	
+笔者相信他们不是「港独者」，而是珍惜法治、保护「一国两制」的公民	珍惜；保护	笔者	他们	judgement	propriety	pos	exp	明报	2016	11	4	
+有人认为，这是香港回归以来的重大政治性事件		有人		judgement	reaction	neg	exp	明报	2016	07	4	
+建制派当中也有不少人不能坚守一国两制立场	坚守		建制派当中也有不少人	judgement	tenacity	neg	exp	明报	2016	08	4	
+新来政客只好迎合民粹口味，难以像上一代泛民主派坚守「一国两制」共识底线	坚守		新来政客	judgement	tenacity	neg	imp	明报	2016	03	4	
+副主席罗健熙认为中央声言一国两制成功落实是「自high（自我感觉良好）	自high	罗健熙	中央	judgement	veracity	neg	imp	明报	2016	12	4	
+她却倾向视重建为新旧融合的过程	倾向	她	视重建为新旧融合的过程	affect	inclination	pos	exp	明报	2017	11	4	
+坚持民族团结和一国两制	坚持		王渝生	affect	inclination	pos	exp	明报	2017	10	4	
+必须全面准确贯彻「一国两制	贯彻		一国两制	affect	inclination	pos	exp	明报	2017	10	4	
+全面准确贯彻落实一国两制方针	贯彻；落实	中央	一国两制	affect	inclination	pos	exp	明报	2017	09	4	
+佢话解放军进驻香港20 年，坚决贯彻一国两制方针	贯彻	解放军	一国两制	affect	inclination	pos	exp	明报	2017	08	4	
+习近平的治港思路，即坚持「一国两制」不动摇、不走样、不变形	坚持	习近平	一国两制	affect	inclination	pos	exp	明报	2017	09	4	
+我们希望维护一国两制及司法独立	希望	我们	一国两制	affect	inclination	pos	exp	明报	2017	10	4	
+习近平说得很清楚，只要承认一国两制，什么都可以谈		习近平	一国两制	affect	inclination	pos	imp	明报	2017	07	4	
+全面准确贯彻落实『一国两制』方针需要大家迎难而上，积极作为	需要	习近平	一国两制	affect	inclination	pos	imp	明报	2017	07	4	
+一国两制要「行稳致远」			一国两制	affect	inclination	pos	imp	明报	2017	06	4	
+按照一国两制道路走下去			一国两制	affect	inclination	pos	imp	明报	2017	05	4	
+成功落实「一国两制」的机会更大			一国两制	affect	inclination	pos	imp	明报	2017	11	4	
+任何政党都承认香港马照跑是落实的，体验了一国两制精神		任何政党	一国两制	affect	satisfaction	pos	imp	明报	2017	06	4	
+惟是管治出现问题			管制	appreciation	reaction	neg	exp	明报	2017	06	4	
+长远看一国两制，未来还有很长的路要走，会遇到许多「坡坡坎坎」	坡坡坎坎	他	一国两制	appreciation	reaction	neg	exp	明报	2017	04	4	
+对于一国两制、港人治港及高度自治的实施情况，认为有落实的受访者只占约一成		受访者	一国两制	appreciation	reaction	neg	imp	明报	2017	07	4	
+习近平强调， 『一国两制』是前无古人的创举	创举	习近平	一国两制	appreciation	reaction	pos	exp	明报	2017	07	4	
+一国两制，香港马照跑真正落实	落实		一国两制	appreciation	reaction	pos	exp	明报	2017	06	4	
+一国两制在香港赛马范围完全落实	落实		一国两制	appreciation	reaction	pos	exp	明报	2017	06	4	
+一国两制实践取得一定成果	成果		一国两制	appreciation	reaction	pos	exp	明报	2017	06	4	
+她却倾向视重建为新旧融合的过程，香港与中央关系也是如此		她	香港与中央关系	appreciation	reaction	pos	imp	明报	2017	11	4	
+写「一国两制」，她指这是丈夫由心出发，	由心出发	丈夫	一国两制	appreciation	reaction	pos	imp	明报	2017	02	4	
+如何真实、客观、准确地评估过去20年的得失成败，自然是按照一国两制道路走下去必不可少的工夫	必不可少		评估过去20年的得失成败	appreciation	valuation	pos	exp	明报	2017	05	4	
+基本法委员会委员饶戈平表示一国两制是原则性的框架	原则性	基本法委员会委员饶戈平	一国两制	appreciation	valuation	pos	exp	明报	2017	05	4	
+但这是「一国两制」的重要体现	重要		一国两制	appreciation	valuation	pos	exp	明报	2017	02	4	
+大湾区构想，既有配合新一届特区政府施政聚焦经济民生的用意，亦有推动「一国两制」新实践			大湾区构想	appreciation	valuation	pos	imp	明报	2017	04	4	
+笔者认为，即使是「武统」，恐怕也是按邓小平原来设想的一国两制遇到的反抗和阻力更少		笔者	一国两制	appreciation	valuation	pos	imp	明报	2017	01	4	
+一国两制必然可以保障香港生活方式50年不变的传媒	保障		一国两制	appreciation	valuation	pos	imp	明报	2017	06	4	
+香港奉行一国两制，与内地有别，没必要亦没可能照搬内地《国歌法》			一国两制	appreciation	valuation	pos	imp	明报	2017	11	4	
+王振民是在警告港人，一旦没有一国两制，这些东西统统都要失去		王振民	一国两制	appreciation	valuation	pos	imp	明报	2017	05	4	
+把在香港成功落实「一国两制」当作中共治国理政的组成部分，亦是实现「中国梦」的重要组成部分	重要		一国两制	appreciation	valuation	pos	imp	明报	2017	09	4	
+但一些人对一国两制的理解，还停留在「除了国防和外交，中央不管香港的事」、「井水不犯河水」的层面			一些人	judgement	capacity	neg	imp	明报	2017	01	4	
+一小撮人甚至主张自决鼓吹港独，冲击中央与本港的关系	鼓吹		一小撮人	judgement	propriety	neg	exp	明报	2017	06	4	
+前途是光明的、道路是曲折的				judgement	tenacity	pos	imp	明报	2017	04	4	
+习近平表明，香港要更好落实一国两制	要	习近平	香港落实一国两制	affect	inclination	pos	exp	明报	2018	06	4	
+确实有人担心融入国家发展大局会使香港失去一国两制特色	担心	有人	一国两制	affect	security	neg	exp	明报	2018	11	4	
+他批评若日后不能再喊此口号，将打击香港高度自治和一国两制	打击	他	一国两制	affect	security	neg	imp	明报	2018	03	4	
+各界必须明确反对港独	反对		港独	appreciation	reaction	neg	exp	明报	2018	07	4	
+香港失去一国两制特色	失去		香港	appreciation	reaction	neg	exp	明报	2018	11	4	
+称美商界听闻一国两制「唔掂」	「唔掂」	美商界	一国两制	appreciation	reaction	neg	exp	明报	2018	12	4	
+港独否定一国两制	否定	港独	一国两制	appreciation	reaction	neg	exp	明报	2018	07	4	
+有反对派说，实施「一地两检」无异于撕毁一国两制	撕毁	反对派	一地两检	appreciation	reaction	neg	imp	明报	2018	06	4	
+若制度容许「一些反制度、甚至鼓吹推翻制度的政治思想萌芽生长」，最终只会危及一国两制的继续存在				appreciation	reaction	neg	imp	明报	2018	02	4	
+香港拥地理、一国两制及司法制度等优势	优势	金管局总裁陈德霖	一国两制	appreciation	reaction	pos	exp	明报	2018	01	4	
+一国两制是香港唯一出路	唯一出路		一国两制	appreciation	reaction	pos	imp	明报	2018	07	4	
+将香港民主发展和选举制度规限于一国两制和基本法下，长远而言会有助「落实及永续一国两制				appreciation	reaction	pos	imp	明报	2018	02	4	
+香港因为「一国两制」而在国际社会拥有一个独特地位			一国两制	appreciation	valuation	pos	imp	明报	2018	12	4	
+亦令香港市民成磨心	磨心	香港市民	一国两制	affect	happiness	neg	exp	明报	2019	07	4	
+美方应避免采取「有损国际社会对一国两制信心」的举措	避免	他	举措	affect	inclination	neg	exp	明报	2019	12	4	
+美军印太司令部则表示，「一国两制」并非两岸共同意愿	意愿	两岸	一国两制	affect	inclination	neg	exp	明报	2019	03	4	
+林郑声称「坚守『一国两制』」	坚守	林郑	一国两制	affect	inclination	pos	exp	明报	2019	02	4	
+香港奉行一国两制	奉行	香港	一国两制	affect	inclination	pos	exp	明报	2019	11	4	
+中央已表明会坚持一国两制	坚持	中央	一国两制	affect	inclination	pos	exp	明报	2019	02	4	
+  习近平发表「习五点」，首倡「一国两制台湾方案」	倡	习近平	一国两制	affect	inclination	pos	exp	明报	2019	10	4	
+这都迫切需要我们站在新时代的高度以宪法和基本法为宪制基础，建构一套符合港澳实际的『一国两制』理论体系，更好地指导实践			一国两制	affect	inclination	pos	imp	明报	2019	10	4	
+市民有感安全受威胁	威胁	市民	示威冲突	affect	security	neg	exp	明报	2019	07	4	
+大家对一国两制信心未足	信心	大家	一国两制	affect	security	neg	exp	明报	2019	06	4	
+中央仍然相信香港可以在一国两制之下，自行处理眼前危机	相信	中央	香港	affect	security	pos	exp	明报	2019	07	4	
+中央对「一国两制」的坚定信心	信心	中央	一国两制	affect	security	pos	exp	明报	2019	11	4	
+两制间之内部张力问题	问题		一国两制	appreciation	composition	neg	imp	明报	2019	12	4	
+一国两制，不单是经济和政治，而是中西古今文明异同的正正反反互动互变			一国两制	appreciation	composition	pos	imp	明报	2019	07	4	
+一国两制出现根本动荡	动荡		一国两制	appreciation	reaction	neg	exp	明报	2019	07	4	
+情况令本港「乱糟糟」	乱糟糟	范徐丽泰	示威冲突	appreciation	reaction	neg	imp	明报	2019	07	4	
+还有「一国两制」吗			一国两制	appreciation	reaction	neg	imp	明报	2019	03	4	
+届时西方国家及台湾台独势力就有理由指「一国两制」失败		范徐丽泰	一国两制	appreciation	reaction	neg	imp	明报	2019	07	4	
+一国两制不只是一项合并		发言人	一国两制	appreciation	reaction	pos	imp	明报	2019	11	4	
+一国两制、港人治港被人天天挂在嘴边	挂在嘴边		一国两制	appreciation	reaction	pos	imp	明报	2019	11	4	
+大湾区对进一步丰富「一国两制」实践内涵意义深远	意义深远		大湾区	appreciation	valuation	pos	exp	明报	2019	03	4	
+习近平多次提到两岸统一，明确指出「和平统一、一国两制是实现国家统一的最佳方式	最佳	习近平	一国两制	appreciation	valuation	pos	exp	明报	2019	01	4	
+黄柳权还说，一国两制澳门实践在结合当地实际、探索自身发展道路方面是成功范例	成功	黄柳权	一国两制	appreciation	valuation	pos	exp	明报	2019	10	4	
+维持香港一国两制现状符合美国利益		他	一国两制	appreciation	valuation	pos	imp	明报	2019	12	4	
+香港可以在一国两制之下	可以		香港	judgement	capacity	pos	exp	明报	2019	07	4	
+有损国际社会对一国两制信心」的举措	有损	他	美方	judgement	propriety	neg	exp	明报	2019	12	4	
+他说民族党是「公然宣扬港独主张的港独组织」，活动挑战一国两制的政治底线	挑战；底线	张晓明	民族党	judgement	propriety	neg	exp	明报	2019	03	4	
+内地「将网撒得很阔」，借此杀鸡儆猴，但做法违反一国两制	违反	人权监察总干事罗沃启	内地	judgement	propriety	neg	exp	明报	2019	08	4	
+为了显示一国两制成功，北京一定要全力解决目前香港的困局	要		北京	judgement	tenacity	pos	exp	明报	2019	10	4	
+北京实行「一国两制」的初心不改	初心不改	分析人士	北京	judgement	tenacity	pos	exp	明报	2019	07	4	
+周浩鼎则批评人权报告偏颇，认为香港严格遵守一国两制	遵守	周浩鼎	香港	judgement	tenacity	pos	exp	明报	2019	03	4	
+中央也用实际行动体现了对「一国两制」制度的尊崇、执行与维护			中央	judgement	tenacity	pos	exp	明报	2019	11	4	
+中央从坚持和完善「一国两制」制度体系	坚持	中央	一国两制	affect	inclination	pos	exp	明报	2020	06	4	
+全面准确贯彻「一国两制」方针	贯彻	香港中联办主任骆惠宁	一国两制	affect	inclination	pos	exp	明报	2020	03	4	
+港人要求的，本来只是《中英联合声明》承诺的真一国两制	要求	港人	一国两制	affect	inclination	pos	exp	明报	2020	01	4	
+贯彻一国两制方针的决心坚定不移	贯彻	习近平	一国两制	affect	inclination	pos	exp	明报	2020	02	4	
+，批评反对派要在香港夺权变天	批评	他	反对派	affect	satisfaction	neg	exp	明报	2020	06	4	
+引起社会对一国两制的担忧	担忧	社会	一国两制	affect	security	neg	exp	明报	2020	10	4	
+「一国两制」承诺由「高度自治」变「全面管治」			一国两制	appreciation	composition	neg	imp	明报	2020	01	4	
+不论是什么版本的「一国两制」，即使在步骤、阶段、实施方法上不尽相同，然而并不存在本质上的区别			一国两制	appreciation	composition	pos	imp	明报	2020	05	4	
+「港独」「黑暴」严重挑战「一国两制」原则底线	挑战；底线	中联办主任骆惠宁	「港独」「黑暴」	appreciation	reaction	neg	exp	明报	2020	04	4	
+反对派要在香港夺权变天，影响一国两制全面实施	夺权	他	反对派	appreciation	reaction	neg	exp	明报	2020	06	4	
+香港一国两制实践的严峻挑战	挑战；底线	习近平	一国两制的实践	appreciation	reaction	neg	exp	明报	2020	02	4	
+  民主派形容，《决定》是判一国两制死刑	死刑	民主派	决定	appreciation	reaction	neg	imp	明报	2020	05	4	
+政府和警方新政却令香港核心价值进一步受损			政府和警方新政	appreciation	reaction	neg	imp	明报	2020	01	4	
+香港国安法是「一国两制」制度体系建设的典范	典范		国安法	appreciation	reaction	pos	exp	明报	2020	07	4	
+『一国两制』方针得到全面贯彻落实	贯彻；落实	朱镕基	一国两制	appreciation	reaction	pos	exp	明报	2020	04	4	
+人大常委谭耀宗（左）形容《决定》完善一国两制	完善	人大常委谭耀宗	决定	appreciation	reaction	pos	imp	明报	2020	11	4	
+立法可保障一国两制行稳致远		崔天凯	立法	appreciation	reaction	pos	imp	明报	2020	06	4	
+是23 年来经营的「一国两制」不太成功	成功		一国两制	appreciation	valuation	neg	exp	明报	2020	07	4	
+很多人都以为香港的「异质性」可以在「一国两制」的国策下一路延续，现在看来显然是过分乐观了	乐观		一国两制	appreciation	valuation	neg	imp	明报	2020	06	4	
+一国两制于球场上仍然有它的政治信用	信用		一国两制	appreciation	valuation	pos	exp	明报	2020	05	4	
+香港倚仗一国两制的保障，在发签证予外媒时一向有主导权	倚仗		一国两制	appreciation	valuation	pos	imp	明报	2020	08	4	
+反对派和背后外部势力，企图把香港变成独立或半独立的政治实体、外部势力反共反华的桥头堡	企图	他	反对派和背后外部势力	judgement	propriety	neg	exp	明报	2020	06	4	
+贯彻一国两制方针的决心坚定不移	坚定	习近平	中国政府	judgement	tenacity	pos	exp	明报	2020	02	4	
+前?指摘特区未能捍宪司法权，维护「一国两制」的精粹	指摘	前?	特区政府	affect	satisfaction	neg	exp	苹果日报	1998	12	1	
+特区未能捍宪司法权，维护「一国两制」的精粹	未能	前?	特区政府	judgement	capacity	neg	exp	苹果日报	1998	12	1	
+逾五成被访市民反对人大推翻终审法院的裁决	反对	被访市民	裁决	affect	inclination	neg	exp	苹果日报	1999	02	1	
+对台北当局来说，即使不情愿	情愿	台北当局	一国两制	affect	inclination	neg	exp	苹果日报	1999	12	1	
+一国两制信心微跌百分四	信心；跌		一国两制	affect	inclination	neg	exp	苹果日报	1999	02	1	
+希望香港能维持「一国两制」的地位	希望		一国两制	affect	inclination	pos	exp	苹果日报	1999	02	1	
+台北当局不能不注意香港版的「一国两制」如何演变	注意	台北当局	一国两制	affect	inclination	pos	exp	苹果日报	1999	12	1	
+钱其琛在会见中重申了「和平统一、一国两制」原则不会变		钱其琛	一国两制	affect	inclination	pos	exp	苹果日报	1999	08	1	
+中国对「一国两制」的容忍度	容忍度	中国	一国两制	affect	inclination	pos	imp	苹果日报	1999	12	1	
+对一国两制信心减少者有三成六	信心	香港民众	一国两制	affect	security	neg	exp	苹果日报	1999	06	1	
+我从未相信一国两制	相信	我	一国两制	affect	security	neg	exp	苹果日报	1999	07	1	
+以致京官将「一国两制」改为「一国」为先，「两制」为后，亦不敢吭一声			一国两制	appreciation	composition	neg	imp	苹果日报	1999	07	1	
+然而，中共对于两岸谈判，从来就是以「对等」为基础，从来就没有预设大陆是中央、台湾是地方的立场，尽管「一国两制」的构想确是以北京为中央、台湾为地方			一国两制	appreciation	composition	neg	imp	苹果日报	1999	07	1	
+但在「一国两制」原则下，保安局指香港法轮佛学会是合法注册社团	合法	保安局	法轮佛学会	appreciation	composition	pos	exp	苹果日报	1999	07	1	
+会打击他们对香港「一国两制、高度自治」以及「司法独立」的信心	打击	被访市民	裁决	appreciation	reaction	neg	exp	苹果日报	1999	02	1	
+『一国两制』将失去意义及承诺	意义		一国两制	appreciation	reaction	neg	exp	苹果日报	1999	09	1	
+「一国两制」是邓小平形容香港回归中国的著名方程式	著名		一国两制	appreciation	reaction	pos	exp	苹果日报	1999	07	1	
+一国两制也成为伟大口号而已	口号		一国两制	appreciation	valuation	neg	exp	苹果日报	1999	02	1	
+一国两制从来只是假象	假象		一国两制	appreciation	valuation	neg	exp	苹果日报	1999	06	1	
+一国两制只是空谈	空谈		一国两制	appreciation	valuation	neg	exp	苹果日报	1999	02	1	
+可能破坏一国两制向台湾的示范作用			一国两制	appreciation	valuation	neg	imp	苹果日报	1999	09	1	
+基本法是一国两制的基础，也是香港的宪法	基础		基本法	appreciation	valuation	pos	exp	苹果日报	1999	02	1	
+一国两制本来就是中央政府一种自我限制权力的设计			一国两制	appreciation	valuation	pos	exp	苹果日报	1999	02	1	
+「一国两制」应成为解决台湾与大陆统一问题的范例	范例	中共领导人	一国两制	appreciation	valuation	pos	exp	苹果日报	1999	09	1	
+贯彻『一国两制』的方针极之重要	重要		一国两制	appreciation	valuation	pos	exp	苹果日报	1999	12	1	
+一国两制的样办			一国两制	appreciation	valuation	pos	imp	苹果日报	1999	02	1	
+我们的信心是建基于「一国两制」所给予的政经优势		我们	一国两制	appreciation	valuation	pos	imp	苹果日报	1999	06	1	
+在中国领土的香港公开举行全球的法轮功聚会，简直是挑战中国对「一国两制」的容忍度	挑战		法轮功聚会	judgement	propriety	neg	exp	苹果日报	1999	12	1	
+法轮功学员在本港搞集会是合法的	合法	中文大学亚太研究所高级研究员张鑫	法轮功学员	judgement	propriety	pos	exp	苹果日报	1999	12	1	
+有人认为为了维护香港「一国两制」和司法独立的地位，一切在所不惜	在所不惜	有人		judgement	tenacity	pos	imp	苹果日报	1999	02	1	
+极少数人不愿意看到『一国两制』成功	愿意	少数人	一国两制	affect	inclination	neg	exp	苹果日报	2000	11	1	
+台湾无法接受「一国两制」	接受	台湾	一国两制	affect	inclination	neg	exp	苹果日报	2000	03	1	
+台湾的民意不会接受「一个中国」与「一国两制」	接受	台湾的民意	一国两制	affect	inclination	neg	exp	苹果日报	2000	01	1	
+怎么能够使人相信「一国两制、五十年不变」	相信		一国两制	affect	inclination	neg	exp	苹果日报	2000	03	1	
+当时（八四年）大家这样团结一致，希望『一国两制』成功，但现在回归了三年却不是这回事	希望	大家	一国两制	affect	inclination	neg	imp	苹果日报	2000	11	1	
+有四成的被访者形容他们对北京落实「一国两制」的信心明显减少了	信心	被访者	北京落实一国两制	affect	security	neg	exp	苹果日报	2000	04	1	
+他不担心事件会影响中央同特区的关系，也不影响港人对「一国两制」的信心	信心	香港人	一国两制	affect	security	pos	exp	苹果日报	2000	10	1	
+北京所言的「一国两制」中，对台湾的一制和香港的一制是有分别的，台湾较香港可有更大自主性		刘兆佳	一国两制	appreciation	composition	pos	imp	苹果日报	2000	04	1	
+所谓一国两制根本狗屁不通的东西	狗屁不通		一国两制	appreciation	reaction	neg	exp	苹果日报	2000	01	1	
+一国两制的黄金岁月也徐徐暗下来了	暗下来		一国两制	appreciation	reaction	neg	imp	苹果日报	2000	04	1	
+若台湾按一国两制方式统一势必产生冲突	冲突		一国两制	appreciation	reaction	neg	imp	苹果日报	2000	05	1	
+这位教授所忧虑的，反是香港的政治文化和道德操守，会在一国两制下每下愈况	忧虑	教授	一国两制	appreciation	reaction	neg	imp	苹果日报	2000	08	1	
+《香港年报》认为，「一国两制」运作良好	运作良好	香港年报	一国两制	appreciation	reaction	pos	exp	苹果日报	2000	05	1	
+「一国两制」根本是北京「权宜之计」	权宜之计	杨森	一国两制	appreciation	valuation	neg	exp	苹果日报	2000	10	1	
+一国两制保证自治			一国两制	appreciation	valuation	pos	imp	苹果日报	2000	02	1	
+港澳的「一国两制」回归，原是北京向世人展示和平手段有效解决的办法		有效	一国两制	appreciation	valuation	pos	imp	苹果日报	2000	04	1	
+但他在发言中没有对港台两地不同的「一国两制」作出任何解释，难免引人误解		刘兆佳	董建华	judgement	capacity	neg	imp	苹果日报	2000	04	1	
+行政长官董建华自称任内三年，较成功是落实一国两制	落实	董建华	董建华	judgement	capacity	pos	exp	苹果日报	2000	08	1	
+超过四成的被访者认为中联办副主任王凤超前日的言论，干预了本港的新闻自由	干预	被访者	王凤超	judgement	propriety	neg	imp	苹果日报	2000	04	1	
+民建联主席曾钰成称，虽然梁爱诗工作不能说是无懈可击，但其表现对发展一国两制之下的法治有帮助	帮助	曾钰成	梁爱诗	judgement	propriety	pos	exp	苹果日报	2000	05	1	
+董建华的说法并没有偏离中央政府的一贯精神	偏离	刘兆佳	董建华	judgement	tenacity	pos	exp	苹果日报	2000	04	1	
+律政司发言人重申，特区政府在回归以来一直致力在基本法的架构下落实一国两制	致力	律政司发言人	特区政府	judgement	tenacity	pos	exp	苹果日报	2000	06	1	
+特首办公室发言人强调他上任以来，在行政上贯彻「一国两制」	贯彻	特首办公室发言人	董建华	judgement	tenacity	pos	imp	苹果日报	2000	01	1	
+表示不希望法轮功活动影响「一国两制」	希望	全国政协	法轮功	affect	inclination	neg	exp	苹果日报	2001	03	1	
+所谓的「一个中国、九二共识」其实就是「一国两制」，若他接受，「就等于放弃中华民国	接受	他	一国两制	affect	inclination	neg	exp	苹果日报	2001	11	1	
+台湾包括国民党在内的在野党都拒绝「一国两制」而宁选联邦制	拒绝	台湾	一国两制	affect	inclination	neg	exp	苹果日报	2001	03	1	
+马英九在香港既没有说台湾应接受「一国两制」	接受	台湾	一国两制	affect	inclination	neg	exp	苹果日报	2001	02	1	
+他并形容今次拒访将成为「将来反对『一国两制	反对	谢长廷	一国两制	affect	inclination	neg	imp	苹果日报	2001	06	1	
+部分民意虽接受「一国两制」	接受	部分民意	一国两制	affect	inclination	pos	exp	苹果日报	2001	07	1	
+「一国两制」的主张，在台湾已有愈来愈多的人表示可以接受	接受	台湾人	一国两制	affect	inclination	pos	exp	苹果日报	2001	06	1	
+赞成「一国两制」的比例从一九九九年十二月二十五日（澳门回归日）的百分之十二，升高到今年六月五日的百分之三十一	赞成	台湾民意	一国两制	affect	inclination	pos	exp	苹果日报	2001	06	1	
+我们只希望特区政府能坚决按照基本法及一国两制的原则办事	希望	我们	一国两制	affect	inclination	pos	exp	苹果日报	2001	02	1	
+大陆对统一的态度非常明确，就是和平统一和一国两制		大陆	一国两制	affect	inclination	pos	imp	苹果日报	2001	02	1	
+香港是一国两制，香港不是台湾，所以我在这里（台湾）觉得比在香港更加自在	自在	他	一国两制	affect	security	neg	imp	苹果日报	2001	02	1	
+「一国两制并发症」	并发症	我	一国两制	affect	security	neg	imp	苹果日报	2001	02	1	
+要董特首去台湾宣示，不是在做白日梦吗	白日做梦		宣示	appreciation	reaction	neg	exp	苹果日报	2001	02	1	
+「一国两制」前景愈来愈不明朗之际	明朗		一国两制	appreciation	reaction	neg	exp	苹果日报	2001	02	1	
+基于「一国两制」的原则，教育当局自行设计具政治议题的课程实无不可			教育当局自行设计具政治议题的课程	appreciation	reaction	pos	exp	苹果日报	2001	05	1	
+本港「一国两制」实施四年来成果良好	成果；良好	董建华	一国两制	appreciation	reaction	pos	exp	苹果日报	2001	07	1	
+一国两制」的蓝图	蓝图		一国两制	appreciation	reaction	pos	exp	苹果日报	2001	12	1	
+一国两制是史无前例的	史无前例	许家屯	一国两制	appreciation	reaction	pos	exp	苹果日报	2001	03	1	
+我不是说香港实施的一国两制，可应用在台湾		我	一国两制	appreciation	valuation	neg	imp	苹果日报	2001	11	1	
+「一国两制」的成功	成功		一国两制	appreciation	valuation	pos	exp	苹果日报	2001	08	1	
+政府还不断宣传一国两制的成功	成功	政府	一国两制	appreciation	valuation	pos	exp	苹果日报	2001	07	1	
+特首发言人则强调会面主要向美国介绍中国加入世贸为港美带来的商机，并讲解「一国两制」在港的成功落实	成功	特首发言人	一国两制	appreciation	valuation	pos	exp	苹果日报	2001	07	1	
+「一国两制」形同圣旨	形同圣旨	中国	一国两制	appreciation	valuation	pos	imp	苹果日报	2001	01	1	
+只要「一国两制」存在，高官理应都可以据良心处事		李柱铭	一国两制	appreciation	valuation	pos	imp	苹果日报	2001	02	1	
+破坏香港一国两制的实施	破坏		某个人	judgement	propriety	neg	exp	苹果日报	2001	03	1	
+现在特区政府反过来把这些程序、框架打破，透过法例引入无限制的权力，这不是跟一国两制及《基本法》的精神背道而驰吗	打破；背道而驰		特区政府	judgement	propriety	neg	exp	苹果日报	2001	07	1	
+曾荫权重申一国两制成功落实，更令人自豪、鼓舞	自豪	曾荫权	一国两制	affect	happiness	pos	exp	苹果日报	2002	02	1	
+台湾民意百分之八十反对一国两制	反对	台湾民意	一国两制	affect	inclination	neg	exp	苹果日报	2002	12	1	
+中国所提的一中原则或「一国两制」，是要改变台湾现状，「台湾不可能接受」	接受	陈水扁	一国两制	affect	inclination	neg	exp	苹果日报	2002	08	1	
+向台湾人大力推销香港「一国两制」成功经验	推销	阿松	一国两制	affect	inclination	pos	imp	苹果日报	2002	04	1	
+对一国两制，受访者只有五成六人士表示有信心，比今年初下跌了百分七	信心；下跌	受访者	一国两制	affect	security	neg	exp	苹果日报	2002	07	1	
+「一国两制」中的「一国」将会愈来愈大，「两制」难存		卢兆兴	一国两制	appreciation	composition	neg	exp	苹果日报	2002	12	1	
+二十三条中有关外国政治性组织的条文，最能推翻「一国两制」的价值	推翻		二十三条	appreciation	reaction	neg	exp	苹果日报	2002	11	1	
+二十三条立法严重破坏《基本法》和《中英联合声明》对「一国两制」的承诺	破坏	他	二十三条	appreciation	reaction	neg	exp	苹果日报	2002	12	1	
+二十三条立法必将影响台湾民众对「一国两制」的支持	影响	他	二十三条	appreciation	reaction	neg	exp	苹果日报	2002	11	1	
+这是谘询文件当中最危险的建议，若付诸实施势将危害「一国两制」	危害		建议	appreciation	reaction	neg	exp	苹果日报	2002	12	1	
+涂谨申又形容二十三条是特区新三个代表论：「它代表了自由和法治的逐渐丧失，它代表了国际社会价值逐渐远离，它代表了『一国两制』迅速步向『一制』！」		涂谨申	二十三条	appreciation	reaction	neg	imp	苹果日报	2002	12	1	
+「如果立咗法，好似有条桥咁可以过嚟香港，咁一国两制咪冇啰！」			立法	appreciation	reaction	neg	imp	苹果日报	2002	10	1	
+「一国两制」原来系块蛋糕，睇得又食得			一国两制	appreciation	reaction	neg	imp	苹果日报	2002	04	1	
+一国两制成功落实	成功	曾荫权	一国两制	appreciation	valuation	pos	exp	苹果日报	2002	12	1	
+香港「一国两制」成功经验	成功	阿松	一国两制	appreciation	valuation	pos	exp	苹果日报	2002	04	1	
+他又表示，香港回归五年，台湾民众刚开始对「一国两制」稍有认识		他	一国两制	appreciation	reaction	pos	imp	苹果日报	2002	11	1	
+香港更证明了「一国两制」的失败	失败	卢兆兴	一国两制	appreciation	valuation	neg	exp	苹果日报	2002	12	1	
+」一国两制，从来只是骗人的把戏	骗人的把戏		一国两制	appreciation	valuation	neg	imp	苹果日报	2002	12	1	
+一国两制已葬送	葬送		一国两制	appreciation	valuation	neg	imp	苹果日报	2002	09	1	
+已不可能以一国两制说服台湾			一国两制	appreciation	valuation	neg	imp	苹果日报	2002	11	1	
+一国两制的金漆招牌	金漆招牌		一国两制	appreciation	valuation	pos	exp	苹果日报	2002	11	1	
+港人治港、高度自治、一国两制五十年不变保障，从此不用杞人忧天			一国两制	appreciation	valuation	pos	imp	苹果日报	2002	09	1	
+我们认为北京高层官员公开施压的做法既不明智也不可取	明智；可取	我们	北京	judgement	propriety	neg	exp	苹果日报	2002	02	1	
+将削弱市民及国际社会对一国两制运作的信心	削弱	我们	北京	judgement	propriety	neg	exp	苹果日报	2002	02	1	
+北京为保住「一国两制」的金漆招牌，情况也够苦了			北京	judgement	tenacity	pos	imp	苹果日报	2002	11	1	
+「一国两制」竟然用这一种方式来体现，教人惆怅	惆怅		一国两制	affect	happiness	neg	exp	苹果日报	2003	04	1	
+连战公开表示不可以接受「一国两制」	接受	连战宋楚瑜	一国两制	affect	inclination	neg	exp	苹果日报	2003	08	2	
+台湾人不会接受这样的「一国两制」	接受	台湾人	一国两制	affect	inclination	neg	exp	苹果日报	2003	12	2	
+一国两制，台湾人民千万、千万，千万不要接受	接受	笔者	一国两制	affect	inclination	neg	exp	苹果日报	2003	08	2	
+民进党则是坚决反对的	反对	民进党	一国两制	affect	inclination	neg	exp	苹果日报	2003	07	2	
+若真的有所理解，那么他应该看一下台湾历来的民调，以及包括在野党在内的台湾所有的从政人士，有多少人支持在台湾实行「一国两制」		台湾民调	一国两制	affect	inclination	neg	imp	苹果日报	2003	12	2	
+群策会「唱衰」香港「一国两制」	唱衰	群策会	一国两制	affect	inclination	neg	imp	苹果日报	2003	08	2	
+中央支持「一国两制」基本方针	支持	中央	一国两制	affect	inclination	pos	exp	苹果日报	2003	08	2	
+如果没有一位懂得捍宪「一国两制」、「港人治港」和拥有认受性、得到群众支持的行政长官，会令人忧虑香港除了经济之外，其他方面亦会逐渐受到中国大陆的影响			懂得捍宪「一国两制」、「港人治港」和拥有认受性、得到群众支持的行政长官	affect	inclination	pos	imp	苹果日报	2003	10	2	
+对香港的前途发展，社会稳定，以及落实一国两制有长远的作用	落实		一国两制	affect	inclination	pos	imp	苹果日报	2003	01	1	
+中国政府依旧会用一国两制处理台湾问题		中国政府	一国两制	affect	inclination	pos	imp	苹果日报	2003	07	2	
+引起市民不满	不满	市民	董建华	affect	satisfaction	neg	exp	苹果日报	2003	10	2	
+「一国两制」的界线愈来愈模糊	模糊		一国两制	appreciation	composition	neg	exp	苹果日报	2003	10	2	
+他们（政府）建议的立法条文，会破坏一国两制	破坏	他	立法条文	appreciation	reaction	neg	exp	苹果日报	2003	02	1	
+民主党前主席李柱铭认为，港府提出的二十三条立法建议中，最破坏「一国两制」的，是取缔从属于内地危害国家安全组织的本地组织之机制	破坏	李柱铭	取缔从属于内地危害国家安全组织的本地组织之机制	appreciation	reaction	neg	exp	苹果日报	2003	06	1	
+中央政府也知道问题严峻	严峻	中央政府	问题	appreciation	reaction	neg	exp	苹果日报	2003	10	2	
+一国两制的政治，比封建皇朝更差	差		一国两制	appreciation	reaction	neg	exp	苹果日报	2003	08	2	
+世界舆论也必认为一国两制将毁于一旦	毁于一旦	世界舆论	一国两制	appreciation	reaction	neg	exp	苹果日报	2003	07	2	
+一国两制，三餐不继，四处萧条，唔理民意		Simon Ho	一国两制	appreciation	reaction	neg	imp	苹果日报	2003	06	1	
+一国两制，就是把台湾矮化		他	一国两制	appreciation	reaction	neg	imp	苹果日报	2003	10	2	
+让香港加快民主发展步伐实在是一个三赢的方案	赢		让香港加快民主发展步伐	appreciation	reaction	pos	exp	苹果日报	2003	07	2	
+『一国两制』好成功	成功	他	一国两制	appreciation	valuation	pos	exp	苹果日报	2003	04	1	
+「一国两制」这个神话	神话		一国两制	appreciation	reaction	pos	imp	苹果日报	2003	12	2	
+说甚么一国两制示范窗口，这全是政治幼稚生的梦呓	梦呓		一国两制	appreciation	valuation	neg	exp	苹果日报	2003	06	1	
+一国两制有强大生命力，任何力量不可动摇	生命力	温家宝	一国两制	appreciation	valuation	pos	imp	苹果日报	2003	07	2	
+「一国两制」完全可保障香港的人权和自由		林瑞麟	一国两制	appreciation	valuation	pos	imp	苹果日报	2003	07	2	
+既然香港是「一国两制」的样办，完全没有示威活动太假了		我	一国两制	appreciation	valuation	pos	imp	苹果日报	2003	09	2	
+但一连任，底牌尽露，			董建华	judgement	capacity	neg	imp	苹果日报	2003	10	2	
+成功落实一国两制	成功	官员	董建华	judgement	capacity	pos	exp	苹果日报	2003	03	1	
+董建华第一个五年功绩只有一个，就是成功落实「一国两制」	成功		董建华	judgement	capacity	pos	exp	苹果日报	2003	10	2	
+只识讨好中央，视港人利益如无物			董建华	judgement	propriety	neg	imp	苹果日报	2003	10	2	
+我们有必要点起手上的烛光，以表明我们反对释法的态度	反对	我们	人大释法	affect	inclination	neg	exp	苹果日报	2004	04	2	
+依靠狭义爱国者治港，已完全失去民心	民心		狭义爱国者治港	affect	inclination	neg	exp	苹果日报	2004	08	2	
+连战宋楚瑜也不得不出来宣称，他们拒绝「一国两制」	拒绝	连战宋楚瑜	一国两制	affect	inclination	neg	exp	苹果日报	2004	03	2	
+尽管北京无数次对台湾提出「一国两制」的统一模式，后者却从来没多大兴趣	兴趣	台湾	一国两制	affect	inclination	neg	exp	苹果日报	2004	06	2	
+陈水扁自然反对一国两制	反对	陈水扁	一国两制	affect	inclination	neg	exp	苹果日报	2004	03	2	
+接近九成台湾民众不赞成大陆以「一国两制」发展两岸关系	赞成	台湾民众	一国两制	affect	inclination	neg	exp	苹果日报	2004	05	2	
+蓝、绿阵营选前均表明不接受一国两制	接受	蓝绿阵营	一国两制	affect	inclination	neg	exp	苹果日报	2004	03	2	
+陈水扁反对一国两制	反对	陈水扁	一国两制	affect	inclination	neg	exp	苹果日报	2004	03	2	
+国民党连战及亲民党宋楚瑜，明确拒绝中方嘅所谓「一国两制」	拒绝	连战；宋楚瑜	一国两制	affect	inclination	neg	exp	苹果日报	2004	12	2	
+香港人对「「一国两制」从来是天真地假戏真做	假戏真做	香港人	一国两制	affect	inclination	neg	imp	苹果日报	2004	11	2	
+只有死蠢的你才会buy一国两制、亚洲国际都会			一国两制	affect	inclination	neg	imp	苹果日报	2004	04	2	
+中共期待连宋当选，认为只要他们执政，台湾就有走向认同「一国两制」的可能	期待	中共	连宋	affect	inclination	pos	exp	苹果日报	2004	03	2	
+中国总理温家宝先生信誓旦旦要坚持一国两制、港人治港、高度自治方针	信誓旦旦；坚持	温家宝	一国两制	affect	inclination	pos	exp	苹果日报	2004	03	2	
+北京无数次对台湾提出「一国两制」的统一模式，	提出	北京	一国两制	affect	inclination	pos	exp	苹果日报	2004	06	2	
+没有香港人会否定「一国两制	否定	我们	一国两制	affect	inclination	pos	exp	苹果日报	2004	06	2	
+吴邦国在会上强调中央坚决落实一国两制		中央	一国两制	affect	inclination	pos	exp	苹果日报	2004	03	2	
+笔者强烈奉行有中国特色的「一国两制」	奉行	笔者	一国两制	affect	inclination	pos	exp	苹果日报	2004	01	2	
+只要大家坚持一国两制		她	一国两制	affect	inclination	pos	imp	苹果日报	2004	05	2	
+港府作出限制反令人质疑过份敏感	质疑	学者	港府	affect	satisfaction	neg	exp	苹果日报	2004	09	2	
+民主派人士抗议一国两制、高度自治倒退	抗议	民主派	一国两制	affect	satisfaction	neg	exp	苹果日报	2004	04	2	
+香港人对「一国两制」的信任度却在近期大幅下跌	信任度	香港人	一国两制	affect	security	neg	exp	苹果日报	2004	04	2	
+有外人质疑一国两制如何在香港实践	质疑	有外人	一国两制	affect	security	neg	exp	苹果日报	2004	03	2	
+令人担心这是中央背弃「一国两制」承诺之举，令高度自治名存实亡	担心		中央	affect	security	neg	exp	苹果日报	2004	04	2	
+很难令台湾人对一国两制重建信心	信心	台湾人	一国两制	affect	security	neg	imp	苹果日报	2004	03	2	
+国际对香港成功运作「一国两制」的信心	信心	国际	一国两制	affect	security	pos	exp	苹果日报	2004	04	2	
+「港人治港」将变成「爱国者治港」			港人治港	appreciation	composition	neg	imp	苹果日报	2004	03	2	
+「一国两制」将变成「一国高于两制」			一国两制	appreciation	composition	neg	imp	苹果日报	2004	03	2	
+「一国两制」只是一个笨拙的政策	笨拙	英国金融时报	一国两制	appreciation	composition	neg	imp	苹果日报	2004	01	2	
+中国的官爷们总说：「一国两制，是先有一国，后有两制			一国两制	appreciation	composition	neg	imp	苹果日报	2004	05	2	
+「一国两制」，尽管是「两制」，到底是「一国」			一国两制	appreciation	composition	neg	imp	苹果日报	2004	01	2	
+一国两制已取得很好的平衡	平衡		一国两制	appreciation	composition	pos	exp	苹果日报	2004	02	2	
+CEPA正是在一国两制的基本国策和世贸规定下建立的新安排		港澳办副主任陈佐洱	CEPA	appreciation	composition	pos	imp	苹果日报	2004	03	2	
+昨天人大常委由举手机器通过的《基本法》释法草案，就程序与内容来看，都意味着要将一国两制、港人治港、高度自治推向死亡	推向死亡		《基本法》释法草案	appreciation	reaction	neg	exp	苹果日报	2004	04	2	
+所谓「爱国主义」的这种令人啼笑皆非的讨论	嘀笑皆非		爱国主义	appreciation	reaction	neg	exp	苹果日报	2004	03	2	
+「爱国主义」的讨论已经以图穷匕现之势告诉民众	图穷匕见		爱国主义的讨论	appreciation	reaction	neg	exp	苹果日报	2004	03	2	
+我们认为人大释法是破坏法治、破坏一国两制、妨碍香港民主进程的错误做法	破坏	我们	人大释法	appreciation	reaction	neg	exp	苹果日报	2004	04	2	
+民主党主席杨森批评，人大释法是企图影响九月的立法会选举，将对一国两制造成空前灾难，窒息港人的讨论空间	灾难	杨森	人大释法	appreciation	reaction	neg	exp	苹果日报	2004	03	2	
+释法的做法肯定有损整个一国两制中高度自治的理念	有损		释法	appreciation	reaction	neg	exp	苹果日报	2004	04	2	
+香港的「一国两制」失败	失败	他	一国两制	appreciation	reaction	neg	exp	苹果日报	2004	03	2	
+「一国两制」的空中楼阁	空中楼阁		一国两制	appreciation	reaction	neg	exp	苹果日报	2004	11	2	
+「一国两制」才是把香港当作可怕的政治试验场	可怕		一国两制	appreciation	reaction	neg	exp	苹果日报	2004	04	2	
+一国两制的贯彻	贯彻	周南	一国两制	appreciation	reaction	pos	exp	苹果日报	2004	08	2	
+一国两制在本港实施良好，	良好	杨森	一国两制	appreciation	reaction	pos	exp	苹果日报	2004	06	2	
+乔晓阳说，人大这次释法，中央毫无私利，都是为了香港好，为了港人的福祉，为了《基本法》的正确实施，以及「一国两制」伟大事业的成功		乔晓阳	人大释法	appreciation	reaction	pos	imp	苹果日报	2004	04	2	
+香港的「一国两制」早已成为空话	空话		一国两制	appreciation	valuation	neg	exp	苹果日报	2004	05	2	
+拿香港的「一国两制」作为统战台湾人民的套路已经失效	失效		一国两制	appreciation	valuation	neg	exp	苹果日报	2004	04	2	
+「一国两制」的民主选举游戏	游戏		一国两制	appreciation	valuation	neg	exp	苹果日报	2004	01	2	
+一国两制是骗局	骗局	陶君行	一国两制	appreciation	valuation	neg	imp	苹果日报	2004	04	2	
+一国两制已彻底破产	破产		一国两制	appreciation	valuation	neg	imp	苹果日报	2004	04	2	
+一国两制，正式玩完	玩完		一国两制	appreciation	valuation	neg	imp	苹果日报	2004	07	2	
+让港人治港、五十年不变的一国两制示范厨房，烧剩个香炉趸，即是得番一国			一国两制	appreciation	valuation	neg	imp	苹果日报	2004	01	2	
+难道一国两制就是几十年的一味研究，但结论总是无普选			一国两制	appreciation	valuation	neg	imp	苹果日报	2004	01	2	
+但这一口号在	口号		一国两制	appreciation	valuation	neg	imp	苹果日报	2004	06	2	
+CEPA就是商机，机不可失、时不再来	机不可失；时不再来	港澳办副主任陈佐洱	CEPA	appreciation	valuation	pos	exp	苹果日报	2004	03	2	
+有学者指立法会选举是向台湾展示一国两制成功的机会	机会	学者	立法会选举	appreciation	valuation	pos	exp	苹果日报	2004	09	2	
+一国两制对两岸和平统一亦很重要	重要	杨森	一国两制	appreciation	valuation	pos	exp	苹果日报	2004	06	2	
+一国两制」就是中国特色社会主义的重要组成部份	重要	文章	一国两制	appreciation	valuation	pos	exp	苹果日报	2004	02	2	
+畀台湾官员嚟香港睇选举，理论上系向台湾展示香港成功落实一国两制嘅机会		他	畀台湾官员嚟香港睇选举	appreciation	valuation	pos	imp	苹果日报	2004	09	2	
+只有依靠邓小平所诠释的广义爱国者去治港，一国两制才有政治前途			广义爱国者治港	appreciation	valuation	pos	imp	苹果日报	2004	08	2	
+必须先明白「一国两制」在中国政府全盘的政治游戏中的策略位置			一国两制	appreciation	valuation	pos	imp	苹果日报	2004	07	2	
+「一国两制」承诺给予香港的各种自由			一国两制	appreciation	valuation	pos	imp	苹果日报	2004	07	2	
+阿董连任嗰阵，咪自吹有七大贡献，包括成功落实「一国两制」	成功落实	董建华	董建华	judgement	capacity	pos	exp	苹果日报	2004	12	2	
+人大决定再次释法，粗暴干预香港民主发展，严重冲击「一国两制」	干预；冲击		大人	judgement	propriety	neg	exp	苹果日报	2004	04	2	
+拖延香港民主化	拖延	英国金融时报	董建华	judgement	propriety	neg	exp	苹果日报	2004	01	2	
+港府作出限制	限制	学者	港府	judgement	propriety	neg	exp	苹果日报	2004	09	2	
+人大常委这次匆忙释法，显然是以拙劣手法撤销香港的重要政治权利，明确违反「一国两制」的大原则	违反		人大	judgement	propriety	neg	exp	苹果日报	2004	04	2	
+报告书指出既然中方破坏一国两制	破坏	报告书	中方	judgement	propriety	neg	exp	苹果日报	2004	06	2	
+北京不会放过香港的	放过		北京	judgement	propriety	neg	imp	苹果日报	2004	03	2	
+董建华在施政报告中强调以民为本，但「投票」及「民主」两个字却失了踪	失踪	英国金融时报	董建华	judgement	propriety	neg	imp	苹果日报	2004	01	2	
+中央毫无私利，都是为了香港好，为了港人的福祉，为了《基本法》的正确实施，以及「一国两制」伟大事业的成功		乔晓阳	中央	judgement	propriety	pos	imp	苹果日报	2004	04	2	
+美国在台协会前理事主席白乐崎指北京已背离一国两制的承诺	背离	美国在台协会前理事主席白乐崎	北京	judgement	tenacity	neg	exp	苹果日报	2004	03	2	
+原来的条文是明文落实「一国两制」，董建华的回答则是「一国一制」，45条和68条是否已经无效？			董建华	judgement	tenacity	neg	imp	苹果日报	2004	07	2	
+即使回归七年来实施一国两制有困难，亦不能放弃此政策	放弃	杨森	香港	judgement	tenacity	pos	exp	苹果日报	2004	06	2	
+马英九否定在台湾推行「一国两制」政策		马英九	一国两制	affect	inclination	neg	imp	苹果日报	2005	09	2	
+中央将继续毫不动摇地坚持「一国两制」	坚持	中央	一国两制	affect	inclination	pos	exp	苹果日报	2005	03	2	
+董先生就任特首的八年间并没有树立甚么好的榜样、好的先例	榜样		董建华	affect	satisfaction	neg	exp	苹果日报	2005	03	2	
+对「一国两制」有信心的人就有六成四，上升六个百分点	信心	被访者	一国两制	affect	security	pos	imp	苹果日报	2005	01	2	
+程翔先生的案件涉及一国两制运作的敏感地带、涉及内地跟港人沟通联系的界线、涉及新闻自由的落实，这些都是对香港有重大影响的问题	敏感地带		一国两制	appreciation	composition	neg	imp	苹果日报	2005	06	2	
+「一国两制」口号式政治教育	口号式	我	一国两制	appreciation	reaction	neg	exp	苹果日报	2005	11	2	
+「一国两制」的致命缺点	缺点		一国两制	appreciation	reaction	neg	exp	苹果日报	2005	03	2	
+一国两制作为一个制度已经失败	失败		一国两制	appreciation	reaction	neg	exp	苹果日报	2005	03	2	
+一国两制陷入危机	危机		一国两制	appreciation	reaction	neg	exp	苹果日报	2005	03	2	
+可算是具有香港特色的一国两制「优越性」			一国两制	appreciation	reaction	neg	imp	苹果日报	2005	03	2	
+一国两制是伟大概念	伟大		一国两制	appreciation	reaction	pos	exp	苹果日报	2005	09	2	
+「一国两制」是中共设计师邓小平所开创的举世无双、史无前例、独一无二的政制	举世无双；史无前例；独一无二		一国两制	appreciation	reaction	pos	exp	苹果日报	2005	06	2	
+一国两制运作良好	良好	报告书	一国两制	appreciation	reaction	pos	exp	苹果日报	2005	07	2	
+没有民主，「一国两制」的政策就不可能成功		我	民主	appreciation	valuation	pos	imp	苹果日报	2005	04	2	
+我们成功地落实了「一国两制」，香港人在历史上第一次真正当家作主，我们切实维护香港是一个自由、多元、法治的社会；人权得到充份保障，民主按照宪制的规定，按部就班稳步发展			一国两制	appreciation	valuation	pos	imp	苹果日报	2005	03	2	
+香港的「一国两制、港人治港」，一度是「垂范台湾」的「橱窗」			一国两制	appreciation	valuation	pos	imp	苹果日报	2005	05	2	
+在落实一国两制、港人治港、高度自治方面有各种各样的失误	失误		董建华	judgement	capacity	neg	exp	苹果日报	2005	03	2	
+他认为黄应该加强对「一国两制」及《基本法》的掌握和理解		邬	黄仁龙	judgement	capacity	neg	imp	苹果日报	2005	10	2	
+有学者及民主派议员质疑林瑞麟，认为林瑞麟的说法十分危险，等同将一国两制、高度自治拱手奉还北京	质疑	有学者及民主派议员	林瑞麟	judgement	tenacity	neg	exp	苹果日报	2005	01	2	
+走一条从来没有人走过的路─落实『一国两制』		他	他	judgement	tenacity	pos	imp	苹果日报	2005	03	2	
+陈方安生坚持一国两制	坚持	陈方安生	一国两制	affect	inclination	pos	exp	苹果日报	2006	07	2	
+卿姐喺论坛上大骂北京	大骂		卿姐	affect	satisfaction	neg	exp	苹果日报	2006	03	2	
+卿姐最劳气	劳气		卿姐	affect	satisfaction	neg	exp	苹果日报	2006	03	2	
+前港督彭定康昨日结束为期六天的访港促销著作之行，临行前继续赞扬前任政务司司长陈方安生爱国爱港	赞扬	彭定康	陈方安生	affect	satisfaction	pos	exp	苹果日报	2006	07	2	
+陈方安生爱国爱港，十分相信一国两制	相信	陈方安生	一国两制	affect	satisfaction	pos	exp	苹果日报	2006	07	2	
+令人质疑一国两制、高度自治能否落实	质疑		一国两制	affect	security	neg	exp	苹果日报	2006	03	2	
+一位网友亦质疑奥运假期的「一国两制」	质疑	一位网友	一国两制	affect	security	neg	exp	苹果日报	2006	04	2	
+六成七人对一国两制表示有信心	信心	市民	一国两制	affect	security	pos	exp	苹果日报	2006	02	2	
+一国两制名存实亡	名存实亡	卿姐	一国两制	appreciation	valuation	neg	exp	苹果日报	2006	05	2	
+证明「一国两制」方针正确	正确	他	一国两制	appreciation	valuation	pos	exp	苹果日报	2006	10	2	
+警监破坏晒啲公信力	破坏	卿姐	警监会	judgement	propriety	neg	exp	苹果日报	2006	03	2	
+北京成日释法搞到一国两制名存实亡		卿姐	北京	judgement	propriety	neg	imp	苹果日报	2006	03	2	
+警监会泄漏啲投诉人嘅资料	泄漏	卿姐	警监会	judgement	tenacity	neg	exp	苹果日报	2006	03	2	
+「民主派」开始放弃「一国两制」的基本信念	放弃	民主派	一国两制	affect	inclination	neg	exp	苹果日报	2007	04	2	
+温总理希望香港坚持「一国两制」	希望	温家宝	一国两制	affect	inclination	pos	imp	苹果日报	2007	06	2	
+一国两制信心比率较8月份跌两个百分点		受访者	一国两制	affect	security	neg	exp	苹果日报	2007	11	2	
+对一国两制持负面信心者则较8月份微升一个百分点		受访者	一国两制	affect	security	neg	exp	苹果日报	2007	11	2	
+「一国两制」的深层次的矛盾	矛盾		一国两制	appreciation	composition	neg	exp	苹果日报	2007	06	2	
+反映「一国两制」的潜在危机	危机		一国两制	appreciation	reaction	neg	exp	苹果日报	2007	07	2	
+高透明度及坦诚沟通的两地关系	透明；坦诚	陈太	两地关系	appreciation	reaction	pos	exp	苹果日报	2007	06	2	
+「一国两制」伟大构想	伟大		一国两制	appreciation	reaction	pos	exp	苹果日报	2007	08	2	
+「一国两制」在香港是成功的	成功	周文重	一国两制	appreciation	valuation	pos	exp	苹果日报	2007	03	2	
+认为本港继续保持繁荣稳定，源于一个高透明度及坦诚沟通的两地关系		陈太	两地关系	appreciation	valuation	pos	imp	苹果日报	2007	06	2	
+陈太当年出言反驳，是捍卫一国两制的勇敢表现	捍卫		陈太	judgement	propriety	pos	exp	苹果日报	2007	10	2	
+陈太出席港台节目《香港家书》则指出，过去十年本港成功落实了一国两制	落实	陈太	本港	judgement	tenacity	pos	exp	苹果日报	2007	06	2	
+北京提出一国两制时，台湾拒绝	拒绝	台湾	一国两制	affect	inclination	neg	exp	苹果日报	2008	03	2	
+北京提出一国两制时，西藏精神领袖达赖却说可以接受	接受	达赖	一国两制	affect	inclination	pos	exp	苹果日报	2008	03	2	
+对「一国两制」提出质疑	质疑	胡佳	一国两制	affect	satisfaction	neg	exp	苹果日报	2008	04	2	
+一国两制的矛盾	矛盾		一国两制	appreciation	composition	neg	imp	苹果日报	2008	01	2	
+香港法庭可以判政府败诉，那不是证明香港落实「一国两制」成功，香港有司法独立吗？		马丁	香港法庭可以判政府败诉	affect	inclination	pos	imp	苹果日报	2009	09	3	
+令人担心北京承诺的「一国两制」、「高度自治」荡然无存	担心		一国两制	affect	security	neg	exp	苹果日报	2009	04	3	
+「澳门已经完全体现唔到有一国两制	体会不到		澳门	appreciation	reaction	neg	exp	苹果日报	2009	12	3	
+一国两制正岌岌可危	岌岌可危	李卓人	一国两制	appreciation	reaction	neg	exp	苹果日报	2009	05	3	
+一国两制早早名存实亡	名存实亡	笔者	一国两制	appreciation	reaction	neg	exp	苹果日报	2009	01	3	
+唔通系「一国两制」嘅精髓？			一国两制	appreciation	valuation	neg	imp	苹果日报	2009	12	3	
+香港落实「一国两制」成功		马丁	一国两制	appreciation	valuation	pos	imp	苹果日报	2009	09	3	
+阿爷根本「唔识宝」，不明白香港司法制度可贵地方		马丁	阿爷	judgement	capacity	neg	imp	苹果日报	2009	09	3	
+呼吁所有爱香港的香港人站出来，捍卫一国两制	捍卫	余若薇	一国两制	affect	inclination	pos	exp	苹果日报	2010	06	3	
+「一国两制」危矣	危矣		一国两制	appreciation	valuation	neg	exp	苹果日报	2010	10	3	
+这意味一国两制已名存实亡	名存实亡		一国两制	appreciation	valuation	neg	exp	苹果日报	2010	01	3	
+自行拟就「既呈现高度自治，又符合一国两制」的面子方法		曾特首	一国两制	affect	inclination	pos	imp	苹果日报	2011	02	3	
+习近平敦促港人要「全面准确地理解一国两制」方针		习近平	一国两制	affect	inclination	pos	imp	苹果日报	2011	03	3	
+大赞香港公务员为香港繁荣稳定、落实「一国两制」作出重要贡献	大赞	刘延东	香港公务员	affect	satisfaction	pos	exp	苹果日报	2011	07	3	
+市民对一国两制的信心同样下跌	信心	市民	一国两制	affect	security	neg	exp	苹果日报	2011	12	3	
+怕保不住一国两制	怕	许多人	一国两制	affect	security	neg	exp	苹果日报	2011	05	3	
+凌嘉勤称部份市民担心「被规划」及一国两制受损害	担心	市民	一国两制	affect	security	neg	exp	苹果日报	2011	02	3	
+一国两制到底还剩多少的问题	问题	王丹	一国两制	appreciation	reaction	neg	exp	苹果日报	2011	01	3	
+符合一国两制」的面子方法			一国两制	appreciation	reaction	neg	imp	苹果日报	2011	02	3	
+「一国两制」，从商业的角度，永远是乐观的	乐观		一国两制	appreciation	reaction	pos	exp	苹果日报	2011	12	3	
+曾宪梓漠视一国两制	漠视	曾宪梓	一国两制	appreciation	valuation	neg	exp	苹果日报	2011	01	3	
+「一国两制」这种游戏			一国两制	appreciation	valuation	neg	imp	苹果日报	2011	03	3	
+一国两制渐行渐远渐无声	无声		一国两制	appreciation	valuation	neg	imp	苹果日报	2011	01	3	
+证明一国两制非常成功	成功		一国两制	appreciation	valuation	pos	exp	苹果日报	2011	12	3	
+香港公务员为香港繁荣稳定、落实「一国两制」作出重要贡献		刘延东	香港公务员	judgement	tenacity	pos	imp	苹果日报	2011	07	3	
+麦淑芬，向职员发出的电邮，内容呼吁员工支持香港一国两制	呼吁	麦淑芬	一国两制	affect	inclination	pos	exp	苹果日报	2012	03	3	
+美国支持香港在一国两制下享有高度自治和法治	支持	美国	一国两制	affect	inclination	pos	imp	苹果日报	2012	10	3	
+令人感到「一国两制、港人治港」荡然无存	荡然无存		一国两制	affect	satisfaction	neg	exp	苹果日报	2012	03	3	
+不但一般市民对他有保留，建制派中不少政党、财团、专业人士同样跟他若即若离		市民；建制派	梁振英	affect	satisfaction	neg	imp	苹果日报	2012	04	3	
+担心曾钰成的共产党员身份，易被攻击成中共直接接管香港，破坏一国两制	担心	中央	曾钰成的共产党员身份	affect	security	neg	exp	苹果日报	2012	02	3	
+动摇市民对一国两制的信心	信心	市民	一国两制	affect	security	neg	exp	苹果日报	2012	02	3	
+必须把坚持一国原则和尊重两制差异、维护中央权力和保障特别行政区高度自治权、发挥祖国内地坚强后盾作用和提高港澳自身竞争力有机结合起来」，强调中央在特区的角色，以及一国先于两制的方针			一国两制	appreciation	composition	neg	imp	苹果日报	2012	11	3	
+特首选举被中联办高度干预	干预		特首选举	appreciation	reaction	neg	exp	苹果日报	2012	03	3	
+一国两制名存实亡	名存实亡		一国两制	appreciation	reaction	neg	exp	苹果日报	2012	05	3	
+纵使不是香港一国两制的末日，至少也是末日的开始			一国两制	appreciation	reaction	neg	imp	苹果日报	2012	12	3	
+一国两制、五十年不变，当初蒙骗香港人的承诺	蒙骗		一国两制	appreciation	reaction	neg	imp	苹果日报	2012	07	3	
+一国两制「避弹衣」	避弹衣		一国两制	appreciation	reaction	neg	imp	苹果日报	2012	06	3	
+话明一国两制，选举都干预		叶先生	一国两制	appreciation	reaction	neg	imp	苹果日报	2012	03	3	
+一国两制在昨日中午12时54分梁振英宣布当选一刻正式死亡	死亡	民主党五名代表	一国两制	appreciation	valuation	neg	imp	苹果日报	2012	03	3	
+一国两制、五十年不变，当初蒙骗香港人的承诺现在已被刺破	刺破		一国两制	appreciation	valuation	neg	imp	苹果日报	2012	07	3	
+「一国两制」是中央因应香港回归而提出的重大国策	重大		一国两制	appreciation	valuation	pos	exp	苹果日报	2012	01	3	
+一国两制系香港免洗脑嘅防火墙		李卓人	一国两制	appreciation	valuation	pos	imp	苹果日报	2012	07	3	
+一国两制的制度差异才令香港矜贵		陈云	一国两制	appreciation	valuation	pos	imp	苹果日报	2012	02	3	
+「一国两制」下香港被赋予的自由和法治、捍卫港人应有权益及核心价值		唐英年	一国两制	appreciation	valuation	pos	imp	苹果日报	2012	03	3	
+他们在这次特首选举中大打茅波，任意操弄选举结果，肆意破坏一国两制、港人治港原则	破坏；操弄		北京政府；梁振英	judgement	propriety	neg	exp	苹果日报	2012	04	3	
+梁振英获中联办拉票才能当选特首，明显破坏一国两制、高度自治	破坏	梁家杰	梁振英	judgement	propriety	neg	exp	苹果日报	2012	03	3	
+他们的言论、观点，不只是对香港自治权的自我阉割，更是对一国两制的公然挑衅和否定	挑衅；阉割		他们	judgement	propriety	neg	exp	苹果日报	2012	10	3	
+梁作为特首，在一国两制，河水不犯井水的原则下，梁是难以用官方立场评论六四		他	梁振英	judgement	propriety	pos	imp	苹果日报	2012	07	3	
+令三月廿五日的特首选举及在选举中胜出的梁振英缺乏认受性及公信力			梁振英	judgement	tenacity	neg	imp	苹果日报	2012	04	3	
+曾荫权仍指选举体现了一国两制、港人治港			曾荫权	judgement	veracity	neg	imp	苹果日报	2012	03	3	
+主流媒体和社团几乎没有主张回归中共实行一国两制	主张	媒体和社团	一国两制	affect	inclination	neg	exp	苹果日报	2013	04	3	
+邓小平当年希望通过「一国两制」保存的香港价值，例如法治、廉洁、新闻自由、公务员政治中立	希望	邓小平	一国两制	affect	inclination	pos	exp	苹果日报	2013	08	3	
+但他认为香港应该「一国两制」	应该	他	一国两制	affect	inclination	pos	exp	苹果日报	2013	09	3	
+刘自己要捍卫「一国两制」和香港的核心价值	捍卫	刘梦熊	一国两制	affect	inclination	pos	imp	苹果日报	2013	01	3	
+北京就曾主动游说其他国家支持「一国两制	支持	北京	一国两制	affect	inclination	pos	imp	苹果日报	2013	08	3	
+李源潮接下令公务员要认真学习、领会一国两制，支持梁施政		李源潮	一国两制	affect	inclination	pos	imp	苹果日报	2013	09	3	
+学者批评中策组角色转变	批评	学者	中策组	affect	satisfaction	neg	exp	苹果日报	2013	01	3	
+外界质疑「一国两制」受干预	质疑	外界	一国两制	affect	security	neg	exp	苹果日报	2013	04	3	
+市民对一国两制信心正面和负面比率俱为47%，得出信心净值等如零，是回归以来首次出现净值非正值的情况		市民	一国两制	affect	security	neg	imp	苹果日报	2013	06	3	
+市民对一国两制信心亦同步回升	信心	市民	一国两制	affect	security	pos	exp	苹果日报	2013	09	3	
+一国两制和《基本法》赋予的、内地人民没有的权利		她	一国两制	affect	valuation	pos	imp	苹果日报	2013	02	3	
+一国两制过渡至一国重于两制			一国两制	appreciation	composition	neg	imp	苹果日报	2013	03	3	
+狼英、土共与中联办沟合的怪胎政权	怪胎		狼英、土共与中联办沟合的怪胎政权	appreciation	reaction	neg	exp	苹果日报	2013	08	3	
+所谓「一国两制」	所谓		一国两制	appreciation	reaction	neg	exp	苹果日报	2013	06	3	
+一国两制实际上已消失	消失		一国两制	appreciation	reaction	neg	exp	苹果日报	2013	05	3	
+意味一国两制玩完	玩完	贾廷思	一国两制	appreciation	reaction	neg	exp	苹果日报	2013	08	3	
+一国两制」名存实亡	名存实亡		一国两制	appreciation	valuation	neg	exp	苹果日报	2013	05	3	
+令「一国两制」名存实亡	名存实亡		一国两制	appreciation	valuation	neg	exp	苹果日报	2013	01	3	
+但由当年邓小平承诺的一国两制、港人治港，沦为共产党治港	沦为	李柱铭	一国两制	appreciation	valuation	neg	imp	苹果日报	2013	09	3	
+如果将爱国理解为一切国家至上，一国两制的位置又在哪里			一国两制	appreciation	valuation	neg	imp	苹果日报	2013	03	3	
+反正无普选便无一国两制			一国两制	appreciation	valuation	neg	imp	苹果日报	2013	03	3	
+一国两制的宗旨是维护国家主权、安全和发展利益，保持香港繁荣稳定		王光亚	一国两制	appreciation	valuation	pos	exp	苹果日报	2013	03	3	
+通过「一国两制」保存的香港价值，例如法治、廉洁、新闻自由、公务员政治中立			一国两制	appreciation	valuation	pos	imp	苹果日报	2013	08	3	
+「一国两制」体现出的政治想像力，蕴含了一套「反现代（主权）国家的国家理论」		强世功	一国两制	appreciation	valuation	pos	imp	苹果日报	2013	11	3	
+北京已按捺不住，明目张胆摧毁一国两制	摧毁	学者	北京	judgement	propriety	neg	exp	苹果日报	2013	01	3	
+正被狼英、土共与中联办沟合的怪胎政权残暴地蹂躏	残暴；蹂躏		狼英、土共与中联办沟合的怪胎政权	judgement	propriety	neg	exp	苹果日报	2013	08	3	
+令人质疑中央直接介入香港内部事务，影响一国两制及高度自治	影响		中央	judgement	propriety	neg	exp	苹果日报	2013	12	3	
+家长组呼吁全港市民向白皮书说不	呼吁	家长组	白皮书	affect	inclination	neg	exp	苹果日报	2014	07	3	
+一国两制将不被台湾认同	认同	台湾	一国两制	affect	inclination	neg	exp	苹果日报	2014	09	4	
+争取港人治港、高度自治	争取	家长组	港人治港，高度自治	affect	inclination	pos	exp	苹果日报	2014	07	3	
+家长组促捍卫一国两制	捍卫	家长组	一国两制	affect	inclination	pos	exp	苹果日报	2014	07	3	
+觉光法师他，拥护一国两制方针，	拥护	觉光法师	一国两制	affect	inclination	pos	exp	苹果日报	2014	11	4	
+北京提出香港实行「一国两制」		北京	一国两制	affect	inclination	pos	exp	苹果日报	2014	09	4	
+不满白皮书侵蚀一国两制	不满	市民	白皮书	affect	satisfaction	neg	exp	苹果日报	2014	06	3	
+港人对「一国两制」的信心越来越低	信心	港人	一国两制	affect	security	neg	exp	苹果日报	2014	09	4	
+改变了定义的一国两制		李柱铭	一国两制	appreciation	composition	neg	imp	苹果日报	2014	06	3	
+「一国两制」已发展至一个地步，若北京政府坚持要实现「一国」的第四项立场，那就要牺牲「两制」的两项立场，两者已难再共存			一国两制	appreciation	composition	neg	imp	苹果日报	2014	02	3	
+仅余一国独大			一国两制	appreciation	composition	neg	imp	苹果日报	2014	07	3	
+白皮书侵蚀一国两制	侵蚀		白皮书	appreciation	reaction	neg	exp	苹果日报	2014	06	3	
+一国两制已失败	失败	Matthew	一国两制	appreciation	reaction	neg	exp	苹果日报	2014	05	3	
+一国两制已然失败	失败	他	一国两制	appreciation	reaction	neg	exp	苹果日报	2014	01	3	
+「一国两制」或许是一个陷阱	陷阱		一国两制	appreciation	reaction	neg	exp	苹果日报	2014	03	3	
+一国两制明明过期变坏发臭	过期；变坏；发臭		一国两制	appreciation	reaction	neg	exp	苹果日报	2014	07	3	
+「一国两制」尽毁	尽毁		一国两制	appreciation	reaction	neg	exp	苹果日报	2014	07	3	
+「一国两制」所承诺的高度自治，只是一番谎话	谎话		一国两制	appreciation	reaction	neg	exp	苹果日报	2014	09	4	
+公民党法律界议员郭荣铿指白皮书违背一国两制	违背	公民党法律界议员郭荣铿	白皮书	appreciation	reaction	neg	imp	苹果日报	2014	06	3	
+公民党立法会法律界议员郭荣铿向本报表示，抗议白皮书损害一国两制及法治精神	抗议	公民党法律界议员郭荣铿	白皮书	appreciation	reaction	neg	imp	苹果日报	2014	06	3	
+讽刺白皮书扭曲一国两制	扭曲		白皮书	appreciation	reaction	neg	imp	苹果日报	2014	06	3	
+白皮书对一国两制及高度自治的祸害	祸害	陈太；李柱铭	白皮书	appreciation	reaction	neg	imp	苹果日报	2014	07	3	
+我也不敢再说「一国两制得到有效落实	落实	我	一国两制	appreciation	reaction	neg	imp	苹果日报	2014	02	3	
+一国两制、高度自治是个庄严的承诺	庄严	市民	一国两制	appreciation	reaction	pos	exp	苹果日报	2014	07	3	
+夏伟林却罕有提及「一国两制」有其独特的宪制架构，并且行之有效及受到尊重	尊重	夏伟林	一国两制	appreciation	reaction	pos	exp	苹果日报	2014	07	3	
+什么白皮书？根本是红魔掌	红魔掌		白皮书	appreciation	valuation	neg	exp	苹果日报	2014	06	3	
+一国两制？真相是一国两踩	一国两踩		一国两制	appreciation	valuation	neg	exp	苹果日报	2014	06	3	
+，一国两制、联合声明，全部变空头支票	空头支票	我	一国两制	appreciation	valuation	neg	exp	苹果日报	2014	09	4	
+「一国两制」的发展已到了尽头	尽头		一国两制	appreciation	valuation	neg	exp	苹果日报	2014	09	4	
+唔只冇一国两制，直情衰过一国一制」		泛民	一国两制	appreciation	valuation	neg	imp	苹果日报	2014	07	3	
+在一国两制下，司法独立和法治对香港十分重要	重要	李国能	司法独立和法制	appreciation	valuation	pos	exp	苹果日报	2014	03	3	
+最宝贵的制度与文化──坚持一国两制	宝贵	钱志健	一国两制	appreciation	valuation	pos	exp	苹果日报	2014	05	3	
+英国的报告书虽然指出一国两制原则上运作良好	良好	英国的报告书	一国两制	appreciation	valuation	pos	exp	苹果日报	2014	07	3	
+「一国两制」和高度自治的原则，对香港未来的繁荣和安全至关重要	至关重要	夏伟林	一国两制	appreciation	valuation	pos	exp	苹果日报	2014	07	3	
+全国人大常委范徐丽泰昨日更直指，白皮书不是为了吓港人，或改变一国两制的内容，而是要警告外国势力不要试图破坏一国两制		范徐丽泰	白皮书	appreciation	valuation	pos	imp	苹果日报	2014	06	3	
+和平占中举办的全民投票，是市民抗假普选、真独裁的最佳武器			全民投票	appreciation	valuation	pos	imp	苹果日报	2014	06	3	
+一国两制承诺里的高度自治权、有限外交关系和保留军队等准国家权力，却证明了国民党政权对台湾的治权			一国两制	appreciation	valuation	pos	imp	苹果日报	2014	02	3	
+体现香港在一国两制下的表达自由		王永平	一国两制	appreciation	valuation	pos	imp	苹果日报	2014	06	3	
+什么白皮书？管治威吓踩到出面	管制威吓		白皮书	appreciation	reaction	neg	imp	苹果日报	2014	06	3	
+大陆官僚经营无方	经营无方		大陆官僚	judgement	capacity	neg	exp	苹果日报	2014	09	4	
+大陆官僚的傲慢与偏见	傲慢；偏见		大陆官僚	judgement	propriety	neg	exp	苹果日报	2014	09	4	
+大陆官僚毁掉香港的前途和一国两制	毁掉		大陆官僚	judgement	propriety	neg	exp	苹果日报	2014	09	4	
+忙不迭又加几脚媚主助威	媚主		官员	judgement	propriety	neg	exp	苹果日报	2014	06	3	
+梁振英当选至今，似乎不认为履行一国两制捍卫自由法治是行政长官最重要的职责			梁振英	judgement	propriety	neg	imp	苹果日报	2014	03	3	
+那些政棍奴才	政棍奴才		官员	judgement	tenacity	neg	exp	苹果日报	2014	06	3	
+重申为了下一代，他们在往后争取港人治港、高度自治的路上不会缺席	不会缺席	家长组	家长组	judgement	tenacity	pos	exp	苹果日报	2014	07	3	
+他的欺瞒起作用	欺瞒		梁振英	judgement	veracity	neg	exp	苹果日报	2014	09	4	
+表达拒绝一国两制	拒绝	球迷	一国两制	affect	inclination	neg	exp	苹果日报	2015	09	4	
+香港人与中国越离越远	越离越远	香港人	中国	affect	inclination	neg	exp	苹果日报	2015	09	4	
+欧盟发表香港年度报告，期待一国两制原则能得到充分尊重与落实	期待	欧盟	一国两制	affect	inclination	pos	exp	苹果日报	2015	04	4	
+他批评港府为冲击一国两制的政策鸣锣开道	批评	他	港府	affect	satisfaction	neg	exp	苹果日报	2015	11	4	
+有民调显示港人对本港以至一国两制前途的信心全面下跌	信心	港人	一国两制	affect	security	neg	exp	苹果日报	2015	09	4	
+市民对一国两制的信心净值在梁振英刚上任即由14.4%跌至2.4%	信心	市民	一国两制	affect	security	neg	imp	苹果日报	2015	03	4	
+一国两制界线越来越模糊	模糊	何秀兰	一国两制	appreciation	composition	neg	exp	苹果日报	2015	06	4	
+一国两制的概念是非常粗糙	粗糙		一国两制	appreciation	composition	neg	exp	苹果日报	2015	12	4	
+「一国两制」名存实亡，中港之间只有「一国」，没有「两制」			一国两制	appreciation	composition	neg	imp	苹果日报	2015	05	4	
+「一国两制」，演变到「一国」凌驾于「两制」			一国两制	appreciation	composition	neg	imp	苹果日报	2015	05	4	
+「一国两制」就是大陆高官可以做的事情，你不可以做，人家的心可以外放，你的心必须回归			一国两制	appreciation	composition	neg	imp	苹果日报	2015	02	4	
+一国两制」名存实亡	名存实亡		一国两制	appreciation	valuation	neg	exp	苹果日报	2015	05	4	
+香港一国两制名存实亡	名存实亡		一国两制	appreciation	valuation	neg	exp	苹果日报	2015	01	4	
+一国两制实践的失败	失败		一国两制	appreciation	valuation	neg	exp	苹果日报	2015	09	4	
+那香港还有「一国两制」吗			一国两制	appreciation	valuation	neg	imp	苹果日报	2015	10	4	
+中共对香港民主的打压	打压		中共	judgement	propriety	neg	exp	苹果日报	2015	09	4	
+港府为冲击一国两制的政策鸣锣开道	冲击	他	港府	judgement	propriety	neg	imp	苹果日报	2015	11	4	
+刘梦熊续斥，刘兆佳的言论意图将一国两制变成一国一制		刘梦熊	刘兆佳	judgement	propriety	neg	imp	苹果日报	2015	05	4	
+前不久去世的港澳办原主任鲁平，是推行「一国两制」政策的要角			鲁平	judgement	tenacity	pos	imp	苹果日报	2015	05	4	
+但仍抱希望	希望；	黄之锋	港人	affect	inclination	pos	exp	苹果日报	2016	01	4	
+港人醒觉人身自由不再受保障	保障	黄之锋	港人	affect	security	neg	exp	苹果日报	2016	01	4	
+对民主前路虽悲观	悲观	黄之锋	港人	affect	security	neg	exp	苹果日报	2016	01	4	
+市民对一国两制的信心趋于破灭	信心	市民	一国两制	affect	security	neg	exp	苹果日报	2016	08	4	
+一国两制失去基础	基础		一国两制	appreciation	composition	neg	exp	苹果日报	2016	06	4	
+一国两制面目全非	面目全非	李柱铭	一国两制	appreciation	composition	neg	exp	苹果日报	2016	01	4	
+一国两制遭强暴而濒危	濒危		一国两制	appreciation	reaction	neg	exp	苹果日报	2016	12	4	
+「一国两制」确是幻影	幻影		一国两制	appreciation	reaction	neg	exp	苹果日报	2016	08	4	
+继续做「一国两制」台湾人的活样板	样板		一国两制	appreciation	valuation	neg	exp	苹果日报	2016	05	4	
+令一国两制荡然无存	荡然无存	周永勤	一国两制	appreciation	valuation	neg	exp	苹果日报	2016	09	4	
+肯定法治及一国两制	肯定	张德江	一国两制	appreciation	valuation	pos	exp	苹果日报	2016	05	4	
+港独言行严重触犯咗一国两制底线，违反国家宪法、《基本法》同埋香港有关法律嘅规定	触犯；违反	张晓明	港独	judgement	propriety	neg	exp	苹果日报	2016	11	4	
+不信任「一国两制」承诺	信任		一国两制	affect	inclination	neg	exp	苹果日报	2017	07	4	
+认为港人仍应该尽力把倾向「一国」的现状拉回「两制」		他	港人仍应该尽力把倾向「一国」的现状拉回「两制」	affect	inclination	pos	imp	苹果日报	2017	12	4	
+张晓明要香港青年要正确认识一国两制		张晓明	一国两制	affect	inclination	pos	imp	苹果日报	2017	06	4	
+港人对一国两制、社会撕裂的担忧	担忧	港人	一国两制	affect	security	neg	exp	苹果日报	2017	07	4	
+认为港人仍应该尽力把倾向「一国」的现状拉回「两制」		他	一国两制	appreciation	composition	neg	imp	苹果日报	2017	12	4	
+一国两制不走样、不变形？	走样；变形	民主党	一国两制	appreciation	reaction	neg	exp	苹果日报	2017	06	4	
+只会令一国两制深受打击	打击		一国两制	appreciation	reaction	neg	imp	苹果日报	2017	10	4	
+指出「一国两制」只是抽象概念，好比现实中不存在的波函数			一国两制	appreciation	reaction	neg	imp	苹果日报	2017	06	4	
+「一国两制」可能已是当下最佳选择	最佳	有人	一国两制	appreciation	reaction	pos	exp	苹果日报	2017	12	4	
+房价高、贫富差距悬殊、青年人向上流动遇阻、产业空洞化等问题都是香港面临的重大挑战	挑战	董建华	房价高、贫富差距悬殊、青年人向上流动遇阻、产业空洞化等问题	appreciation	reaction	pos	imp	苹果日报	2017	06	4	
+《基本法》的中心可以说是一国两制	中心		一国两制	appreciation	valuation	pos	exp	苹果日报	2017	05	4	
+「一国两制」在香港取得成功	成功	董建华	一国两制	appreciation	valuation	pos	exp	苹果日报	2017	06	4	
+保障香港人权利的一国两制			一国两制	appreciation	valuation	pos	imp	苹果日报	2017	12	4	
+李嘉诚形容一国两制凸显了领导人的包容		李嘉诚	领导人	judgement	propriety	pos	imp	苹果日报	2017	06	4	
+一国两制指数会有较大跌幅			一国两制	affect	inclination	neg	imp	苹果日报	2018	02	4	
+民主党希望行政长官和特区政府必须捍卫香港人的权利，贯彻落实一国两制	希望；		一国两制	affect	inclination	pos	exp	苹果日报	2018	03	4	
+民主派反驳沈说法，批评他忽视一国两制的差异	批评	民主派	沈春耀	affect	satisfaction	neg	exp	苹果日报	2018	12	4	
+一国两制的差异		民主派	一国两制	appreciation	composition	pos	imp	苹果日报	2018	12	4	
+一国两制及《基本法》为香港设下的法治围墙便有决堤的危险	危险		一国两制	appreciation	reaction	neg	exp	苹果日报	2018	01	4	
+任何危害国家主权安全、挑战中央权力等「都是对底线的触碰」		沈春耀	危害国家主权安全、挑战中央权力	appreciation	reaction	neg	imp	苹果日报	2018	12	4	
+一国两制、出版自由荡然无存	荡然无存		一国两制	appreciation	valuation	neg	exp	苹果日报	2018	11	4	
+「一国两制」只是一个政治修辞	修辞		一国两制	appreciation	valuation	neg	imp	苹果日报	2018	02	4	
+他忽视一国两制的差异	忽视	民主派	沈春耀	judgement	tenacity	neg	exp	苹果日报	2018	12	4	
+台湾人民对一国两制自然加倍抗拒	抗拒	台湾人	一国两制	affect	inclination	neg	exp	苹果日报	2019	06	4	
+台湾朝野对习近平的一国两制统一两岸建议，反对更见坚决	反对	台湾朝野	一国两制	affect	inclination	neg	exp	苹果日报	2019	03	4	
+冇台湾人会支持一国两制	支持	台湾人	一国两制	affect	inclination	neg	exp	苹果日报	2019	01	4	
+怎会接受习主席今年初提出的「一国两制台湾方案」呢	接受	台湾同胞	一国两制	affect	inclination	neg	exp	苹果日报	2019	09	4	
+保卫我哋落实一国两制嘅运动	保卫	涂谨申	一国两制	affect	inclination	pos	imp	苹果日报	2019	10	4	
+他批评	批评	罗哲	北京政府	affect	satisfaction	neg	exp	苹果日报	2019	06	4	
+八成人反「一国两制」	反	市民	一国两制	affect	satisfaction	neg	exp	苹果日报	2019	03	4	
+一国两制，玩完喇！	玩完		一国两制	affect	security	neg	exp	苹果日报	2019	06	4	
+西方国家正判断事态发展，会开始判断一国两制是否可信	可信	西方国家	一国两制	affect	security	neg	exp	苹果日报	2019	05	4	
+外界觉得一国两制受动摇	动摇	外界	一国两制	affect	security	neg	exp	苹果日报	2019	03	4	
+港人对一国两制信心崩溃	信心崩溃	港人	一国两制	affect	security	neg	exp	苹果日报	2019	11	4	
+香港会由一国两制会变为一国一制			一国两制	appreciation	composition	neg	imp	苹果日报	2019	05	4	
+甚为荒谬、极为危险和具破坏性的《逃犯条例》修例	荒谬；危险；破坏性		《逃犯条例》修例	appreciation	reaction	neg	exp	苹果日报	2019	06	4	
+送中恶法	恶		送中	appreciation	reaction	neg	exp	苹果日报	2019	06	4	
+揭露一国两制的问题	问题	林荣基	一国两制	appreciation	reaction	neg	exp	苹果日报	2019	07	4	
+有乜天真过信一国两制			一国两制	appreciation	reaction	neg	exp	苹果日报	2019	04	4	
+一国两制实践起来是多么脆弱	脆弱		一国两制	appreciation	reaction	neg	exp	苹果日报	2019	06	4	
+一国两制应该不至沦落至此	沦落		一国两制	appreciation	reaction	neg	exp	苹果日报	2019	01	4	
+一国两制是否动摇的危急存亡之时	危机；存亡		一国两制	appreciation	reaction	neg	exp	苹果日报	2019	05	4	
+没有法治和独立司法制度的北京政府	法治；独立司法制度	罗哲	北京政府	appreciation	reaction	neg	imp	苹果日报	2019	06	4	
+没有法治的内地	法治	罗哲	内地	appreciation	reaction	neg	imp	苹果日报	2019	06	4	
+「一国两制」成为民间热门话题的时刻	热门话题	民间	一国两制	appreciation	reaction	pos	exp	苹果日报	2019	01	4	
+有法治的香港	法制	罗哲	香港	appreciation	reaction	pos	imp	苹果日报	2019	06	4	
+一国两制尚未成功	成功		一国两制	appreciation	valuation	neg	exp	苹果日报	2019	12	4	
+一国两制早已荡然无存	荡然无存		一国两制	appreciation	valuation	neg	exp	苹果日报	2019	03	4	
+不会具任何示范作用			一国两制	appreciation	valuation	neg	exp	苹果日报	2019	09	4	
+香港赤裸裸坦承「一国两制」框架被侵蚀	侵蚀		一国两制	appreciation	valuation	neg	imp	苹果日报	2019	11	4	
+仅余的一国两制	仅余		一国两制	appreciation	valuation	neg	imp	苹果日报	2019	06	4	
+单民主普选的进程被一拖再拖	一拖再拖		一国两制	appreciation	valuation	neg	imp	苹果日报	2019	01	4	
+全国人大常委会更在2014年的831决定，把民主普选之路彻底封锁了			一国两制	appreciation	valuation	neg	imp	苹果日报	2019	01	4	
+习近平，重申「和平统一、一国两制」是实现国家统一的最佳方式	最佳	习近平	一国两制	appreciation	valuation	pos	exp	苹果日报	2019	03	4	
+一国两制在香港的实践获得了举世瞩目的成功	成功	安峰山	一国两制	appreciation	valuation	pos	exp	苹果日报	2019	06	4	
+一国两制中香港的独特社会制度与价值			一国两制	appreciation	valuation	pos	exp	苹果日报	2019	10	4	
+『一国两制』伟大实践	伟大		一国两制	appreciation	valuation	pos	exp	苹果日报	2019	12	4	
+习在昨日澳门回归庆典上虽盛赞澳门成功实践一国两制	成功	习近平	一国两制	appreciation	valuation	pos	exp	苹果日报	2019	12	4	
+从而破坏有法治的香港与没有法治的内地之间的「防火墙」	破坏	罗哲	北京政府	judgement	propriety	neg	exp	苹果日报	2019	06	4	
+破坏香港仅余的一国两制	破坏	罗哲	北京政府	judgement	propriety	neg	exp	苹果日报	2019	06	4	
+中国不断介入香港选举	介入		中国	judgement	propriety	neg	exp	苹果日报	2019	03	4	
+一国两制的表皮终被中共扬弃	扬弃	中共	一国两制	affect	inclination	neg	exp	苹果日报	2020	04	4	
+超过六成受访者认为「一国两制」不适用于台湾	不适用	受访者	一国两制	affect	inclination	neg	exp	苹果日报	2020	01	4	
+城大仅表示支持一国两制	支持	城大	一国两制	affect	inclination	pos	exp	苹果日报	2020	06	4	
+习近平表明将以「一国两制」统一台湾		习近平	一国两制	affect	inclination	pos	imp	苹果日报	2020	01	4	
+香港人群起反抗	反抗		香港人	affect	satisfaction	neg	imp	苹果日报	2020	10	4	
+唔再信一国两制	信		一国两制	affect	security	neg	exp	苹果日报	2020	01	4	
+香港有「一国两制」，但加上「一国在前」、「一国为本」等注脚，「两制」即渺小			一国两制	appreciation	composition	neg	imp	苹果日报	2020	09	4	
+香港国际金融中心地位岌岌可危	岌岌可危		香港国际金融中心地位	appreciation	reaction	neg	exp	苹果日报	2020	10	4	
+一国两制败坏得好紧要	败坏	郭荣铿	一国两制	appreciation	reaction	neg	exp	苹果日报	2020	04	4	
+美中关系交恶	交恶		中美关系	appreciation	reaction	neg	exp	苹果日报	2020	10	4	
+香港成警暴之都	警暴之都		香港	appreciation	reaction	neg	imp	苹果日报	2020	10	4	
+香港已无「一国两制」	无		一国两制	appreciation	valuation	neg	exp	苹果日报	2020	04	4	
+一国两制成空谈	空谈		一国两制	appreciation	valuation	neg	exp	苹果日报	2020	10	4	
+香港转口贸易优势尽失	优势尽失		转口贸易	appreciation	valuation	neg	exp	苹果日报	2020	10	4	
+呢个立法过程正式宣布一国两制系结束咗、死亡咗	结束；死亡	胡志伟	一国两制	appreciation	valuation	neg	imp	苹果日报	2020	05	4	
+一国两制的表皮	表皮		一国两制	appreciation	reaction	neg	imp	苹果日报	2020	04	4	
+台湾人惊觉「一国两制」只是旷世谎言	谎言	台湾人	一国两制	appreciation	reaction	neg	imp	苹果日报	2020	08	4	
+自由与法治急速变质	变质		自由与法制	appreciation	valuation	neg	imp	苹果日报	2020	10	4	
+一国两制是对香港有利的政治制度	有利	吴百纳	一国两制	appreciation	reaction	pos	exp	苹果日报	2020	08	4	
+「一国两制」「冰封」了香港原有的制度和角色	冰封		一国两制	appreciation	reaction	neg	imp	苹果日报	2020	06	4	
+无异于宣布一国两制「突然死亡」	突然死亡		一国两制	appreciation	composition	neg	imp	苹果日报	2020	05	4	
+要驯服香港	驯服		中国	judgement	propriety	neg	imp	苹果日报	2020	10	4	
+大家都疑惑，甚么原因令中共在香港及全球陷入疫症灾难时，抓烂面结束一国两制	抓烂面		中共	judgement	tenacity	neg	imp	苹果日报	2020	04	4	
+中共的甜言蜜语	甜言蜜语		中共	judgement	veracity	neg	exp	苹果日报	2020	08	4	
